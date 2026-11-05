@@ -1,0 +1,39 @@
+{
+ "juntas": [
+  {
+   "id": "j-coach-01",
+   "dia": "{{D-1}}",
+   "hora": "15:00",
+   "titulo": "Career coaching — Priya Raman",
+   "archivo": "5 Sistema/canales/granola/{{D-1}} career-coaching-priya.md"
+  },
+  {
+   "id": "j-mexas-01",
+   "dia": "{{D-3}}",
+   "hora": "20:10",
+   "titulo": "Mexas dinner — Sofía Treviño",
+   "archivo": "5 Sistema/canales/granola/{{D-3}} mexas-sofia.md"
+  },
+  {
+   "id": "j-ferra-01",
+   "dia": "{{D-10}}",
+   "hora": "11:00",
+   "titulo": "Grupo Ferra — phase two scope",
+   "archivo": "5 Sistema/canales/granola/{{D-10}} grupo-ferra-fase-dos.md"
+  },
+  {
+   "id": "j-purcell-01",
+   "dia": "{{D-15}}",
+   "hora": "13:30",
+   "titulo": "Office hours — Prof. Purcell",
+   "archivo": "5 Sistema/canales/granola/{{D-15}} office-hours-purcell.md"
+  },
+  {
+   "id": "j-ferra-00",
+   "dia": "{{D-24}}",
+   "hora": "10:00",
+   "titulo": "Grupo Ferra — phase one review",
+   "archivo": "5 Sistema/canales/granola/{{D-24}} grupo-ferra-fase-uno.md"
+  }
+ ]
+}

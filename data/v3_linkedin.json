@@ -1,0 +1,37 @@
+{
+ "pelota": {
+  "actualizado": "{{D+0}}T03:14",
+  "filas": [
+   {
+    "quien": "Nathan Okafor",
+    "desde": "11 days ago",
+    "dias": "11",
+    "que": "Opened your first message twice, no reply — follow-up 2 is in Outreach"
+   },
+   {
+    "quien": "Alain Chenier",
+    "desde": "—",
+    "dias": "0",
+    "que": "Cold first message drafted — in Outreach"
+   },
+   {
+    "quien": "Dana Whitlock",
+    "desde": "yesterday",
+    "dias": "1",
+    "que": "Accepted your connection; may stop by today's NEST meeting"
+   },
+   {
+    "quien": "Three post drafts",
+    "desde": "this morning",
+    "dias": "0",
+    "que": "Waiting for your tick in Needs you · one scheduled for 8:00 tomorrow"
+   }
+  ]
+ },
+ "dias": [
+  "## Today\n**Posts.** The LinkedIn drafts agent left three posts waiting for your tick:\n1. *The supervisor's notebook* — the Ferra analogy, 140 words. Scheduled **8:00 tomorrow** if you tick it.\n2. *What a career coach cut from my application* — Priya's rule, 120 words.\n3. *Two first meetings in one day* — written after today's meetings, to post in two days.\n\n**Numbers.** Last post (*Explaining AI without the hype*): **1,200 views**, 38 reactions, 9 comments, 2 inbound messages (Matthew Hale was one). Followers: 1,184 (+41 this week).\n\n**Messages.** Dana Whitlock accepted your connection request yesterday. No new inbound today.",
+  "## Yesterday\n- **Dana Whitlock** accepted your connection. Her note: *\"Matt says you're coming by this week. I'm the skeptic.\"*\n- **You → Marcus Bell**: nothing yet — three weeks since the alumni panel. The Warm follow-up agent put him in Outreach for later this week.\n- Comment on your post from **Tomás Aguirre**: *\"This is the SME training problem Nuevo León keeps funding badly.\"* You replied with one line.",
+  "## Two days ago\n- **Rachel Whitfield** viewed your profile (after your cold mail). She replied by mail yesterday.\n- **Andrés Villarreal** connected. He shared your post to the MIT Sloan Latin America group.",
+  "## Last week\n- Post *Explaining AI without the hype* went out at 8:00 a week ago. 1,200 views in five days — your best this year.\n- **Nathan Okafor** opened your first message a second time. No reply. Follow-up 2 drafted by the Cold outreach agent.\n- **Alain Chenier** posted: *\"Every sawmill customer asks me for AI and I don't know what to promise.\"* The agent picked him for a first message."
+ ]
+}

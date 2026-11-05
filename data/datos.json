@@ -1,0 +1,2957 @@
+{
+ "ahora": "09:12",
+ "fecha": "{{D+0}} 09:12 Boston",
+ "vault": "Second Brain",
+ "sistema_existe": true,
+ "semana": {
+  "titulo": "Networking week · Boston",
+  "objetivos": [
+   {
+    "texto": "Walk out of both first meetings with one concrete next step each",
+    "hecho": false
+   },
+   {
+    "texto": "Get Daniela her two answers before the Grupo Ferra board meets",
+    "hecho": false
+   },
+   {
+    "texto": "Submit the a16z Academy application with the demo link",
+    "hecho": false
+   }
+  ],
+  "dias": [
+   {
+    "etiqueta": "{{W-2}} {{F-2}}",
+    "texto": "Mexas dinner: meet five new people, write them down before bed",
+    "hecho": true,
+    "es_hoy": false
+   },
+   {
+    "etiqueta": "{{W-1}} {{F-1}}",
+    "texto": "Draft the answers to the Ferra questions",
+    "hecho": true,
+    "es_hoy": false
+   },
+   {
+    "etiqueta": "{{W+0}} {{F+0}}",
+    "texto": "Be fully present and make others feel heard in both meetings today.",
+    "hecho": false,
+    "es_hoy": true
+   },
+   {
+    "etiqueta": "{{W+1}} {{F+1}}",
+    "texto": "Ship the one-pager to Sofía",
+    "hecho": false,
+    "es_hoy": false
+   },
+   {
+    "etiqueta": "{{W+2}} {{F+2}}",
+    "texto": "MIT club event: three conversations, no pitching",
+    "hecho": false,
+    "es_hoy": false
+   },
+   {
+    "etiqueta": "{{W+3}} {{F+3}}",
+    "texto": "",
+    "hecho": false,
+    "es_hoy": false
+   },
+   {
+    "etiqueta": "{{W+4}} {{F+4}}",
+    "texto": "",
+    "hecho": false,
+    "es_hoy": false
+   }
+  ],
+  "notas": "Boston precedence: transfer, non-negotiables, network, everything else.",
+  "vencida": false,
+  "titulo_nueva": "Next week",
+  "adelantable": false,
+  "titulo_proxima": "Next week",
+  "problema": null
+ },
+ "proxima": {
+  "titulo": "Next week",
+  "objetivos": [],
+  "dias": [],
+  "notas": "",
+  "vencida": false,
+  "titulo_nueva": "",
+  "adelantable": false,
+  "titulo_proxima": "",
+  "problema": null
+ },
+ "trimestre": {
+  "etiqueta": "Q4",
+  "nombre": "Fall quarter · Boston",
+  "quests": [
+   {
+    "texto": "Land a second consulting client outside Mexico",
+    "hecho": false
+   },
+   {
+    "texto": "A Boston network of 30 people I can call",
+    "hecho": false
+   },
+   {
+    "texto": "Finish the first semester with every course above B+",
+    "hecho": false
+   },
+   {
+    "texto": "Exo runs a full week without me touching the Mac",
+    "hecho": true
+   }
+  ],
+  "vencido": false,
+  "nombre_nuevo": "",
+  "problema": null
+ },
+ "trabajos": [
+  {
+   "slug": "registro",
+   "nombre": "New people",
+   "color": "verde",
+   "etiqueta": "03:06",
+   "mensaje": "5 new people from the Mexas dinner added to the CRM; Sofía Treviño flagged for a warm follow-up",
+   "ultima_corrida": "{{D+0}}T03:06",
+   "ultima_corrida_texto": "3:06 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 5,
+   "silencio": null,
+   "fila": "personas",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/registro/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Reads yesterday's mail, WhatsApp and meeting recordings and adds every new person to your CRM",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "seguimiento",
+   "nombre": "Warm follow-up",
+   "color": "warm",
+   "etiqueta": "People",
+   "mensaje": "2 warm follow-ups: Sofía (you owe her the one-pager) and Marcus Bell (never followed up). Priya's note went out at 08:40.",
+   "ultima_corrida": "{{D+0}}T03:18",
+   "ultima_corrida_texto": "3:18 today",
+   "proxima_corrida_texto": "3:00 tomorrow",
+   "corre_en": "cloud",
+   "produjo": 2,
+   "silencio": null,
+   "fila": "pendientes",
+   "vencido_desde": null,
+   "tiene_reloj": false,
+   "pendientes": [
+    {
+     "linea": 8,
+     "estado": "pendiente",
+     "id": "seg-sofia-trevino",
+     "cuando": "{{D+0}}T03:18",
+     "crudo": "- [ ] **Sofía Treviño** — HBS '27, met last Saturday at the Mexas dinner; offered the Back Bay family-office intro · your give, owed: the one-pager you promised her · [email](mailto:strevino@hbs.edu?subject=The%20one-pager%20I%20promised&body=Sof%C3%ADa%2C%20great%20meeting%20you%20on%20Saturday.%0A%0AHere%20is%20the%20one-pager)",
+     "texto": "**Sofía Treviño** — HBS '27, met last Saturday at the Mexas dinner · your give, owed: the one-pager",
+     "mensaje": [
+      "Sofía, great meeting you on Saturday.\n\nHere is the one-pager I promised. It is written for a family company that has heard the word \"AI\" a thousand times: what Grupo Ferra got, how, and what I would do first in a company like your friends' in Back Bay.\n\nThe numbers that matter: 31 of 38 supervisors use it every week, and the line-stop report went from 40 minutes to 6. Nobody was trained on the tool; the tool was trained on them.\n\nIf it is useful to the family office, I am happy to tell them in 20 minutes what I would do first in their company. And Saturday's coffee still stands.\n\nPablo"
+     ]
+    },
+    {
+     "linea": 9,
+     "estado": "pendiente",
+     "id": "seg-marcus-bell",
+     "cuando": "{{D+0}}T03:18",
+     "crudo": "- [ ] **Marcus Bell** — Bentley '21, associate at a Boston operations consultancy; met at the alumni panel three weeks ago · never followed up; he offered to read the one-pager · [email](mailto:marcus.bell@gmail.com?subject=The%20one-pager%20from%20the%20alumni%20panel&body=Marcus%2C%0A%0AThree%20weeks%20ago%20at%20the%20alumni%20panel%20you%20offered%20to%20)",
+     "texto": "**Marcus Bell** — Bentley '21, met at the alumni panel · never followed up",
+     "mensaje": [
+      "Marcus,\n\nThree weeks ago at the alumni panel you offered to read my one-pager and I never sent it. Here it is, one page: what a 200-person plant in Monterrey got from an AI assistant its supervisors actually use, and what I would do first at a company like your clients'.\n\nOne question, if you have two minutes: when your firm scopes an operations project, who in the client's company do you talk to first — the director or the supervisor? I keep getting a different answer from consultants and from plants.\n\nPablo"
+     ]
+    }
+   ],
+   "hechos": [
+    {
+     "linea": 7,
+     "estado": "hecho",
+     "id": "seg-priya-raman",
+     "cuando": "{{D+0}}T08:40",
+     "crudo": "- [x] **Priya Raman** — Bentley career coach, session yesterday · your give, owed: the Harrow message and the rewritten answer 2 · [email](mailto:praman@bentley.example?subject=Yesterday%20%E2%80%94%20answer%202%20and%20the%20Harrow%20message&body=Priya%2C%0A%0AThank%20you%20for%20yesterday.%20I%20rewrote%20answer%202%20your%20way)",
+     "texto": "**Priya Raman** — career coach · sent this morning 08:40",
+     "mensaje": [
+      "Priya,\n\nThank you for yesterday. I rewrote answer 2 your way (140 words) and I'm doing 4 and 5 tomorrow at 8:00, before the meetings.\n\nAttached is the Harrow message you liked and the reply I got: \"about a day, and usually wrong\". The structure works.\n\nI'll send you the full draft in two days for a last read.\n\nPablo"
+     ]
+    }
+   ],
+   "despues": [],
+   "tiene_pendientes": true,
+   "ruta_estado": "5 Sistema/trabajos/seguimiento/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "People you met and owe something to, with the message written.",
+   "tasa_de_respuesta": "5 of 7 this month",
+   "visible": "siempre"
+  },
+  {
+   "slug": "cracks",
+   "nombre": "Cold outreach",
+   "color": "blue",
+   "etiqueta": "People",
+   "mensaje": "3 people to write to today: one follow-up, two first messages. Jonah Feldstein's reply went out at 07:58.",
+   "ultima_corrida": "{{D+0}}T03:21",
+   "ultima_corrida_texto": "3:21 today",
+   "proxima_corrida_texto": "3:00 tomorrow",
+   "corre_en": "cloud",
+   "produjo": 3,
+   "silencio": null,
+   "fila": "pendientes",
+   "vencido_desde": null,
+   "tiene_reloj": false,
+   "pendientes": [
+    {
+     "linea": 14,
+     "estado": "pendiente",
+     "id": "crack-nathan-okafor-f2",
+     "cuando": "{{D+0}}T03:21",
+     "crudo": "- [ ] **Follow-up 2: Nathan Okafor** · Head of Ops, 300-person logistics firm, Ohio · **adds** opened your first message twice in 11 days and never replied; he posted about dock scheduling again last week · [email](mailto:n.okafor@midwest-freightline.com?subject=Re%3A%20Your%20dock%20supervisors%27%20numbers&body=Nathan%2C%0A%0ATwo%20weeks%20ago%20I%20asked%20how%20long%20it%20takes%20one%20of%20your) · [LinkedIn](https://www.linkedin.com/in/nathan-okafor-ops) · **haz esto:** reply in the same thread, from your Gmail (pablo@gmail.example); one question, one number, an exit",
+     "texto": "**Follow-up 2: Nathan Okafor** · Head of Ops, 300-person logistics firm, Ohio · opened your first message twice, never replied",
+     "mensaje_crack": {
+      "nombre": "Nathan Okafor",
+      "asunto": "Re: Your dock supervisors' numbers",
+      "cuerpo": "Nathan,\n\nTwo weeks ago I asked how long it takes one of your dock supervisors to get last week's dwell time. I'll guess: about a day, and usually wrong — that is what the COO of a 14-warehouse distributor told me yesterday.\n\nAt a 200-person plant in Monterrey that number went from 40 minutes to 6, with the supervisors doing it themselves. The difference was not the software: we trained the tool on how each supervisor already reports, instead of training the supervisors on the tool.\n\nIf dock scheduling is still the thing you post about, 15 minutes next week and I'll show you exactly what we did. If not, this is my last note.\n\nPablo González\nBentley University · VYNMSA"
+     }
+    },
+    {
+     "linea": 15,
+     "estado": "pendiente",
+     "id": "crack-alain-chenier",
+     "cuando": "{{D+0}}T03:21",
+     "crudo": "- [ ] **Alain Chenier — founder, 40-person inspection-camera maker for sawmills, Montreal** · **te sirve para** a founder whose customers ask for AI he does not know how to promise — your Ferra story is the answer he is looking for, and his cameras are the hardware side of the same problem · **haz esto:** first message, cold, from your VYNMSA inbox (pablo@vynmsa.example); name the sawmill shift lead, not AI · [email](mailto:alain@chenier-vision.ca?subject=What%20to%20promise%20a%20sawmill%20that%20asks%20for%20AI&body=Alain%2C%0A%0AYou%20wrote%20that%20every%20sawmill%20customer%20asks%20you%20for%20A) · [LinkedIn](https://www.linkedin.com/in/alain-chenier-vision)",
+     "texto": "**Alain Chenier — founder, Montreal** · his customers ask for AI and he does not know what to promise",
+     "mensaje_crack": {
+      "nombre": "Alain Chenier",
+      "asunto": "What to promise a sawmill that asks for AI",
+      "cuerpo": "Alain,\n\nYou wrote that every sawmill customer asks you for AI and you don't know what to promise. I'd promise them one thing: the inspection report their shift lead already writes, done in six minutes instead of forty.\n\nThat is what we did at a 200-person metal-parts plant in Monterrey: 31 of 38 supervisors use the assistant every week, because it was trained on how they report, not the other way around. Your cameras already see the board; the missing piece is the sentence the shift lead writes about it.\n\nIf you want, 15 minutes next week and I'll show you how it was scoped. I'm in Boston; Montreal is a short flight if it ever makes sense.\n\nPablo González\nBentley University · VYNMSA"
+     }
+    },
+    {
+     "linea": 16,
+     "estado": "pendiente",
+     "id": "crack-helena-strand",
+     "cuando": "{{D+0}}T03:21",
+     "crudo": "- [ ] **Helena Strand — VP Operations, 260-person furniture plant, North Carolina** · **te sirve para** a US plant with the exact problem you solved at Ferra: supervisors drowning in reports; she posted about it last week, so the timing is hers, not yours · **haz esto:** first message, cold, from your VYNMSA inbox (pablo@vynmsa.example); lead with the 40-to-6 number · [email](mailto:hstrand@nordform-us.com?subject=Supervisors%20drowning%20in%20reports&body=Helena%2C%0A%0AYour%20post%20last%20week%20about%20supervisors%20drowning%20in%20r) · [LinkedIn](https://www.linkedin.com/in/helena-strand-ops)",
+     "texto": "**Helena Strand — VP Operations, North Carolina** · posted last week about supervisors drowning in reports",
+     "mensaje_crack": {
+      "nombre": "Helena Strand",
+      "asunto": "Supervisors drowning in reports",
+      "cuerpo": "Helena,\n\nYour post last week about supervisors drowning in reports is the exact problem I spent July to October on at a 200-person metal-parts plant in Monterrey.\n\nResult: the line-stop report went from 40 minutes to 6, and 31 of 38 supervisors use the assistant every week. Nobody was trained on the tool; the tool was trained on how each supervisor already reports.\n\nIf that is the kind of thing you want in North Carolina, 15 minutes next week and I'll show you what we did and what I would not do again. If not, no follow-up from me.\n\nPablo González\nBentley University · VYNMSA"
+     }
+    }
+   ],
+   "hechos": [
+    {
+     "linea": 12,
+     "estado": "hecho",
+     "id": "crack-jonah-feldstein-reply",
+     "cuando": "{{D+0}}T07:58",
+     "crudo": "- [x] **Jonah Feldstein — owner, Feldstein Foods, Vermont** · replied three days ago asking for the short version · **haz esto:** answer in the thread from VYNMSA (pablo@vynmsa.example), three lines, offer two afternoons · [email](mailto:jonah@feldstein-foods.com?subject=Re%3A%20Supervisors%20who%20use%20the%20tool%2C%20not%20the%20other%20way%20around&body=Short%20version%3A%20we%20trained%20the%20tool%20on%20how%20each%20supervisor%20al)",
+     "texto": "**Jonah Feldstein** · replied — sent this morning 07:58",
+     "mensaje_crack": {
+      "nombre": "Jonah Feldstein",
+      "asunto": "Re: Supervisors who use the tool, not the other way around",
+      "cuerpo": "Short version: we trained the tool on how each supervisor already reports a line stop, instead of training the supervisors on the tool. Three weeks in the plant, no slides. The AI adapts to the worker, not the worker to the AI.\n\nIf that's the kind of thing you want for your plant, any afternoon in the next three days works for a call.\n\nPablo"
+     }
+    }
+   ],
+   "despues": [],
+   "tiene_pendientes": true,
+   "ruta_estado": "5 Sistema/trabajos/cracks/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Finds new people worth a cold message and drafts it in your voice.",
+   "tasa_de_respuesta": "2 of 9 this month",
+   "visible": "siempre"
+  },
+  {
+   "slug": "linkedin",
+   "nombre": "LinkedIn drafts",
+   "color": "verde",
+   "etiqueta": "03:14",
+   "mensaje": "1 post drafted on explaining AI to founders; the post from two days ago is at 1,200 views and 31 comments",
+   "ultima_corrida": "{{D+0}}T03:14",
+   "ultima_corrida_texto": "3:14 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 1,
+   "silencio": null,
+   "fila": "personas",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/linkedin/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Drafts this week's post from your notes and your meetings",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "linkedin-mac",
+   "nombre": "LinkedIn poster",
+   "color": "verde",
+   "etiqueta": "03:21",
+   "mensaje": "Liked 6 posts from people in your CRM; nothing posted, as always",
+   "ultima_corrida": "{{D+0}}T03:21",
+   "ultima_corrida_texto": "3:21 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "mac",
+   "produjo": 6,
+   "silencio": null,
+   "fila": "personas",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/linkedin-mac/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Likes the posts of people in your CRM from your own Chrome; never posts for you",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "platicas",
+   "nombre": "Events",
+   "color": "verde",
+   "etiqueta": "03:16",
+   "mensaje": "MIT club event in two days kept; 2 webinars dropped",
+   "ultima_corrida": "{{D+0}}T03:16",
+   "ultima_corrida_texto": "3:16 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 1,
+   "silencio": null,
+   "fila": "personas",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/platicas/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Reads every invitation and says which events are worth your evening",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "conectar",
+   "nombre": "Connect",
+   "color": "verde",
+   "etiqueta": "03:23",
+   "mensaje": "Nothing to send: no approved invitations this morning",
+   "ultima_corrida": "{{D+0}}T03:23",
+   "ultima_corrida_texto": "3:23 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "mac",
+   "produjo": 0,
+   "silencio": null,
+   "fila": "personas",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/conectar/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Sends the LinkedIn invitations you approved in the run",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "esperando",
+   "nombre": "Waiting for",
+   "color": "amarillo",
+   "etiqueta": "03:18",
+   "mensaje": "One item needs your call: Ernesto Salinas, silent 9 days on the class invite. The nudge is drafted.",
+   "ultima_corrida": "{{D+0}}T03:18",
+   "ultima_corrida_texto": "3:18 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 1,
+   "silencio": null,
+   "fila": "compromisos",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [
+    {
+     "id": "esp-ernesto-salinas",
+     "linea": 6,
+     "crudo": "- [ ] **Ernesto Salinas** — offered a Harvard class you can sit in on; silent 9 days · nudge drafted: \"Ernesto, is the class still on? This week or next, I'll work around your schedule.\"",
+     "texto": "**Ernesto Salinas** — offered a Harvard class you can sit in on; silent 9 days · nudge drafted: \"Ernesto, is the class still on? This week or next, I'll work around your schedule.\"",
+     "estado": "pendiente"
+    }
+   ],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": true,
+   "ruta_estado": "5 Sistema/trabajos/esperando/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Tracks what people owe you and drafts the nudge when they go quiet",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "prep",
+   "nombre": "Meeting prep",
+   "color": "verde",
+   "etiqueta": "03:12",
+   "mensaje": "2 preps written: Rebecca Lind (G19 Studio) at 10:00 and Matthew Hale (NEST) at 14:15",
+   "ultima_corrida": "{{D+0}}T03:12",
+   "ultima_corrida_texto": "3:12 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 2,
+   "silencio": null,
+   "fila": "compromisos",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/prep/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Writes a prep page for every meeting worth researching: who they are, good to know, what to ask",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "prep-mac",
+   "nombre": "Prep research",
+   "color": "verde",
+   "etiqueta": "03:08",
+   "mensaje": "Read 2 LinkedIn profiles and G19 Studio's site for today's preps",
+   "ultima_corrida": "{{D+0}}T03:08",
+   "ultima_corrida_texto": "3:08 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "mac",
+   "produjo": 2,
+   "silencio": null,
+   "fila": "compromisos",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/prep-mac/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Reads LinkedIn and the web from your Chrome for each prep",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "prep-registros",
+   "nombre": "Event registry",
+   "color": "verde",
+   "etiqueta": "03:19",
+   "mensaje": "Confirmed your spot at the MIT club event; ticket saved",
+   "ultima_corrida": "{{D+0}}T03:19",
+   "ultima_corrida_texto": "3:19 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 1,
+   "silencio": null,
+   "fila": "compromisos",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/prep-registros/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Registers you for the events you said yes to and keeps the tickets",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "bandeja",
+   "nombre": "Inbox triage",
+   "color": "verde",
+   "etiqueta": "03:04",
+   "mensaje": "41 mails labeled across 3 inboxes; 2 urgent: Daniela Ruiz (Grupo Ferra) and Rebecca Lind",
+   "ultima_corrida": "{{D+0}}T03:04",
+   "ultima_corrida_texto": "3:04 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 41,
+   "silencio": null,
+   "fila": "compromisos",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/bandeja/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Labels every mail in your inboxes, urgent first, and never replies",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "coach",
+   "nombre": "Coach",
+   "color": "verde",
+   "etiqueta": "03:24",
+   "mensaje": "Read the Mexas dinner recording: one note on hedging when you disagree in English",
+   "ultima_corrida": "{{D+0}}T03:24",
+   "ultima_corrida_texto": "3:24 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 1,
+   "silencio": null,
+   "fila": "pensamiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/coach/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Reads your meeting recordings and coaches your business English and your calibration",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "consejo",
+   "nombre": "Council",
+   "color": "verde",
+   "etiqueta": "03:26",
+   "mensaje": "Council ready: today's line comes from your note on leading from the floor",
+   "ultima_corrida": "{{D+0}}T03:26",
+   "ultima_corrida_texto": "3:26 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 1,
+   "silencio": null,
+   "fila": "pensamiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/consejo/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Prepares the Estratega and the Filósofo for the day with your own notes",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "digest",
+   "nombre": "Digest",
+   "color": "verde",
+   "etiqueta": "03:30",
+   "mensaje": "Episode 48 ready: 11 min, the Ferra scope and two Bentley readings",
+   "ultima_corrida": "{{D+0}}T03:30",
+   "ultima_corrida_texto": "3:30 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 1,
+   "silencio": null,
+   "fila": "pensamiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/digest/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Turns yesterday's reading into an episode of your private podcast",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "bentley",
+   "nombre": "Bentley",
+   "color": "verde",
+   "etiqueta": "03:33",
+   "mensaje": "7 items due; reading quiz 6 is tomorrow at 9:00. Used yesterday's Brightspace copy (today's read failed)",
+   "ultima_corrida": "{{D+0}}T03:33",
+   "ultima_corrida_texto": "3:33 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 7,
+   "silencio": null,
+   "fila": "pensamiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/bentley/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Reads Brightspace and your classes and keeps the due list honest",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "leccion",
+   "nombre": "Lesson of the day",
+   "color": "verde",
+   "etiqueta": "03:35",
+   "mensaje": "Lesson picked: you rise by going down",
+   "ultima_corrida": "{{D+0}}T03:35",
+   "ultima_corrida_texto": "3:35 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 1,
+   "silencio": null,
+   "fila": "pensamiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/leccion/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Picks one lesson from your notes that fits the day",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "estudio",
+   "nombre": "Study queue",
+   "color": "verde",
+   "etiqueta": "03:37",
+   "mensaje": "2 new items in your study queue; 1 marked learned",
+   "ultima_corrida": "{{D+0}}T03:37",
+   "ultima_corrida_texto": "3:37 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 2,
+   "silencio": null,
+   "fila": "pensamiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/estudio/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Keeps your study queue: adds what you saved, marks what you learned",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "tiempo",
+   "nombre": "Time review",
+   "color": "verde",
+   "etiqueta": "03:39",
+   "mensaje": "Yesterday: 4.2 h on your fronts against 5 planned, 1.5 h in meetings",
+   "ultima_corrida": "{{D+0}}T03:39",
+   "ultima_corrida_texto": "3:39 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 1,
+   "silencio": null,
+   "fila": "pensamiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/tiempo/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Compares the hours you planned on your fronts with the hours you spent",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "cierre",
+   "nombre": "Weekly close",
+   "color": "gris",
+   "etiqueta": "—",
+   "mensaje": "Last close kept; next one on Sunday",
+   "ultima_corrida": "{{D-2}}T03:40",
+   "ultima_corrida_texto": "2 days ago",
+   "proxima_corrida_texto": "Sunday 3:00",
+   "corre_en": "nube",
+   "produjo": 0,
+   "silencio": null,
+   "fila": "pensamiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/cierre/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Runs on Sundays: the questions only you can answer, then next week's goals",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "canales",
+   "nombre": "Channels",
+   "color": "verde",
+   "etiqueta": "03:02",
+   "mensaje": "9 channels read: 63 mails, 2 recordings, 14 tasks, 9 events",
+   "ultima_corrida": "{{D+0}}T03:02",
+   "ultima_corrida_texto": "3:02 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 9,
+   "silencio": null,
+   "fila": "mantenimiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/canales/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Copies mail, meeting recordings, Todoist and the calendars to text every morning",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "canales-mac",
+   "nombre": "Channels (Mac)",
+   "color": "rojo",
+   "etiqueta": "03:01",
+   "mensaje": "Bentley switched Brightspace to Microsoft sign-in two days ago; it needs your decision on how to read your courses. The Bentley due list uses Sunday's copy until then.",
+   "ultima_corrida": "{{D+0}}T03:01",
+   "ultima_corrida_texto": "3:01 today",
+   "proxima_corrida_texto": "Tonight 23:00 (repair), then tomorrow 3:00",
+   "corre_en": "mac",
+   "produjo": 2,
+   "silencio": null,
+   "fila": "mantenimiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/canales-mac/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Reads WhatsApp, LinkedIn and Brightspace from your own Chrome",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "aduana",
+   "nombre": "Customs",
+   "color": "verde",
+   "etiqueta": "03:43",
+   "mensaje": "2 files filed: the Ferra board deck and the EMS101 case pack",
+   "ultima_corrida": "{{D+0}}T03:43",
+   "ultima_corrida_texto": "3:43 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "mac",
+   "produjo": 2,
+   "silencio": null,
+   "fila": "mantenimiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/aduana/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Files the documents you drop in your folders and writes their note",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "taller",
+   "nombre": "Workshop",
+   "color": "verde",
+   "etiqueta": "03:46",
+   "mensaje": "Read 2 misses; queued the Channels (Mac) repair for tonight",
+   "ultima_corrida": "{{D+0}}T03:46",
+   "ultima_corrida_texto": "3:46 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 1,
+   "silencio": null,
+   "fila": "mantenimiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/taller/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "The Architect's morning pass: repairs red agents and reads your reported misses",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "juez",
+   "nombre": "Judge",
+   "color": "verde",
+   "etiqueta": "03:50",
+   "mensaje": "27 of 28 passed; Channels (Mac) failed on Brightspace",
+   "ultima_corrida": "{{D+0}}T03:50",
+   "ultima_corrida_texto": "3:50 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 28,
+   "silencio": null,
+   "fila": "mantenimiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/juez/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Grades every agent's run: ran, read, wrote, useful",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "sincronia",
+   "nombre": "Sync",
+   "color": "verde",
+   "etiqueta": "03:52",
+   "mensaje": "3 copies replaced with pointers; nothing else moved",
+   "ultima_corrida": "{{D+0}}T03:52",
+   "ultima_corrida_texto": "3:52 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 3,
+   "silencio": null,
+   "fila": "mantenimiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/sincronia/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Replaces copies of a changing fact with pointers to the one live file",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "respaldo",
+   "nombre": "Backup",
+   "color": "verde",
+   "etiqueta": "03:55",
+   "mensaje": "2,311 notes backed up; 17 files changed since the last push",
+   "ultima_corrida": "{{D+0}}T03:55",
+   "ultima_corrida_texto": "3:55 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "mac",
+   "produjo": 17,
+   "silencio": null,
+   "fila": "mantenimiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/respaldo/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Pushes the text brain to GitHub every hour",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "lider",
+   "nombre": "Orchestrators",
+   "color": "verde",
+   "etiqueta": "03:58",
+   "mensaje": "4 orchestrators reported; People asks you one question (tags for the Mexas dinner)",
+   "ultima_corrida": "{{D+0}}T03:58",
+   "ultima_corrida_texto": "3:58 today",
+   "proxima_corrida_texto": "Tomorrow 3:00",
+   "corre_en": "nube",
+   "produjo": 4,
+   "silencio": null,
+   "fila": "mantenimiento",
+   "vencido_desde": null,
+   "tiene_reloj": true,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/lider/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Four orchestrators, one per goal, check that their agents did their part and ask you only what only you can answer",
+   "tasa_de_respuesta": "",
+   "visible": "siempre"
+  },
+  {
+   "slug": "cabina",
+   "nombre": "Your day",
+   "color": "grey",
+   "etiqueta": "Thinking",
+   "mensaje": "",
+   "ultima_corrida": "{{D+0}}T03:30",
+   "ultima_corrida_texto": "3:30 today",
+   "proxima_corrida_texto": "3:00 tomorrow",
+   "corre_en": "cloud",
+   "produjo": 0,
+   "silencio": null,
+   "fila": "",
+   "vencido_desde": null,
+   "tiene_reloj": false,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/cabina/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "",
+   "tasa_de_respuesta": "",
+   "visible": "nunca"
+  }
+ ],
+ "manana": null,
+ "hoy": "# Today · {{F+0}}\n\n## What's next\n- **10:00** — Rebecca Lind · G19 Studio · Zoom · prep ready, bring the three samples\n- **12:30** — CS100 class · Prof. Marchetti · Smith 214\n- **14:15** — Matthew Hale · NEST, Kendall Square · 25 min on the Red Line, leave at 13:35\n- **Tomorrow, 09:00** — FDS100 reading quiz 6 · Prof. Okonkwo · on Brightspace\n- **In two days, 18:00** — MIT club event · Kendall Square · three conversations, no pitching\n\n## Urgent\n- **Daniela Ruiz (Grupo Ferra)** — two questions before her board decides in two days; the reply is drafted in Spanish, read it and send it\n- **Rebecca Lind asked for samples** — \"bring campaigns or content you've made\": two posts and the Ferra one-pager are in the prep\n\n## Waiting for\n- Ernesto Salinas owes you: a date to sit in on his Harvard class — silent 9 days, one nudge drafted\n- Prof. Yen owes you: the AI101 regrade — asked last week\n\n## Lesson of the day\n**You rise by going down.** A first meeting is won by the one who asks, not by the one who tells.\n> From your note *A saint in the business world: lead from the floor* — authority is earned where the work happens.\n",
+ "hoy_viejo": false,
+ "hoy_bloques": 5,
+ "hoy_ocupadas": 3,
+ "descartables": {},
+ "cerradas": [],
+ "plato": null,
+ "plato_viejo": false,
+ "documentos": "",
+ "bloques": [],
+ "bentley_decididas": {},
+ "entregas": [
+  {
+   "linea": 12,
+   "crudo": "- [ ] **FDS100** · [Reading quiz 6 — the experience machine](https://brightspace.example/fds100/quiz-6) — {{W+1}} {{F+1}}, 9:00 AM *(10 pts)*",
+   "estado": "pendiente",
+   "texto": "**FDS100** · [Reading quiz 6 — the experience machine](https://brightspace.example/fds100/quiz-6) — {{W+1}} {{F+1}}, 9:00 AM *(10 pts)*",
+   "id": "ent-fds100-1",
+   "cuando": "{{D+1}}T09:00"
+  },
+  {
+   "linea": 14,
+   "crudo": "- [ ] **CS100** · [Problem set 4 — robots that sense and act](https://brightspace.example/cs100/ps-4) — {{W+2}} {{F+2}}, 11:59 PM *(20 pts)*",
+   "estado": "pendiente",
+   "texto": "**CS100** · [Problem set 4 — robots that sense and act](https://brightspace.example/cs100/ps-4) — {{W+2}} {{F+2}}, 11:59 PM *(20 pts)*",
+   "id": "ent-cs100-2",
+   "cuando": "{{D+2}}T23:59"
+  },
+  {
+   "linea": 16,
+   "crudo": "- [ ] **EMS101** · [Case memo — a credit union's mobile onboarding](https://brightspace.example/ems101/case-memo-2) — {{W+3}} {{F+3}}, 11:59 PM *(15 pts)*",
+   "estado": "pendiente",
+   "texto": "**EMS101** · [Case memo — a credit union's mobile onboarding](https://brightspace.example/ems101/case-memo-2) — {{W+3}} {{F+3}}, 11:59 PM *(15 pts)*",
+   "id": "ent-ems101-3",
+   "cuando": "{{D+3}}T23:59"
+  },
+  {
+   "linea": 18,
+   "crudo": "- [ ] **AI101** · [Lab 3 — sampling and temperature](https://brightspace.example/ai101/lab-3) — {{W+5}} {{F+5}}, 11:59 PM *(10 pts)*",
+   "estado": "pendiente",
+   "texto": "**AI101** · [Lab 3 — sampling and temperature](https://brightspace.example/ai101/lab-3) — {{W+5}} {{F+5}}, 11:59 PM *(10 pts)*",
+   "id": "ent-ai101-4",
+   "cuando": "{{D+5}}T23:59"
+  },
+  {
+   "linea": 20,
+   "crudo": "- [ ] **CS100** · [Reading — warehouse robots and the last mile](https://brightspace.example/cs100/reading-9) — {{W+6}} {{F+6}}, 12:30 PM *(before class)*",
+   "estado": "pendiente",
+   "texto": "**CS100** · [Reading — warehouse robots and the last mile](https://brightspace.example/cs100/reading-9) — {{W+6}} {{F+6}}, 12:30 PM *(before class)*",
+   "id": "ent-cs100-5",
+   "cuando": "{{D+6}}T12:30"
+  },
+  {
+   "linea": 22,
+   "crudo": "- [ ] **EMS101** · [Team charter](https://brightspace.example/ems101/team-charter) — {{W+8}} {{F+8}}, 11:59 PM *(5 pts)*",
+   "estado": "pendiente",
+   "texto": "**EMS101** · [Team charter](https://brightspace.example/ems101/team-charter) — {{W+8}} {{F+8}}, 11:59 PM *(5 pts)*",
+   "id": "ent-ems101-6",
+   "cuando": "{{D+8}}T23:59"
+  },
+  {
+   "linea": 24,
+   "crudo": "- [ ] **FDS100** · [Essay 2 — are good-enough decisions rational?](https://brightspace.example/fds100/essay-2) — {{W+9}} {{F+9}}, 11:59 PM *(25 pts)*",
+   "estado": "pendiente",
+   "texto": "**FDS100** · [Essay 2 — are good-enough decisions rational?](https://brightspace.example/fds100/essay-2) — {{W+9}} {{F+9}}, 11:59 PM *(25 pts)*",
+   "id": "ent-fds100-7",
+   "cuando": "{{D+9}}T23:59"
+  },
+  {
+   "linea": 26,
+   "crudo": "- [ ] **AI101** · [Reading quiz 5](https://brightspace.example/ai101/quiz-5) — {{W-1}} {{F-1}}, 9:00 AM *(10 pts)*",
+   "estado": "hecho",
+   "texto": "**AI101** · [Reading quiz 5](https://brightspace.example/ai101/quiz-5) — {{W-1}} {{F-1}}, 9:00 AM *(10 pts)*",
+   "id": "ent-ai101-8",
+   "cuando": "{{D-1}}T09:00"
+  }
+ ],
+ "coach": [],
+ "aprendizaje": {
+  "estudio": {
+   "items": [
+    {
+     "id": "estudio-anthropic-01",
+     "titulo": "Building effective agents (Anthropic)",
+     "fuente": "Article · anthropic.com",
+     "minutos": 25,
+     "cuadrante": "Q1",
+     "estado": "abierto",
+     "suyo": true,
+     "fecha": "{{F-2}}",
+     "linea": 14,
+     "por_que": "By this article's own split, your Exo agents are workflows, not agents. Knowing which is which is the first thing an a16z reader will test. It is the block for {{W+3}}.",
+     "texto": "Building effective agents (Anthropic) · 25 min · for the {{W+3}} block. Workflows vs agents, and when a simple chain beats an autonomous loop. Why this week: an a16z reader will ask which one Exo is.",
+     "crudo": "- [ ] Building effective agents (Anthropic) · 25 min · for the {{W+3}} block. Workflows vs agents, and when a simple chain beats an autonomous loop. Why this week: an a16z reader will ask which one Exo is. <!-- estudio-anthropic-01 · Q1 -->",
+     "correlo": [
+      "Deep study session (~1.5 h): Building effective agents (Anthropic). Start from what I already wrote in my second brain about it, then read the source itself. Give me the 80/20 in my own words, three questions it answers for my week, and one thing I should change because of it."
+     ]
+    },
+    {
+     "id": "estudio-goldratt-02",
+     "titulo": "Goldratt: the one constraint",
+     "fuente": "The Goal, the bottleneck chapters",
+     "minutos": 20,
+     "cuadrante": "Q1",
+     "estado": "abierto",
+     "suyo": false,
+     "fecha": "{{F-1}}",
+     "linea": 17,
+     "por_que": "Daniela's board meets {{W+2}}. The whole pilot pitch is one sentence from these chapters: find the constraint and subordinate everything else to it.",
+     "texto": "Goldratt, the one constraint · 20 min · for Grupo Ferra before {{W+2}}. Find the constraint, exploit it, subordinate everything to it. Why this week: the board's two questions are both about the constraint.",
+     "crudo": "- [ ] Goldratt, the one constraint · 20 min · for Grupo Ferra before {{W+2}}. Find the constraint, exploit it, subordinate everything to it. Why this week: the board's two questions are both about the constraint. <!-- estudio-goldratt-02 · Q1 -->",
+     "correlo": [
+      "Deep study session (~1.5 h): Goldratt: the one constraint. Start from what I already wrote in my second brain about it, then read the source itself. Give me the 80/20 in my own words, three questions it answers for my week, and one thing I should change because of it."
+     ]
+    },
+    {
+     "id": "estudio-podcast-03",
+     "titulo": "Podcast clip: slope over experience",
+     "fuente": "Podcast clip · 9 min",
+     "minutos": 9,
+     "cuadrante": "Q2",
+     "estado": "abierto",
+     "suyo": true,
+     "fecha": "{{F-3}}",
+     "linea": 20,
+     "por_que": "NEST's founders are hiring their first AI person. This is the argument for a first-year student over a ten-year consultant, which is your argument.",
+     "texto": "Podcast clip, slope over experience · 9 min. Hire for the rate of learning, not the years. Why this week: it is the case for you at NEST, in someone else's words.",
+     "crudo": "- [ ] Podcast clip, slope over experience · 9 min. Hire for the rate of learning, not the years. Why this week: it is the case for you at NEST, in someone else's words. <!-- estudio-podcast-03 · Q2 -->",
+     "correlo": [
+      "Deep study session (~1.5 h): Podcast clip: slope over experience. Start from what I already wrote in my second brain about it, then read the source itself. Give me the 80/20 in my own words, three questions it answers for my week, and one thing I should change because of it."
+     ]
+    },
+    {
+     "id": "estudio-reel-04",
+     "titulo": "Reel: why polymaths win",
+     "fuente": "Reel · 3 min",
+     "minutos": 3,
+     "cuadrante": "Q2",
+     "estado": "abierto",
+     "suyo": true,
+     "fecha": "{{F-4}}",
+     "linea": 23,
+     "por_que": "Prof. Yen asked what you are: student, consultant or builder. Three minutes on why the combination is the point, not the problem.",
+     "texto": "Reel, why polymaths win · 3 min. Specialists go deep, polymaths connect; the edge is in the connections. Why this week: the answer to Prof. Yen's question.",
+     "crudo": "- [ ] Reel, why polymaths win · 3 min. Specialists go deep, polymaths connect; the edge is in the connections. Why this week: the answer to Prof. Yen's question. <!-- estudio-reel-04 · Q2 -->",
+     "correlo": [
+      "Deep study session (~1.5 h): Reel: why polymaths win. Start from what I already wrote in my second brain about it, then read the source itself. Give me the 80/20 in my own words, three questions it answers for my week, and one thing I should change because of it."
+     ]
+    }
+   ],
+   "aprendidos": 9,
+   "no_utiles": 3,
+   "abiertos": 4
+  },
+  "preguntas": [],
+  "subrayados": [],
+  "gustaron": 12,
+  "no_gustaron": 2,
+  "tarjetas": [
+   {
+    "titulo": "What did Prof. Marchetti say is the one mistake teams make i",
+    "categoria": "CS100",
+    "linea": 112,
+    "crudo": "- [ ] **What did Prof. Marchetti say is the one mistake teams make in the RIA project?** → Dividing the work by section instead of by argument — every section ends up with a different thesis. <!-- fsrs: CS100 · proximo {{D+0}} · racha 2 -->",
+    "proximo": "{{D+0}}",
+    "racha": 2,
+    "previa": {
+     "otra-vez": 0,
+     "dificil": 1,
+     "bien": 5,
+     "facil": 11
+    },
+    "pregunta": "What did Prof. Marchetti say is the one mistake teams make in the RIA project?",
+    "respuesta": "Dividing the work by section instead of by argument — every section ends up with a different thesis.",
+    "doble": false,
+    "invertida": false
+   },
+   {
+    "titulo": "How long should the RIA opening paragraph take to read aloud",
+    "categoria": "CS100",
+    "linea": 115,
+    "crudo": "- [ ] **How long should the RIA opening paragraph take to read aloud, per Prof. Marchetti?** → Under 40 seconds. If it takes longer, the thesis is hiding. <!-- fsrs: CS100 · proximo {{D+0}} · racha 1 -->",
+    "proximo": "{{D+0}}",
+    "racha": 1,
+    "previa": {
+     "otra-vez": 0,
+     "dificil": 1,
+     "bien": 4,
+     "facil": 9
+    },
+    "pregunta": "How long should the RIA opening paragraph take to read aloud, per Prof. Marchetti?",
+    "respuesta": "Under 40 seconds. If it takes longer, the thesis is hiding.",
+    "doble": false,
+    "invertida": false
+   },
+   {
+    "titulo": "Which source does the RIA rubric weigh most?",
+    "categoria": "CS100",
+    "linea": 118,
+    "crudo": "- [ ] **Which source does the RIA rubric weigh most?** → Primary sources you read yourself; a quoted summary of a source counts for half. <!-- fsrs: CS100 · proximo {{D+0}} · racha 3 -->",
+    "proximo": "{{D+0}}",
+    "racha": 3,
+    "previa": {
+     "otra-vez": 0,
+     "dificil": 1,
+     "bien": 6,
+     "facil": 13
+    },
+    "pregunta": "Which source does the RIA rubric weigh most?",
+    "respuesta": "Primary sources you read yourself; a quoted summary of a source counts for half.",
+    "doble": false,
+    "invertida": false
+   },
+   {
+    "titulo": "What did Daniela Ruiz say is the plant's real bottleneck?",
+    "categoria": "Grupo Ferra",
+    "linea": 121,
+    "crudo": "- [ ] **What did Daniela Ruiz say is the plant's real bottleneck?** → Quality release at the end of the line: 2.5 shifts of product wait on one inspector's sign-off. <!-- fsrs: Grupo Ferra · proximo {{D+0}} · racha 1 -->",
+    "proximo": "{{D+0}}",
+    "racha": 1,
+    "previa": {
+     "otra-vez": 0,
+     "dificil": 1,
+     "bien": 4,
+     "facil": 9
+    },
+    "pregunta": "What did Daniela Ruiz say is the plant's real bottleneck?",
+    "respuesta": "Quality release at the end of the line: 2.5 shifts of product wait on one inspector's sign-off.",
+    "doble": false,
+    "invertida": false
+   },
+   {
+    "titulo": "What are Daniela's two questions for the board?",
+    "categoria": "Grupo Ferra",
+    "linea": 124,
+    "crudo": "- [ ] **What are Daniela's two questions for the board?** → Can the AI pilot start on one line without stopping production, and who answers if a release is wrong. <!-- fsrs: Grupo Ferra · proximo {{D+0}} · racha 0 -->",
+    "proximo": "{{D+0}}",
+    "racha": 0,
+    "previa": {
+     "otra-vez": 0,
+     "dificil": 1,
+     "bien": 3,
+     "facil": 7
+    },
+    "pregunta": "What are Daniela's two questions for the board?",
+    "respuesta": "Can the AI pilot start on one line without stopping production, and who answers if a release is wrong.",
+    "doble": false,
+    "invertida": false
+   },
+   {
+    "titulo": "Why did Prof. Purcell introduce you to Rebecca Lind?",
+    "categoria": "Meetings",
+    "linea": 127,
+    "crudo": "- [ ] **Why did Prof. Purcell introduce you to Rebecca Lind?** → G19 builds custom AI for mid-size firms and has no one who has sat on the client's side of a plant floor. <!-- fsrs: Meetings · proximo {{D+0}} · racha 1 -->",
+    "proximo": "{{D+0}}",
+    "racha": 1,
+    "previa": {
+     "otra-vez": 0,
+     "dificil": 1,
+     "bien": 4,
+     "facil": 9
+    },
+    "pregunta": "Why did Prof. Purcell introduce you to Rebecca Lind?",
+    "respuesta": "G19 builds custom AI for mid-size firms and has no one who has sat on the client's side of a plant floor.",
+    "doble": false,
+    "invertida": false
+   },
+   {
+    "titulo": "What did Rebecca Lind ask you to bring to the first meeting?",
+    "categoria": "Meetings",
+    "linea": 130,
+    "crudo": "- [ ] **What did Rebecca Lind ask you to bring to the first meeting?** → Campaigns or content you have made. She wants to see output, not a résumé. <!-- fsrs: Meetings · proximo {{D+0}} · racha 0 -->",
+    "proximo": "{{D+0}}",
+    "racha": 0,
+    "previa": {
+     "otra-vez": 0,
+     "dificil": 1,
+     "bien": 3,
+     "facil": 7
+    },
+    "pregunta": "What did Rebecca Lind ask you to bring to the first meeting?",
+    "respuesta": "Campaigns or content you have made. She wants to see output, not a résumé.",
+    "doble": false,
+    "invertida": false
+   }
+  ],
+  "esperan": 3,
+  "mazo_total": 148,
+  "proxima_tarjeta": "{{D+1}}",
+  "categorias": [
+   "CS100",
+   "FDS100",
+   "EMS101",
+   "AI101",
+   "Grupo Ferra",
+   "Meetings",
+   "Faith",
+   "Communication"
+  ]
+ },
+ "newsletter": {
+  "minutos": 11,
+  "dias": 48,
+  "letras": 3,
+  "url": "https://podcasts.example/jarvis-digest/48",
+  "episodio": {
+   "titulo": "Episode 48 — the Ferra scope, and two readings",
+   "cuando": "{{D+0}}T06:30",
+   "minutos": 11
+  }
+ },
+ "avisos": [],
+ "hoy_generado": "03:41",
+ "p1": {
+  "tareas": [
+   {
+    "id": "td-9120044101",
+    "texto": "Reply to Daniela Ruiz — the two Grupo Ferra questions before the board",
+    "cerrada": false
+   },
+   {
+    "id": "td-9120044102",
+    "texto": "Bring three samples for Rebecca Lind: two posts and the Ferra one-pager",
+    "cerrada": false
+   }
+  ],
+  "copia": "{{D+0}} 03:05"
+ },
+ "actividad": [
+  {
+   "hora": "03:01",
+   "nombre": "Channels (Mac)",
+   "resultado": "fallo",
+   "nota": "Bentley switched Brightspace to Microsoft sign-in two days ago; it needs your decision on how to read your courses. The Bentley due list uses Sunday's copy until then.",
+   "trabajo": "canales-mac"
+  },
+  {
+   "hora": "03:02",
+   "nombre": "Channels",
+   "resultado": "ok",
+   "nota": "9 channels read: 63 mails, 2 recordings, 14 tasks, 9 events",
+   "trabajo": "canales"
+  },
+  {
+   "hora": "03:04",
+   "nombre": "Inbox triage",
+   "resultado": "ok",
+   "nota": "41 mails labeled across 3 inboxes; 2 urgent: Daniela Ruiz (Grupo Ferra) and Rebecca Lind",
+   "trabajo": "bandeja"
+  },
+  {
+   "hora": "03:06",
+   "nombre": "New people",
+   "resultado": "ok",
+   "nota": "5 new people from the Mexas dinner added to the CRM; Sofía Treviño flagged for a warm follow-up",
+   "trabajo": "registro"
+  },
+  {
+   "hora": "03:08",
+   "nombre": "Prep research",
+   "resultado": "ok",
+   "nota": "Read 2 LinkedIn profiles and G19 Studio's site for today's preps",
+   "trabajo": "prep-mac"
+  },
+  {
+   "hora": "03:09",
+   "nombre": "Warm follow-up",
+   "resultado": "ok",
+   "nota": "2 warm messages drafted: Sofía Treviño (the one-pager you promised) and Marcus Bell (never followed up)",
+   "trabajo": "seguimiento"
+  },
+  {
+   "hora": "03:11",
+   "nombre": "Cold outreach",
+   "resultado": "ok",
+   "nota": "2 cold messages and 1 follow-up ready: Alain Chenier, Helena Strand, Nathan Okafor (opened your first message twice)",
+   "trabajo": "cracks"
+  },
+  {
+   "hora": "03:12",
+   "nombre": "Meeting prep",
+   "resultado": "ok",
+   "nota": "2 preps written: Rebecca Lind (G19 Studio) at 10:00 and Matthew Hale (NEST) at 14:15",
+   "trabajo": "prep"
+  },
+  {
+   "hora": "03:14",
+   "nombre": "LinkedIn drafts",
+   "resultado": "ok",
+   "nota": "1 post drafted on explaining AI to founders; the post from two days ago is at 1,200 views and 31 comments",
+   "trabajo": "linkedin"
+  },
+  {
+   "hora": "03:16",
+   "nombre": "Events",
+   "resultado": "ok",
+   "nota": "MIT club event in two days kept; 2 webinars dropped",
+   "trabajo": "platicas"
+  },
+  {
+   "hora": "03:18",
+   "nombre": "Waiting for",
+   "resultado": "ok",
+   "nota": "One item needs your call: Ernesto Salinas, silent 9 days on the class invite. The nudge is drafted.",
+   "trabajo": "esperando"
+  },
+  {
+   "hora": "03:19",
+   "nombre": "Event registry",
+   "resultado": "ok",
+   "nota": "Confirmed your spot at the MIT club event; ticket saved",
+   "trabajo": "prep-registros"
+  },
+  {
+   "hora": "03:21",
+   "nombre": "LinkedIn poster",
+   "resultado": "ok",
+   "nota": "Liked 6 posts from people in your CRM; nothing posted, as always",
+   "trabajo": "linkedin-mac"
+  },
+  {
+   "hora": "03:23",
+   "nombre": "Connect",
+   "resultado": "sin-novedad",
+   "nota": "Nothing to send: no approved invitations this morning",
+   "trabajo": "conectar"
+  },
+  {
+   "hora": "03:24",
+   "nombre": "Coach",
+   "resultado": "ok",
+   "nota": "Read the Mexas dinner recording: one note on hedging when you disagree in English",
+   "trabajo": "coach"
+  },
+  {
+   "hora": "03:26",
+   "nombre": "Council",
+   "resultado": "ok",
+   "nota": "Council ready: today's line comes from your note on leading from the floor",
+   "trabajo": "consejo"
+  },
+  {
+   "hora": "03:30",
+   "nombre": "Digest",
+   "resultado": "ok",
+   "nota": "Episode 48 ready: 11 min, the Ferra scope and two Bentley readings",
+   "trabajo": "digest"
+  },
+  {
+   "hora": "03:33",
+   "nombre": "Bentley",
+   "resultado": "ok",
+   "nota": "7 items due; reading quiz 6 is tomorrow at 9:00. Used yesterday's Brightspace copy (today's read failed)",
+   "trabajo": "bentley"
+  },
+  {
+   "hora": "03:35",
+   "nombre": "Lesson of the day",
+   "resultado": "ok",
+   "nota": "Lesson picked: you rise by going down",
+   "trabajo": "leccion"
+  },
+  {
+   "hora": "03:37",
+   "nombre": "Study queue",
+   "resultado": "ok",
+   "nota": "2 new items in your study queue; 1 marked learned",
+   "trabajo": "estudio"
+  },
+  {
+   "hora": "03:39",
+   "nombre": "Time review",
+   "resultado": "ok",
+   "nota": "Yesterday: 4.2 h on your fronts against 5 planned, 1.5 h in meetings",
+   "trabajo": "tiempo"
+  },
+  {
+   "hora": "03:43",
+   "nombre": "Customs",
+   "resultado": "ok",
+   "nota": "2 files filed: the Ferra board deck and the EMS101 case pack",
+   "trabajo": "aduana"
+  },
+  {
+   "hora": "03:46",
+   "nombre": "Workshop",
+   "resultado": "ok",
+   "nota": "Read 2 misses; queued the Channels (Mac) repair for tonight",
+   "trabajo": "taller"
+  },
+  {
+   "hora": "03:50",
+   "nombre": "Judge",
+   "resultado": "ok",
+   "nota": "27 of 28 passed; Channels (Mac) failed on Brightspace",
+   "trabajo": "juez"
+  },
+  {
+   "hora": "03:52",
+   "nombre": "Sync",
+   "resultado": "ok",
+   "nota": "3 copies replaced with pointers; nothing else moved",
+   "trabajo": "sincronia"
+  },
+  {
+   "hora": "03:55",
+   "nombre": "Backup",
+   "resultado": "ok",
+   "nota": "2,311 notes backed up; 17 files changed since the last push",
+   "trabajo": "respaldo"
+  },
+  {
+   "hora": "03:58",
+   "nombre": "Orchestrators",
+   "resultado": "ok",
+   "nota": "4 orchestrators reported; People asks you one question (tags for the Mexas dinner)",
+   "trabajo": "lider"
+  },
+  {
+   "hora": "05:00",
+   "nombre": "Backup",
+   "resultado": "ok",
+   "nota": "Hourly push: 3 files changed",
+   "trabajo": "respaldo"
+  },
+  {
+   "hora": "06:00",
+   "nombre": "Backup",
+   "resultado": "ok",
+   "nota": "Hourly push: 4 files changed",
+   "trabajo": "respaldo"
+  },
+  {
+   "hora": "07:00",
+   "nombre": "Backup",
+   "resultado": "ok",
+   "nota": "Hourly push: 5 files changed",
+   "trabajo": "respaldo"
+  },
+  {
+   "hora": "08:00",
+   "nombre": "Backup",
+   "resultado": "ok",
+   "nota": "Hourly push: 6 files changed",
+   "trabajo": "respaldo"
+  }
+ ],
+ "mananas": [
+  {
+   "fecha": "{{D-34}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-33}}",
+   "estado": "urgente"
+  },
+  {
+   "fecha": "{{D-32}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-31}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-30}}",
+   "estado": "urgente"
+  },
+  {
+   "fecha": "{{D-29}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-28}}",
+   "estado": "descanso"
+  },
+  {
+   "fecha": "{{D-27}}",
+   "estado": "incompleta"
+  },
+  {
+   "fecha": "{{D-26}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-25}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-24}}",
+   "estado": "urgente"
+  },
+  {
+   "fecha": "{{D-23}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-22}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-21}}",
+   "estado": "descanso"
+  },
+  {
+   "fecha": "{{D-20}}",
+   "estado": "incompleta"
+  },
+  {
+   "fecha": "{{D-19}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-18}}",
+   "estado": "urgente"
+  },
+  {
+   "fecha": "{{D-17}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-16}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-15}}",
+   "estado": "urgente"
+  },
+  {
+   "fecha": "{{D-14}}",
+   "estado": "descanso"
+  },
+  {
+   "fecha": "{{D-13}}",
+   "estado": "incompleta"
+  },
+  {
+   "fecha": "{{D-12}}",
+   "estado": "urgente"
+  },
+  {
+   "fecha": "{{D-11}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-10}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-9}}",
+   "estado": "urgente"
+  },
+  {
+   "fecha": "{{D-8}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-7}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-6}}",
+   "estado": "descanso"
+  },
+  {
+   "fecha": "{{D-5}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-4}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-3}}",
+   "estado": "urgente"
+  },
+  {
+   "fecha": "{{D-2}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D-1}}",
+   "estado": "completa"
+  },
+  {
+   "fecha": "{{D+0}}",
+   "estado": "pendiente"
+  }
+ ],
+ "confianza": {
+  "desde": "{{D-30}}",
+  "agentes": {},
+  "orquestadores": {}
+ },
+ "agentes": {
+  "orquestadores": [
+   {
+    "clave": "personas",
+    "nombre": "People",
+    "lider": "lider-personas",
+    "meta": "Pablo meets the right people and never loses one: every new person lands in the CRM, every promise gets its follow-up, and five messages leave each day.",
+    "miembros": [
+     "registro",
+     "seguimiento",
+     "cracks",
+     "linkedin",
+     "linkedin-mac",
+     "platicas",
+     "conectar"
+    ]
+   },
+   {
+    "clave": "compromisos",
+    "nombre": "Commitments",
+    "lider": "lider-compromisos",
+    "meta": "Nothing Pablo owes or is owed slips: every meeting has its prep, every open thread its nudge, every inbox its label.",
+    "miembros": [
+     "esperando",
+     "prep",
+     "prep-mac",
+     "prep-registros",
+     "bandeja"
+    ]
+   },
+   {
+    "clave": "pensamiento",
+    "nombre": "Thinking",
+    "lider": "lider-pensamiento",
+    "meta": "Pablo thinks better every day: one lesson, one council line, his reading as audio, his courses on time, his time reviewed.",
+    "miembros": [
+     "coach",
+     "consejo",
+     "digest",
+     "bentley",
+     "leccion",
+     "estudio",
+     "tiempo",
+     "cierre"
+    ]
+   },
+   {
+    "clave": "mantenimiento",
+    "nombre": "Upkeep",
+    "lider": "lider-mantenimiento",
+    "meta": "The brain stays text, backed up, synced and judged, and every red agent gets repaired the same day.",
+    "miembros": [
+     "canales",
+     "canales-mac",
+     "aduana",
+     "taller",
+     "juez",
+     "sincronia",
+     "respaldo",
+     "lider"
+    ]
+   }
+  ],
+  "agentes": [],
+  "problemas": [],
+  "atencion": {
+   "fecha": "{{D+0}}T03:46",
+   "filas": {}
+  },
+  "historia": []
+ },
+ "salud": {
+  "agentes": [
+   {
+    "id": "registro",
+    "nombre": "New people",
+    "tipo": "agente",
+    "orquestador": "personas",
+    "hace": "Reads yesterday's mail, WhatsApp and meeting recordings and adds every new person to your CRM",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:06 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 63 mails, 2 recordings and what was said on WhatsApp"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 5 CRM pages"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 95,
+    "ultima": "{{D+0}}T03:06",
+    "ultima_texto": "3:06 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 5,
+    "mensaje": "5 new people from the Mexas dinner added to the CRM; Sofía Treviño flagged for a warm follow-up",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "5 new people from the Mexas dinner added to the CRM; Sofía Treviño flagged for a warm follow-up",
+    "arreglado": ""
+   },
+   {
+    "id": "seguimiento",
+    "nombre": "Warm follow-up",
+    "tipo": "agente",
+    "orquestador": "personas",
+    "hace": "Finds the people you met once and never wrote to, and drafts the message",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:09 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 5 new CRM pages and your sent mail"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 1 draft in Spanish with its English under it"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 89,
+    "ultima": "{{D+0}}T03:09",
+    "ultima_texto": "3:09 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 2,
+    "mensaje": "2 warm messages drafted: Sofía Treviño (the one-pager you promised) and Marcus Bell (never followed up)",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "2 warm messages drafted: Sofía Treviño (the one-pager you promised) and Marcus Bell (never followed up)",
+    "arreglado": ""
+   },
+   {
+    "id": "cracks",
+    "nombre": "Cold outreach",
+    "tipo": "agente",
+    "orquestador": "personas",
+    "hace": "Picks new people worth a cold message and writes it in your voice",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:11 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 14 candidate profiles and 2 open threads"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 3 messages"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 87,
+    "ultima": "{{D+0}}T03:11",
+    "ultima_texto": "3:11 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 3,
+    "mensaje": "2 cold messages and 1 follow-up ready: Alain Chenier, Helena Strand, Nathan Okafor (opened your first message twice)",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "2 cold messages and 1 follow-up ready: Alain Chenier, Helena Strand, Nathan Okafor (opened your first message twice)",
+    "arreglado": ""
+   },
+   {
+    "id": "linkedin",
+    "nombre": "LinkedIn drafts",
+    "tipo": "agente",
+    "orquestador": "personas",
+    "hace": "Drafts this week's post from your notes and your meetings",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:14 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 3 notes and the LinkedIn copy"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 1 draft"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 94,
+    "ultima": "{{D+0}}T03:14",
+    "ultima_texto": "3:14 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 1,
+    "mensaje": "1 post drafted on explaining AI to founders; the post from two days ago is at 1,200 views and 31 comments",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "1 post drafted on explaining AI to founders; the post from two days ago is at 1,200 views and 31 comments",
+    "arreglado": ""
+   },
+   {
+    "id": "linkedin-mac",
+    "nombre": "LinkedIn poster",
+    "tipo": "agente",
+    "orquestador": "personas",
+    "hace": "Likes the posts of people in your CRM from your own Chrome; never posts for you",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:21 on the Mac"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 40 posts in your feed"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Logged 6 likes"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 92,
+    "ultima": "{{D+0}}T03:21",
+    "ultima_texto": "3:21 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "mac",
+    "produjo": 6,
+    "mensaje": "Liked 6 posts from people in your CRM; nothing posted, as always",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "Liked 6 posts from people in your CRM; nothing posted, as always",
+    "arreglado": ""
+   },
+   {
+    "id": "platicas",
+    "nombre": "Events",
+    "tipo": "agente",
+    "orquestador": "personas",
+    "hace": "Reads every invitation and says which events are worth your evening",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:16 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 4 invitations"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 1 event row"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 81,
+    "ultima": "{{D+0}}T03:16",
+    "ultima_texto": "3:16 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 1,
+    "mensaje": "MIT club event in two days kept; 2 webinars dropped",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "MIT club event in two days kept; 2 webinars dropped",
+    "arreglado": ""
+   },
+   {
+    "id": "conectar",
+    "nombre": "Connect",
+    "tipo": "agente",
+    "orquestador": "personas",
+    "hace": "Sends the LinkedIn invitations you approved in the run",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:23 on the Mac"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read the approved rows (none)"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Nothing to write"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 95,
+    "ultima": "{{D+0}}T03:23",
+    "ultima_texto": "3:23 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "mac",
+    "produjo": 0,
+    "mensaje": "Nothing to send: no approved invitations this morning",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "Nothing to send: no approved invitations this morning",
+    "arreglado": ""
+   },
+   {
+    "id": "esperando",
+    "nombre": "Waiting for",
+    "tipo": "agente",
+    "orquestador": "compromisos",
+    "hace": "Tracks what people owe you and drafts the nudge when they go quiet",
+    "pide": "One decision",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:18 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 7 open threads"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 1 nudge"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 3 of the last 5 rows it gave you"
+     },
+     {
+      "k": "you",
+      "ok": "warn",
+      "texto": "One card waits for your decision"
+     }
+    ],
+    "pregunta": "Ernesto Salinas has been silent 9 days on the class invite. Send the nudge, or drop it?",
+    "util": 74,
+    "ultima": "{{D+0}}T03:18",
+    "ultima_texto": "3:18 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 1,
+    "mensaje": "One item needs your call: Ernesto Salinas, silent 9 days on the class invite. The nudge is drafted.",
+    "esperando": 1,
+    "color": "amarillo",
+    "titulo": "One item needs your call: Ernesto Salinas, silent 9 days",
+    "arreglado": ""
+   },
+   {
+    "id": "prep",
+    "nombre": "Meeting prep",
+    "tipo": "agente",
+    "orquestador": "compromisos",
+    "hace": "Writes a prep page for every meeting worth researching: who they are, good to know, what to ask",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:12 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 2 calendar events, 2 CRM pages and the research notes"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 2 prep pages"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 87,
+    "ultima": "{{D+0}}T03:12",
+    "ultima_texto": "3:12 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 2,
+    "mensaje": "2 preps written: Rebecca Lind (G19 Studio) at 10:00 and Matthew Hale (NEST) at 14:15",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "2 preps written: Rebecca Lind (G19 Studio) at 10:00 and Matthew Hale (NEST) at 14:15",
+    "arreglado": ""
+   },
+   {
+    "id": "prep-mac",
+    "nombre": "Prep research",
+    "tipo": "agente",
+    "orquestador": "compromisos",
+    "hace": "Reads LinkedIn and the web from your Chrome for each prep",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:08 on the Mac"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 2 profiles and 1 site"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 2 research notes"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 85,
+    "ultima": "{{D+0}}T03:08",
+    "ultima_texto": "3:08 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "mac",
+    "produjo": 2,
+    "mensaje": "Read 2 LinkedIn profiles and G19 Studio's site for today's preps",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "Read 2 LinkedIn profiles and G19 Studio's site for today's preps",
+    "arreglado": ""
+   },
+   {
+    "id": "prep-registros",
+    "nombre": "Event registry",
+    "tipo": "agente",
+    "orquestador": "compromisos",
+    "hace": "Registers you for the events you said yes to and keeps the tickets",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:19 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 1 confirmation mail"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 1 ticket row"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 86,
+    "ultima": "{{D+0}}T03:19",
+    "ultima_texto": "3:19 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 1,
+    "mensaje": "Confirmed your spot at the MIT club event; ticket saved",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "Confirmed your spot at the MIT club event; ticket saved",
+    "arreglado": ""
+   },
+   {
+    "id": "bandeja",
+    "nombre": "Inbox triage",
+    "tipo": "agente",
+    "orquestador": "compromisos",
+    "hace": "Labels every mail in your inboxes, urgent first, and never replies",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:04 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 63 mails"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Applied 41 labels"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 85,
+    "ultima": "{{D+0}}T03:04",
+    "ultima_texto": "3:04 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 41,
+    "mensaje": "41 mails labeled across 3 inboxes; 2 urgent: Daniela Ruiz (Grupo Ferra) and Rebecca Lind",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "41 mails labeled across 3 inboxes; 2 urgent: Daniela Ruiz (Grupo Ferra) and Rebecca Lind",
+    "arreglado": ""
+   },
+   {
+    "id": "coach",
+    "nombre": "Coach",
+    "tipo": "agente",
+    "orquestador": "pensamiento",
+    "hace": "Reads your meeting recordings and coaches your business English and your calibration",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:24 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 1 recording (52 min)"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 1 coaching note"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 94,
+    "ultima": "{{D+0}}T03:24",
+    "ultima_texto": "3:24 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 1,
+    "mensaje": "Read the Mexas dinner recording: one note on hedging when you disagree in English",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "Read the Mexas dinner recording: one note on hedging when you disagree in English",
+    "arreglado": ""
+   },
+   {
+    "id": "consejo",
+    "nombre": "Council",
+    "tipo": "agente",
+    "orquestador": "pensamiento",
+    "hace": "Prepares the Estratega and the Filósofo for the day with your own notes",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:26 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 3 notes and the week file"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote the day's line"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 81,
+    "ultima": "{{D+0}}T03:26",
+    "ultima_texto": "3:26 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 1,
+    "mensaje": "Council ready: today's line comes from your note on leading from the floor",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "Council ready: today's line comes from your note on leading from the floor",
+    "arreglado": ""
+   },
+   {
+    "id": "digest",
+    "nombre": "Digest",
+    "tipo": "agente",
+    "orquestador": "pensamiento",
+    "hace": "Turns yesterday's reading into an episode of your private podcast",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:30 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 3 documents"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 1 episode"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 80,
+    "ultima": "{{D+0}}T03:30",
+    "ultima_texto": "3:30 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 1,
+    "mensaje": "Episode 48 ready: 11 min, the Ferra scope and two Bentley readings",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "Episode 48 ready: 11 min, the Ferra scope and two Bentley readings",
+    "arreglado": ""
+   },
+   {
+    "id": "bentley",
+    "nombre": "Bentley",
+    "tipo": "agente",
+    "orquestador": "pensamiento",
+    "hace": "Reads Brightspace and your classes and keeps the due list honest",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:33 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read yesterday's Brightspace copy and 4 syllabi"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 7 due rows"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 83,
+    "ultima": "{{D+0}}T03:33",
+    "ultima_texto": "3:33 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 7,
+    "mensaje": "7 items due; reading quiz 6 is tomorrow at 9:00. Used yesterday's Brightspace copy (today's read failed)",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "7 items due; reading quiz 6 is tomorrow at 9:00. Used yesterday's Brightspace copy (today's read failed)",
+    "arreglado": ""
+   },
+   {
+    "id": "leccion",
+    "nombre": "Lesson of the day",
+    "tipo": "agente",
+    "orquestador": "pensamiento",
+    "hace": "Picks one lesson from your notes that fits the day",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:35 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 12 notes"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 1 lesson"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 93,
+    "ultima": "{{D+0}}T03:35",
+    "ultima_texto": "3:35 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 1,
+    "mensaje": "Lesson picked: you rise by going down",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "Lesson picked: you rise by going down",
+    "arreglado": ""
+   },
+   {
+    "id": "estudio",
+    "nombre": "Study queue",
+    "tipo": "agente",
+    "orquestador": "pensamiento",
+    "hace": "Keeps your study queue: adds what you saved, marks what you learned",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:37 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 2 saved links"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 2 queue cards"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 93,
+    "ultima": "{{D+0}}T03:37",
+    "ultima_texto": "3:37 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 2,
+    "mensaje": "2 new items in your study queue; 1 marked learned",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "2 new items in your study queue; 1 marked learned",
+    "arreglado": ""
+   },
+   {
+    "id": "tiempo",
+    "nombre": "Time review",
+    "tipo": "agente",
+    "orquestador": "pensamiento",
+    "hace": "Compares the hours you planned on your fronts with the hours you spent",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:39 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read the calendar and the screen log"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 1 day row"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 94,
+    "ultima": "{{D+0}}T03:39",
+    "ultima_texto": "3:39 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 1,
+    "mensaje": "Yesterday: 4.2 h on your fronts against 5 planned, 1.5 h in meetings",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "Yesterday: 4.2 h on your fronts against 5 planned, 1.5 h in meetings",
+    "arreglado": ""
+   },
+   {
+    "id": "cierre",
+    "nombre": "Weekly close",
+    "tipo": "agente",
+    "orquestador": "pensamiento",
+    "hace": "Runs on Sundays: the questions only you can answer, then next week's goals",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": null,
+      "texto": "Not its day: runs on Sundays"
+     }
+    ],
+    "pregunta": "",
+    "util": 88,
+    "ultima": "{{D-2}}T03:40",
+    "ultima_texto": "2 days ago",
+    "proxima_texto": "Sunday 3:00",
+    "corre_en": "nube",
+    "produjo": 0,
+    "mensaje": "Last close kept; next one on Sunday",
+    "esperando": 0,
+    "color": "gris",
+    "titulo": "Runs on Sundays",
+    "arreglado": ""
+   },
+   {
+    "id": "canales",
+    "nombre": "Channels",
+    "tipo": "agente",
+    "orquestador": "mantenimiento",
+    "hace": "Copies mail, meeting recordings, Todoist and the calendars to text every morning",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:02 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 9 channels"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 9 text copies"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 87,
+    "ultima": "{{D+0}}T03:02",
+    "ultima_texto": "3:02 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 9,
+    "mensaje": "9 channels read: 63 mails, 2 recordings, 14 tasks, 9 events",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "9 channels read: 63 mails, 2 recordings, 14 tasks, 9 events",
+    "arreglado": ""
+   },
+   {
+    "id": "canales-mac",
+    "nombre": "Channels (Mac)",
+    "tipo": "agente",
+    "orquestador": "mantenimiento",
+    "hace": "Reads WhatsApp, LinkedIn and Brightspace from your own Chrome",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:01 on the Mac"
+     },
+     {
+      "k": "read",
+      "ok": false,
+      "texto": "WhatsApp and LinkedIn read; Brightspace now asks for Bentley’s new Microsoft sign-in, which it doesn’t have"
+     },
+     {
+      "k": "wrote",
+      "ok": "warn",
+      "texto": "WhatsApp and LinkedIn copies written; the Brightspace copy is from Sunday"
+     },
+     {
+      "k": "you",
+      "ok": false,
+      "texto": "Your setup changed: it can’t guess how you want it to sign in"
+     }
+    ],
+    "pregunta": "Bentley now signs in to Brightspace through Microsoft. How should I read your courses?",
+    "util": 61,
+    "ultima": "{{D+0}}T03:01",
+    "ultima_texto": "3:01 today",
+    "proxima_texto": "Tonight 23:00, after your decision",
+    "corre_en": "mac",
+    "produjo": 2,
+    "mensaje": "Bentley switched Brightspace to Microsoft sign-in two days ago. I can’t read your courses until you decide how; until then the Bentley due list uses Sunday’s copy.",
+    "esperando": 0,
+    "color": "rojo",
+    "titulo": "Bentley moved Brightspace to a new sign-in two days ago; it needs your decision",
+    "arreglado": "",
+    "opciones": [
+     [
+      "Use my Chrome sign-in",
+      "It reads through your Chrome, where you’re already signed in. Read-only: it never posts or submits."
+     ],
+     [
+      "Read Bentley’s weekly email instead",
+      "The Monday digest lists every deadline. Slower, but no sign-in at all."
+     ]
+    ]
+   },
+   {
+    "id": "aduana",
+    "nombre": "Customs",
+    "tipo": "agente",
+    "orquestador": "mantenimiento",
+    "hace": "Files the documents you drop in your folders and writes their note",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:43 on the Mac"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 2 new files"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 2 notes"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 90,
+    "ultima": "{{D+0}}T03:43",
+    "ultima_texto": "3:43 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "mac",
+    "produjo": 2,
+    "mensaje": "2 files filed: the Ferra board deck and the EMS101 case pack",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "2 files filed: the Ferra board deck and the EMS101 case pack",
+    "arreglado": ""
+   },
+   {
+    "id": "taller",
+    "nombre": "Workshop",
+    "tipo": "agente",
+    "orquestador": "mantenimiento",
+    "hace": "The Architect's morning pass: repairs red agents and reads your reported misses",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:46 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 2 misses and 28 run logs"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 1 repair ticket"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 84,
+    "ultima": "{{D+0}}T03:46",
+    "ultima_texto": "3:46 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 1,
+    "mensaje": "Read 2 misses; Channels (Mac) is waiting on your decision about Brightspace",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "Read 2 misses; Channels (Mac) is waiting on your decision about Brightspace",
+    "arreglado": ""
+   },
+   {
+    "id": "juez",
+    "nombre": "Judge",
+    "tipo": "agente",
+    "orquestador": "mantenimiento",
+    "hace": "Grades every agent's run: ran, read, wrote, useful",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:50 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 28 run logs"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 28 verdicts"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 94,
+    "ultima": "{{D+0}}T03:50",
+    "ultima_texto": "3:50 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 28,
+    "mensaje": "27 of 28 passed; Channels (Mac) needs your decision on Brightspace",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "27 of 28 passed; Channels (Mac) needs your decision on Brightspace",
+    "arreglado": ""
+   },
+   {
+    "id": "sincronia",
+    "nombre": "Sync",
+    "tipo": "agente",
+    "orquestador": "mantenimiento",
+    "hace": "Replaces copies of a changing fact with pointers to the one live file",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:52 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 2,311 notes (index only)"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 3 pointers"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 86,
+    "ultima": "{{D+0}}T03:52",
+    "ultima_texto": "3:52 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 3,
+    "mensaje": "3 copies replaced with pointers; nothing else moved",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "3 copies replaced with pointers; nothing else moved",
+    "arreglado": ""
+   },
+   {
+    "id": "respaldo",
+    "nombre": "Backup",
+    "tipo": "agente",
+    "orquestador": "mantenimiento",
+    "hace": "Pushes the text brain to GitHub every hour",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:55 on the Mac"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read the changed files"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Pushed 1 commit"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 90,
+    "ultima": "{{D+0}}T03:55",
+    "ultima_texto": "3:55 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "mac",
+    "produjo": 17,
+    "mensaje": "2,311 notes backed up; 17 files changed since the last push",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "2,311 notes backed up; 17 files changed since the last push",
+    "arreglado": ""
+   },
+   {
+    "id": "lider",
+    "nombre": "Orchestrators",
+    "tipo": "lider",
+    "orquestador": "mantenimiento",
+    "hace": "Four orchestrators, one per goal, check that their agents did their part and ask you only what only you can answer",
+    "pide": "Nothing",
+    "pruebas": [
+     {
+      "k": "ran",
+      "ok": true,
+      "texto": "Ran at 3:58 in the cloud"
+     },
+     {
+      "k": "read",
+      "ok": true,
+      "texto": "Read 27 verdicts"
+     },
+     {
+      "k": "wrote",
+      "ok": true,
+      "texto": "Wrote 4 reports"
+     },
+     {
+      "k": "useful",
+      "ok": true,
+      "texto": "You kept 4 of the last 5 rows it gave you"
+     }
+    ],
+    "pregunta": "",
+    "util": 80,
+    "ultima": "{{D+0}}T03:58",
+    "ultima_texto": "3:58 today",
+    "proxima_texto": "Tomorrow 3:00",
+    "corre_en": "nube",
+    "produjo": 4,
+    "mensaje": "4 orchestrators reported; People asks you one question (tags for the Mexas dinner)",
+    "esperando": 0,
+    "color": "verde",
+    "titulo": "4 orchestrators reported; People asks you one question (tags for the Mexas dinner)",
+    "arreglado": ""
+   }
+  ],
+  "cuenta": {
+   "rojo": 1,
+   "amarillo": 1,
+   "verde": 25,
+   "gris": 1
+  },
+  "calculado": "{{D+0}}T04:02",
+  "preguntas": [
+   {
+    "orquestador": "personas",
+    "id": "q-mexas-tags",
+    "fila": "registro · Mexas dinner",
+    "texto": "Five people from the Mexas dinner share one tag, \"Harvard\". Keep one tag per school, or add \"Mexas dinner\" as its own tag?"
+   }
+  ],
+  "fuentes": {
+   "juez": "{{D+0}}",
+   "atencion": "{{D+0}}T03:46",
+   "lecturas": "11"
+  }
+ },
+ "quien": [],
+ "grupos": [],
+ "linkedin": {
+  "borradores": [
+   {
+    "id": "li-0048",
+    "estado": "borrador",
+    "origen": "notes",
+    "pilar": "AI",
+    "apertura": "story",
+    "creado": "{{D+0}}",
+    "hora": "",
+    "programado": "",
+    "post": "A founder asked me yesterday to explain AI \"without the hype\". Here is the whole thing in one line: AI adapts to the worker, not the worker to AI. That is the difference between automating and amplifying.\n\nAt a 200-person plant in Monterrey, five planners went from two days to four hours on customer orders. No new software. The same people, with an assistant that learned their spreadsheets.\n\nIf your team is afraid of the tool, you bought the wrong tool.",
+    "huella": "AI adapts to the worker, not the worker to AI",
+    "boceto": false
+   }
+  ],
+  "abiertos": 1,
+  "programados": 0,
+  "semana": null
+ },
+ "foco_docx": "",
+ "mapa": {
+  "actualizado": "{{D+0}}T03:58",
+  "gente": [],
+  "fuera": []
+ },
+ "fallos_semana": 2
+}

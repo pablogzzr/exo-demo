@@ -1,0 +1,577 @@
+{
+ "hoy": "{{D+0}}",
+ "dias": [
+  {
+   "dia": "{{D-1}}",
+   "eventos": [
+    {
+     "dia": "{{D-1}}",
+     "todo": false,
+     "inicio": "09:00",
+     "fin": "10:00",
+     "cal": "Vida personal",
+     "titulo": "Gym",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev001"
+    },
+    {
+     "dia": "{{D-1}}",
+     "todo": false,
+     "inicio": "11:00",
+     "fin": "12:15",
+     "cal": "Bentley",
+     "titulo": "FDS100 — Prof. Okonkwo",
+     "lugar": "Smith 215",
+     "zona": "America/New_York",
+     "id": "ev002"
+    },
+    {
+     "dia": "{{D-1}}",
+     "todo": false,
+     "inicio": "15:00",
+     "fin": "15:45",
+     "cal": "Vocación",
+     "titulo": "Career coaching — Priya Raman",
+     "lugar": "LaCava 2nd floor",
+     "zona": "America/New_York",
+     "id": "ev003"
+    },
+    {
+     "dia": "{{D-1}}",
+     "todo": false,
+     "inicio": "19:00",
+     "fin": "20:30",
+     "cal": "Vocación",
+     "titulo": "Academy application — answers 3 and 4",
+     "lugar": "Library",
+     "zona": "America/New_York",
+     "id": "ev004"
+    }
+   ]
+  },
+  {
+   "dia": "{{D+0}}",
+   "eventos": [
+    {
+     "dia": "{{D+0}}",
+     "todo": false,
+     "inicio": "07:30",
+     "fin": "09:00",
+     "cal": "Vocación",
+     "titulo": "Deep work — Academy application",
+     "lugar": "Library, 3rd floor",
+     "zona": "America/New_York",
+     "id": "ev005"
+    },
+    {
+     "dia": "{{D+0}}",
+     "todo": false,
+     "inicio": "10:00",
+     "fin": "10:30",
+     "cal": "Vocación",
+     "titulo": "Rebecca Lind — G19 Studio",
+     "lugar": "Zoom",
+     "zona": "America/New_York",
+     "id": "ev006"
+    },
+    {
+     "dia": "{{D+0}}",
+     "todo": false,
+     "inicio": "12:30",
+     "fin": "13:45",
+     "cal": "Bentley",
+     "titulo": "CS100 — Prof. Marchetti",
+     "lugar": "Jennison 220",
+     "zona": "America/New_York",
+     "id": "ev007"
+    },
+    {
+     "dia": "{{D+0}}",
+     "todo": false,
+     "inicio": "14:15",
+     "fin": "15:00",
+     "cal": "Vocación",
+     "titulo": "Matthew Hale — NEST",
+     "lugar": "1 Broadway, Kendall Square",
+     "zona": "America/New_York",
+     "id": "ev008"
+    },
+    {
+     "dia": "{{D+0}}",
+     "todo": false,
+     "inicio": "18:30",
+     "fin": "21:00",
+     "cal": "Social",
+     "titulo": "HBS Latin America Club mixer",
+     "lugar": "Spangler Center, Harvard",
+     "zona": "America/New_York",
+     "id": "ev009"
+    }
+   ]
+  },
+  {
+   "dia": "{{D+1}}",
+   "eventos": [
+    {
+     "dia": "{{D+1}}",
+     "todo": true,
+     "inicio": "",
+     "fin": "",
+     "cal": "Bentley",
+     "titulo": "EMS101 — case memo due 23:59",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev010"
+    },
+    {
+     "dia": "{{D+1}}",
+     "todo": false,
+     "inicio": "07:30",
+     "fin": "08:15",
+     "cal": "Vida personal",
+     "titulo": "Gym",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev011"
+    },
+    {
+     "dia": "{{D+1}}",
+     "todo": false,
+     "inicio": "09:30",
+     "fin": "10:45",
+     "cal": "Bentley",
+     "titulo": "AI101 — Prof. Yen",
+     "lugar": "Smith 118",
+     "zona": "America/New_York",
+     "id": "ev012"
+    },
+    {
+     "dia": "{{D+1}}",
+     "todo": false,
+     "inicio": "11:00",
+     "fin": "12:15",
+     "cal": "Bentley",
+     "titulo": "FDS100 — Prof. Okonkwo",
+     "lugar": "Smith 215",
+     "zona": "America/New_York",
+     "id": "ev013"
+    },
+    {
+     "dia": "{{D+1}}",
+     "todo": false,
+     "inicio": "16:00",
+     "fin": "17:00",
+     "cal": "Vocación",
+     "titulo": "Outreach block — five messages",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev014"
+    },
+    {
+     "dia": "{{D+1}}",
+     "todo": false,
+     "inicio": "20:00",
+     "fin": "21:00",
+     "cal": "Vida personal",
+     "titulo": "Call home — Lucía and Diego",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev015"
+    }
+   ]
+  },
+  {
+   "dia": "{{D+2}}",
+   "eventos": [
+    {
+     "dia": "{{D+2}}",
+     "todo": true,
+     "inicio": "",
+     "fin": "",
+     "cal": "VYNMSA",
+     "titulo": "Grupo Ferra board decides phase two",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev016"
+    },
+    {
+     "dia": "{{D+2}}",
+     "todo": false,
+     "inicio": "09:00",
+     "fin": "10:30",
+     "cal": "Vocación",
+     "titulo": "Deep work — Academy application",
+     "lugar": "Library, 3rd floor",
+     "zona": "America/New_York",
+     "id": "ev017"
+    },
+    {
+     "dia": "{{D+2}}",
+     "todo": false,
+     "inicio": "12:30",
+     "fin": "13:45",
+     "cal": "Bentley",
+     "titulo": "CS100 — Prof. Marchetti",
+     "lugar": "Jennison 220",
+     "zona": "America/New_York",
+     "id": "ev018"
+    },
+    {
+     "dia": "{{D+2}}",
+     "todo": false,
+     "inicio": "14:00",
+     "fin": "14:30",
+     "cal": "VYNMSA",
+     "titulo": "Daniela Ruiz — quick call after the board",
+     "lugar": "Google Meet",
+     "zona": "America/New_York",
+     "id": "ev019"
+    },
+    {
+     "dia": "{{D+2}}",
+     "todo": false,
+     "inicio": "18:00",
+     "fin": "20:30",
+     "cal": "Social",
+     "titulo": "MIT AI Club — Founders & Builders night",
+     "lugar": "Stata Center, 32-123",
+     "zona": "America/New_York",
+     "id": "ev020"
+    }
+   ]
+  },
+  {
+   "dia": "{{D+3}}",
+   "eventos": [
+    {
+     "dia": "{{D+3}}",
+     "todo": true,
+     "inicio": "",
+     "fin": "",
+     "cal": "Bentley",
+     "titulo": "EMS101 — case memo due 23:59",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev021"
+    },
+    {
+     "dia": "{{D+3}}",
+     "todo": false,
+     "inicio": "09:30",
+     "fin": "10:45",
+     "cal": "Bentley",
+     "titulo": "AI101 — Prof. Yen",
+     "lugar": "Smith 118",
+     "zona": "America/New_York",
+     "id": "ev022"
+    },
+    {
+     "dia": "{{D+3}}",
+     "todo": false,
+     "inicio": "11:00",
+     "fin": "12:15",
+     "cal": "Bentley",
+     "titulo": "FDS100 — Prof. Okonkwo",
+     "lugar": "Smith 215",
+     "zona": "America/New_York",
+     "id": "ev023"
+    },
+    {
+     "dia": "{{D+3}}",
+     "todo": false,
+     "inicio": "15:30",
+     "fin": "17:00",
+     "cal": "Bentley",
+     "titulo": "EMS101 — Prof. Delgado",
+     "lugar": "Adamian 212",
+     "zona": "America/New_York",
+     "id": "ev024"
+    },
+    {
+     "dia": "{{D+3}}",
+     "todo": false,
+     "inicio": "18:00",
+     "fin": "19:00",
+     "cal": "Vida personal",
+     "titulo": "Gym",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev025"
+    }
+   ]
+  },
+  {
+   "dia": "{{D+4}}",
+   "eventos": [
+    {
+     "dia": "{{D+4}}",
+     "todo": false,
+     "inicio": "10:00",
+     "fin": "11:00",
+     "cal": "Vocación",
+     "titulo": "Academy application — final read",
+     "lugar": "Library",
+     "zona": "America/New_York",
+     "id": "ev026"
+    },
+    {
+     "dia": "{{D+4}}",
+     "todo": false,
+     "inicio": "12:30",
+     "fin": "13:45",
+     "cal": "Bentley",
+     "titulo": "CS100 — Prof. Marchetti",
+     "lugar": "Jennison 220",
+     "zona": "America/New_York",
+     "id": "ev027"
+    },
+    {
+     "dia": "{{D+4}}",
+     "todo": false,
+     "inicio": "16:00",
+     "fin": "17:00",
+     "cal": "Vocación",
+     "titulo": "Weekly outreach review",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev028"
+    },
+    {
+     "dia": "{{D+4}}",
+     "todo": false,
+     "inicio": "19:30",
+     "fin": "22:00",
+     "cal": "Social",
+     "titulo": "Bentley Latin American Society — social",
+     "lugar": "Student Center",
+     "zona": "America/New_York",
+     "id": "ev029"
+    }
+   ]
+  },
+  {
+   "dia": "{{D+5}}",
+   "eventos": [
+    {
+     "dia": "{{D+5}}",
+     "todo": true,
+     "inicio": "",
+     "fin": "",
+     "cal": "Bentley",
+     "titulo": "FDS100 — problem set 6 due",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev030"
+    },
+    {
+     "dia": "{{D+5}}",
+     "todo": false,
+     "inicio": "09:00",
+     "fin": "10:00",
+     "cal": "Vida personal",
+     "titulo": "Gym",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev031"
+    },
+    {
+     "dia": "{{D+5}}",
+     "todo": false,
+     "inicio": "10:30",
+     "fin": "13:00",
+     "cal": "Vocación",
+     "titulo": "Deep work — Ferra phase two scope",
+     "lugar": "Apartment",
+     "zona": "America/New_York",
+     "id": "ev032"
+    },
+    {
+     "dia": "{{D+5}}",
+     "todo": false,
+     "inicio": "17:00",
+     "fin": "18:30",
+     "cal": "Social",
+     "titulo": "Coffee — Sofía Treviño",
+     "lugar": "Tatte, Harvard Square",
+     "zona": "America/New_York",
+     "id": "ev033"
+    }
+   ]
+  },
+  {
+   "dia": "{{D+6}}",
+   "eventos": [
+    {
+     "dia": "{{D+6}}",
+     "todo": false,
+     "inicio": "10:00",
+     "fin": "11:00",
+     "cal": "Vida personal",
+     "titulo": "Misa — St. Paul, Harvard Square",
+     "lugar": "Cambridge",
+     "zona": "America/New_York",
+     "id": "ev034"
+    },
+    {
+     "dia": "{{D+6}}",
+     "todo": false,
+     "inicio": "11:00",
+     "fin": "11:45",
+     "cal": "VYNMSA",
+     "titulo": "Daniela Ruiz — Grupo Ferra, scope review",
+     "lugar": "Google Meet",
+     "zona": "America/New_York",
+     "id": "ev035"
+    },
+    {
+     "dia": "{{D+6}}",
+     "todo": false,
+     "inicio": "16:00",
+     "fin": "17:30",
+     "cal": "Vocación",
+     "titulo": "Weekly close — Current Focus",
+     "lugar": "Apartment",
+     "zona": "America/New_York",
+     "id": "ev036"
+    },
+    {
+     "dia": "{{D+6}}",
+     "todo": false,
+     "inicio": "19:00",
+     "fin": "20:00",
+     "cal": "Vida personal",
+     "titulo": "Call home — Lucía and Diego",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev037"
+    }
+   ]
+  },
+  {
+   "dia": "{{D+7}}",
+   "eventos": [
+    {
+     "dia": "{{D+7}}",
+     "todo": false,
+     "inicio": "07:30",
+     "fin": "08:15",
+     "cal": "Vida personal",
+     "titulo": "Gym",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev038"
+    },
+    {
+     "dia": "{{D+7}}",
+     "todo": false,
+     "inicio": "11:00",
+     "fin": "12:15",
+     "cal": "Bentley",
+     "titulo": "FDS100 — Prof. Okonkwo",
+     "lugar": "Smith 215",
+     "zona": "America/New_York",
+     "id": "ev039"
+    },
+    {
+     "dia": "{{D+7}}",
+     "todo": false,
+     "inicio": "15:00",
+     "fin": "16:00",
+     "cal": "Vocación",
+     "titulo": "Outreach block — five messages",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev040"
+    },
+    {
+     "dia": "{{D+7}}",
+     "todo": false,
+     "inicio": "18:00",
+     "fin": "19:30",
+     "cal": "Bentley",
+     "titulo": "EMS101 — group work",
+     "lugar": "Library",
+     "zona": "America/New_York",
+     "id": "ev041"
+    }
+   ]
+  },
+  {
+   "dia": "{{D+8}}",
+   "eventos": [
+    {
+     "dia": "{{D+8}}",
+     "todo": false,
+     "inicio": "09:30",
+     "fin": "10:45",
+     "cal": "Bentley",
+     "titulo": "AI101 — Prof. Yen",
+     "lugar": "Smith 118",
+     "zona": "America/New_York",
+     "id": "ev042"
+    },
+    {
+     "dia": "{{D+8}}",
+     "todo": false,
+     "inicio": "12:30",
+     "fin": "13:45",
+     "cal": "Bentley",
+     "titulo": "CS100 — Prof. Marchetti",
+     "lugar": "Jennison 220",
+     "zona": "America/New_York",
+     "id": "ev043"
+    },
+    {
+     "dia": "{{D+8}}",
+     "todo": false,
+     "inicio": "16:30",
+     "fin": "17:30",
+     "cal": "Vocación",
+     "titulo": "Academy — submit",
+     "lugar": "Library",
+     "zona": "America/New_York",
+     "id": "ev044"
+    }
+   ]
+  },
+  {
+   "dia": "{{D+9}}",
+   "eventos": [
+    {
+     "dia": "{{D+9}}",
+     "todo": true,
+     "inicio": "",
+     "fin": "",
+     "cal": "Vocación",
+     "titulo": "a16z Academy — application deadline",
+     "lugar": "",
+     "zona": "America/New_York",
+     "id": "ev045"
+    },
+    {
+     "dia": "{{D+9}}",
+     "todo": false,
+     "inicio": "11:00",
+     "fin": "12:15",
+     "cal": "Bentley",
+     "titulo": "FDS100 — Prof. Okonkwo",
+     "lugar": "Smith 215",
+     "zona": "America/New_York",
+     "id": "ev046"
+    },
+    {
+     "dia": "{{D+9}}",
+     "todo": false,
+     "inicio": "15:30",
+     "fin": "17:00",
+     "cal": "Bentley",
+     "titulo": "EMS101 — Prof. Delgado",
+     "lugar": "Adamian 212",
+     "zona": "America/New_York",
+     "id": "ev047"
+    }
+   ]
+  }
+ ]
+}

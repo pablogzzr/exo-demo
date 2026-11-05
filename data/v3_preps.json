@@ -1,0 +1,49 @@
+{
+ "preps": [
+  {
+   "nota": "2 Areas/Agenda/Preps/Prep — Priya Raman (career coaching).md",
+   "evento": "Career coaching — Priya Raman",
+   "cuando": "{{D-1}}T15:00",
+   "donde": "Bentley, LaCava 2nd floor",
+   "con": "Priya Raman",
+   "nivel": "second-meeting",
+   "texto": "**Who she is.** Career coach at Bentley's CareerEdge, seven years there, ex-recruiter at a Boston consulting firm. Your first session was three weeks ago; she told you the US reads your directness as pressure.\n\n**Last time.** You brought the Grupo Ferra story. She cut it to two sentences and asked you to say *what changed for them* before *what you built*.\n\n**What she asked.** Bring the a16z Academy answers, draft or not, and one US cold message you actually sent.\n\n**The one ask.** Ask her which three of your Academy answers she would cut in half, and why those three.\n\n**Bring.** The Academy draft (three answers done, two open), the Nathan Okafor follow-up, the one-pager.\n\n**Avoid.** Defending the long answers. She is the audience you are writing for."
+  },
+  {
+   "nota": "2 Areas/Agenda/Preps/Prep — Rebecca Lind (G19 Studio).md",
+   "evento": "Rebecca Lind — G19 Studio (Zoom)",
+   "cuando": "{{D+0}}T10:00",
+   "donde": "Zoom",
+   "con": "Rebecca Lind",
+   "nivel": "first-meeting",
+   "texto": "**Who she is.** Bentley '24, Chief Business Officer at G19 Studio — a 14-person Boston studio that builds custom AI for mid-size firms (distributors, clinics, a law firm). She runs sales and scoping; the founder runs the engineers. Prof. Alan Purcell introduced you by mail five days ago; she answered in two lines the same day.\n\n**Last time.** Never met. One thread: she said yes to 30 minutes and asked you to \"bring campaigns or content you've made\".\n\n**What she asked for.** Content, not credentials. She wants to see how you explain AI to people who do not code — that is what G19 sells and what they lack in Spanish-speaking markets.\n\n**The one ask.** Ask her what a G19 engagement looks like from first call to signed scope, and where the handoff to the client's own people breaks.\n\n**Bring.** The Grupo Ferra one-pager (text only), the 1,200-view post on explaining AI without the hype, two of the training clips you recorded for the Ferra supervisors, and the workflow analogy.\n\n**Avoid.** Pitching yourself for a job. She is a peer with a pipeline, not a recruiter; the win is one shared client or a referral in Monterrey."
+  },
+  {
+   "nota": "2 Areas/Agenda/Preps/Prep — Matthew Hale (NEST).md",
+   "evento": "Matthew Hale — NEST (Kendall Square)",
+   "cuando": "{{D+0}}T14:15",
+   "donde": "NEST, 1 Broadway, Kendall Square",
+   "con": "Matthew Hale",
+   "nivel": "first-meeting",
+   "texto": "**Who he is.** Partnerships lead at NEST, a Cambridge hardware incubator (twelve companies a cohort, two cohorts a year). MIT '19, mechanical engineering; three years at a robotics startup before NEST. He found you through the post on explaining AI without the hype and wrote first.\n\n**Last time.** Never met. Two short mails: he wants \"someone who can explain AI to our founders without the hype\" — his founders build physical products and get sold AI every week.\n\n**What he asked for.** A conversation, no deck. He said twice that his founders are tired of vendors.\n\n**The one ask.** Ask him which of the twelve founders in the current cohort has a product where AI changes the margin, and whether NEST pays for a workshop or expects it as a favor.\n\n**Bring.** Three questions for a founder, not a pitch; the Ferra supervisor story (training in the plant, no slides); your line: the AI adapts to the worker, not the worker to the AI.\n\n**Avoid.** Offering a free workshop in the first ten minutes. Let him name the format."
+  },
+  {
+   "nota": "2 Areas/Agenda/Preps/Prep — MIT AI Club Founders night.md",
+   "evento": "MIT AI Club — Founders & Builders night",
+   "cuando": "{{D+2}}T18:00",
+   "donde": "MIT Stata Center, 32-123",
+   "con": "about 60 people",
+   "nivel": "event",
+   "texto": "**What it is.** The MIT AI Club's monthly open night: three founders talk for ten minutes each, then an hour of mingling. Open to non-MIT people with a sign-up; you registered in two days ago (confirmation in your MIT inbox).\n\n**Who will be there.** The club's co-president Lena Hartwig (MIT '27) runs the speaker calendar. Two of the three speakers are hardware founders — one came through NEST, which is your bridge from the Matthew Hale meeting.\n\n**Last time.** You have not been to one. Ernesto Salinas said he would come; he has been silent for nine days, so plan as if he will not.\n\n**The one ask.** Ask them who decides the spring speaker list and whether a non-MIT consultant can give a 20-minute talk on explaining AI to a factory floor.\n\n**Bring.** Twenty cards, the one-pager on your phone, three names you want to leave with. Say Monterrey early — it is the thing people remember.\n\n**Avoid.** Staying with the Mexicans in the room. Two conversations with strangers before you find anyone you know."
+  },
+  {
+   "nota": "2 Areas/Agenda/Preps/Prep — Daniela Ruiz (scope review).md",
+   "evento": "Daniela Ruiz — Grupo Ferra, scope review",
+   "cuando": "{{D+6}}T11:00",
+   "donde": "Google Meet",
+   "con": "Daniela Ruiz",
+   "nivel": "client",
+   "texto": "**Who she is.** Operations director at Grupo Ferra (Monterrey, about 200 people, metal parts for appliance makers). Your client since July; she sponsors the AI program with the board. Her board decides on phase two in two days.\n\n**Last time.** Ten days ago, the scope meeting: you proposed three work streams; she pushed back on the second (quality photos) because the plant floor lacks lighting. You agreed to start with the two others.\n\n**What she asked.** Two questions by mail: who owns the data after phase two, and what happens if the supervisors stop using the tool. Exo drafted the reply; you have not sent it.\n\n**The one ask.** Ask her what the board said no to, in their words, before you present anything.\n\n**Bring.** The phase-two scope with the two streams, the usage numbers from phase one (31 of 38 supervisors active last week), the data-ownership clause in plain Spanish.\n\n**Avoid.** Adding a third stream to compensate. Smaller and finished beats bigger and open."
+  }
+ ]
+}

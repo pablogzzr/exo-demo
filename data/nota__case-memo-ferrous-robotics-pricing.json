@@ -1,0 +1,7 @@
+{
+ "nombre": "Case memo — Ferrous Robotics pricing",
+ "ruta": "2 Areas/Bentley/EMS101/Case memo — Ferrous Robotics pricing.md",
+ "texto": "# EMS101 — case memo: Ferrous Robotics pricing\n\n**Due:** in three days, 23:59, Brightspace. Two pages, one recommendation, numbers in the appendix.\n\n## Recommendation (draft)\nPrice per inspected weld, not per machine. Small shops cannot sign a $90k machine; they can sign $0.04 a weld.\n\n## Why\n- 80% of the target shops have under 30 employees.\n- A per-weld price makes the shop's first month cost under $1,000.\n- Ferrous keeps the machine; churn risk moves to them, which is where the data lives.\n\n*Note: the founder, Dana Whitlock, may be at today's NEST meeting. Do not mix the case with the conversation.*\n",
+ "obsidian": "obsidian://open?vault=Segundo%20Cerebro&file=2%20Areas/Bentley/EMS101/Case%20memo%20—%20Ferrous%20Robotics%20pricing",
+ "cortada": false
+}

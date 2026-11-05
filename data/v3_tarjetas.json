@@ -1,0 +1,64 @@
+{
+ "archivo": [
+  {
+   "id": "bloque-ems101-07",
+   "categoria": "EMS101",
+   "pregunta": "Prof. Delgado: what separates a founder's 'problem' from a 'symptom'?",
+   "respuesta": "A problem is what the customer pays to remove; a symptom is what they complain about. Interview for the payment, not the complaint.",
+   "origen": "EMS101 study block · {{W-6}}"
+  },
+  {
+   "id": "bloque-coach-02",
+   "categoria": "Communication",
+   "pregunta": "The coach's rule for the first line of a hard email in US English?",
+   "respuesta": "Lead with the shared goal, then the ask. A verdict in line one reads as aggression even when it is right.",
+   "origen": "Coach · a pattern from three mails this week"
+  }
+ ],
+ "claude": {
+  "estado": "listo",
+  "hecho": "{{D+0}}T07:12",
+  "items": [
+   {
+    "id": "c1",
+    "categoria": "CS100",
+    "pregunta": "What is Prof. Marchetti's 'thesis test' for any RIA paragraph?",
+    "respuesta": "Delete the paragraph. If the argument still stands, the paragraph was decoration.",
+    "fuente": "CS100 class notes · {{W-3}}",
+    "por_que": "Your draft has two paragraphs of context before the first claim; the test cuts both."
+   },
+   {
+    "id": "c2",
+    "categoria": "Grupo Ferra",
+    "pregunta": "What is the first question to ask before automating any step at Grupo Ferra?",
+    "respuesta": "Is this step the constraint? If it is not, speeding it up adds inventory, not throughput (Goldratt).",
+    "fuente": "Recording · call with Daniela Ruiz · {{W-2}}",
+    "por_que": "Her board meets {{W+2}}; the answer to her second question is this one sentence."
+   },
+   {
+    "id": "c3",
+    "categoria": "FDS100",
+    "pregunta": "In Prof. Okonkwo's words, what does a p-value under 0.05 tell you, and what does it not?",
+    "respuesta": "That the data would be unusual if nothing were going on. It says nothing about how big the effect is or whether it matters.",
+    "fuente": "FDS100 class · {{W-1}}",
+    "por_que": "You wrote 'significant = important' in the problem-set draft; this corrects the reflex before the quiz."
+   },
+   {
+    "id": "c4",
+    "categoria": "Meetings",
+    "pregunta": "What does NEST (Matthew Hale) say its founders need from an AI advisor?",
+    "respuesta": "Someone who can explain AI to founders without the hype: plain words, one working example, no roadmap theater.",
+    "fuente": "Recording · intro call with Prof. Purcell · {{W-4}}",
+    "por_que": "You meet him today at 14:15. The card is his own phrase, so you can give it back to him."
+   },
+   {
+    "id": "c5",
+    "categoria": "AI101",
+    "pregunta": "Prof. Yen's three tests for whether a task belongs to a model or to a person?",
+    "respuesta": "Is a wrong answer recoverable, can a person check it in under a minute, and does it repeat more than ten times a week.",
+    "fuente": "AI101 class · {{W-5}}",
+    "por_que": "The same three tests Daniela's board will ask in other words. One card covers class and client."
+   }
+  ]
+ }
+}

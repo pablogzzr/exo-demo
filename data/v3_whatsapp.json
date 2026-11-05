@@ -1,0 +1,38 @@
+{
+ "pelota": {
+  "actualizado": "{{D+0}}T03:12",
+  "filas": [
+   {
+    "quien": "Sofía Treviño",
+    "desde": "last Saturday 23:40",
+    "dias": "3",
+    "que": "Promised her the one-pager — the Outreach draft is ready"
+   },
+   {
+    "quien": "Felipe Cantú (VYNMSA)",
+    "desde": "yesterday 18:05",
+    "dias": "1",
+    "que": "Asked if the Ferra scope is final so he can staff it"
+   },
+   {
+    "quien": "Mom",
+    "desde": "yesterday 07:20",
+    "dias": "1",
+    "que": "Wants a photo of the dinner for your grandmother"
+   },
+   {
+    "quien": "Andrés Villarreal",
+    "desde": "two days ago",
+    "dias": "2",
+    "que": "Coffee after the MIT night — pick a day"
+   }
+  ]
+ },
+ "dias": [
+  "## Yesterday\n- **Felipe Cantú** (18:05): *Is the Ferra scope final? I need to know whether to put Mariana on it in November.*\n- **Mom** (07:20): *Send me a photo of the dinner for your grandmother. Did you eat well?*\n- **You → Diego** (21:40): *Mom says you can make rice now. Proof.*",
+  "## Two days ago\n- **Andrés Villarreal** (16:30): *After the MIT thing let's get coffee. I know the NEST people if that helps.*\n- **You → Andrés** (16:52): *Deal. Same day, right after the event. And yes it helps: I'm seeing Matthew Hale in two days.*",
+  "## Last Saturday\n- **Sofía Treviño** (23:40): *Pablo, great meeting you today. The supervisors story at Ferra is exactly what the family office asked me about. Send me your one-pager and I'll pass it on with two lines from me.*\n- **You → Sofía** (23:52): *Likewise, Sofía. I'll send it this week with the Ferra numbers.*\n- **Camila Ortega** (22:15): *Thanks for coming. Would you speak at the spring dinner? 10 minutes.*",
+  "## Four days ago\n- **Felipe Cantú** (12:10): *Weekly call: 31 of 38 active. Rodrigo asked about the data again.*\n- **You → Felipe** (12:30): *It goes in the proposal, in plain Spanish. I'll send it tomorrow.*",
+  "## Nine days ago\n- **You → Ernesto Salinas** (21:14): *Ernesto, which week can I sit in on the seminar? Whichever you say.*\n- *No reply yet — the Waiting for agent has it.*"
+ ]
+}

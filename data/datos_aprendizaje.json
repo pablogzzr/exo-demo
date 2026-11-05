@@ -1,0 +1,222 @@
+{
+ "estudio": {
+  "items": [
+   {
+    "id": "estudio-anthropic-01",
+    "titulo": "Building effective agents (Anthropic)",
+    "fuente": "Article · anthropic.com",
+    "minutos": 25,
+    "cuadrante": "Q1",
+    "estado": "abierto",
+    "suyo": true,
+    "fecha": "{{F-2}}",
+    "linea": 14,
+    "por_que": "By this article's own split, your Exo agents are workflows, not agents. Knowing which is which is the first thing an a16z reader will test. It is the block for {{W+3}}.",
+    "texto": "Building effective agents (Anthropic) · 25 min · for the {{W+3}} block. Workflows vs agents, and when a simple chain beats an autonomous loop. Why this week: an a16z reader will ask which one Exo is.",
+    "crudo": "- [ ] Building effective agents (Anthropic) · 25 min · for the {{W+3}} block. Workflows vs agents, and when a simple chain beats an autonomous loop. Why this week: an a16z reader will ask which one Exo is. <!-- estudio-anthropic-01 · Q1 -->",
+    "correlo": [
+     "Deep study session (~1.5 h): Building effective agents (Anthropic). Start from what I already wrote in my second brain about it, then read the source itself. Give me the 80/20 in my own words, three questions it answers for my week, and one thing I should change because of it."
+    ]
+   },
+   {
+    "id": "estudio-goldratt-02",
+    "titulo": "Goldratt: the one constraint",
+    "fuente": "The Goal, the bottleneck chapters",
+    "minutos": 20,
+    "cuadrante": "Q1",
+    "estado": "abierto",
+    "suyo": false,
+    "fecha": "{{F-1}}",
+    "linea": 17,
+    "por_que": "Daniela's board meets {{W+2}}. The whole pilot pitch is one sentence from these chapters: find the constraint and subordinate everything else to it.",
+    "texto": "Goldratt, the one constraint · 20 min · for Grupo Ferra before {{W+2}}. Find the constraint, exploit it, subordinate everything to it. Why this week: the board's two questions are both about the constraint.",
+    "crudo": "- [ ] Goldratt, the one constraint · 20 min · for Grupo Ferra before {{W+2}}. Find the constraint, exploit it, subordinate everything to it. Why this week: the board's two questions are both about the constraint. <!-- estudio-goldratt-02 · Q1 -->",
+    "correlo": [
+     "Deep study session (~1.5 h): Goldratt: the one constraint. Start from what I already wrote in my second brain about it, then read the source itself. Give me the 80/20 in my own words, three questions it answers for my week, and one thing I should change because of it."
+    ]
+   },
+   {
+    "id": "estudio-podcast-03",
+    "titulo": "Podcast clip: slope over experience",
+    "fuente": "Podcast clip · 9 min",
+    "minutos": 9,
+    "cuadrante": "Q2",
+    "estado": "abierto",
+    "suyo": true,
+    "fecha": "{{F-3}}",
+    "linea": 20,
+    "por_que": "NEST's founders are hiring their first AI person. This is the argument for a first-year student over a ten-year consultant, which is your argument.",
+    "texto": "Podcast clip, slope over experience · 9 min. Hire for the rate of learning, not the years. Why this week: it is the case for you at NEST, in someone else's words.",
+    "crudo": "- [ ] Podcast clip, slope over experience · 9 min. Hire for the rate of learning, not the years. Why this week: it is the case for you at NEST, in someone else's words. <!-- estudio-podcast-03 · Q2 -->",
+    "correlo": [
+     "Deep study session (~1.5 h): Podcast clip: slope over experience. Start from what I already wrote in my second brain about it, then read the source itself. Give me the 80/20 in my own words, three questions it answers for my week, and one thing I should change because of it."
+    ]
+   },
+   {
+    "id": "estudio-reel-04",
+    "titulo": "Reel: why polymaths win",
+    "fuente": "Reel · 3 min",
+    "minutos": 3,
+    "cuadrante": "Q2",
+    "estado": "abierto",
+    "suyo": true,
+    "fecha": "{{F-4}}",
+    "linea": 23,
+    "por_que": "Prof. Yen asked what you are: student, consultant or builder. Three minutes on why the combination is the point, not the problem.",
+    "texto": "Reel, why polymaths win · 3 min. Specialists go deep, polymaths connect; the edge is in the connections. Why this week: the answer to Prof. Yen's question.",
+    "crudo": "- [ ] Reel, why polymaths win · 3 min. Specialists go deep, polymaths connect; the edge is in the connections. Why this week: the answer to Prof. Yen's question. <!-- estudio-reel-04 · Q2 -->",
+    "correlo": [
+     "Deep study session (~1.5 h): Reel: why polymaths win. Start from what I already wrote in my second brain about it, then read the source itself. Give me the 80/20 in my own words, three questions it answers for my week, and one thing I should change because of it."
+    ]
+   }
+  ],
+  "aprendidos": 9,
+  "no_utiles": 3,
+  "abiertos": 4
+ },
+ "preguntas": [],
+ "subrayados": [],
+ "gustaron": 12,
+ "no_gustaron": 2,
+ "tarjetas": [
+  {
+   "titulo": "What did Prof. Marchetti say is the one mistake teams make i",
+   "categoria": "CS100",
+   "linea": 112,
+   "crudo": "- [ ] **What did Prof. Marchetti say is the one mistake teams make in the RIA project?** → Dividing the work by section instead of by argument — every section ends up with a different thesis. <!-- fsrs: CS100 · proximo {{D+0}} · racha 2 -->",
+   "proximo": "{{D+0}}",
+   "racha": 2,
+   "previa": {
+    "otra-vez": 0,
+    "dificil": 1,
+    "bien": 5,
+    "facil": 11
+   },
+   "pregunta": "What did Prof. Marchetti say is the one mistake teams make in the RIA project?",
+   "respuesta": "Dividing the work by section instead of by argument — every section ends up with a different thesis.",
+   "doble": false,
+   "invertida": false
+  },
+  {
+   "titulo": "How long should the RIA opening paragraph take to read aloud",
+   "categoria": "CS100",
+   "linea": 115,
+   "crudo": "- [ ] **How long should the RIA opening paragraph take to read aloud, per Prof. Marchetti?** → Under 40 seconds. If it takes longer, the thesis is hiding. <!-- fsrs: CS100 · proximo {{D+0}} · racha 1 -->",
+   "proximo": "{{D+0}}",
+   "racha": 1,
+   "previa": {
+    "otra-vez": 0,
+    "dificil": 1,
+    "bien": 4,
+    "facil": 9
+   },
+   "pregunta": "How long should the RIA opening paragraph take to read aloud, per Prof. Marchetti?",
+   "respuesta": "Under 40 seconds. If it takes longer, the thesis is hiding.",
+   "doble": false,
+   "invertida": false
+  },
+  {
+   "titulo": "Which source does the RIA rubric weigh most?",
+   "categoria": "CS100",
+   "linea": 118,
+   "crudo": "- [ ] **Which source does the RIA rubric weigh most?** → Primary sources you read yourself; a quoted summary of a source counts for half. <!-- fsrs: CS100 · proximo {{D+0}} · racha 3 -->",
+   "proximo": "{{D+0}}",
+   "racha": 3,
+   "previa": {
+    "otra-vez": 0,
+    "dificil": 1,
+    "bien": 6,
+    "facil": 13
+   },
+   "pregunta": "Which source does the RIA rubric weigh most?",
+   "respuesta": "Primary sources you read yourself; a quoted summary of a source counts for half.",
+   "doble": false,
+   "invertida": false
+  },
+  {
+   "titulo": "What did Daniela Ruiz say is the plant's real bottleneck?",
+   "categoria": "Grupo Ferra",
+   "linea": 121,
+   "crudo": "- [ ] **What did Daniela Ruiz say is the plant's real bottleneck?** → Quality release at the end of the line: 2.5 shifts of product wait on one inspector's sign-off. <!-- fsrs: Grupo Ferra · proximo {{D+0}} · racha 1 -->",
+   "proximo": "{{D+0}}",
+   "racha": 1,
+   "previa": {
+    "otra-vez": 0,
+    "dificil": 1,
+    "bien": 4,
+    "facil": 9
+   },
+   "pregunta": "What did Daniela Ruiz say is the plant's real bottleneck?",
+   "respuesta": "Quality release at the end of the line: 2.5 shifts of product wait on one inspector's sign-off.",
+   "doble": false,
+   "invertida": false
+  },
+  {
+   "titulo": "What are Daniela's two questions for the board?",
+   "categoria": "Grupo Ferra",
+   "linea": 124,
+   "crudo": "- [ ] **What are Daniela's two questions for the board?** → Can the AI pilot start on one line without stopping production, and who answers if a release is wrong. <!-- fsrs: Grupo Ferra · proximo {{D+0}} · racha 0 -->",
+   "proximo": "{{D+0}}",
+   "racha": 0,
+   "previa": {
+    "otra-vez": 0,
+    "dificil": 1,
+    "bien": 3,
+    "facil": 7
+   },
+   "pregunta": "What are Daniela's two questions for the board?",
+   "respuesta": "Can the AI pilot start on one line without stopping production, and who answers if a release is wrong.",
+   "doble": false,
+   "invertida": false
+  },
+  {
+   "titulo": "Why did Prof. Purcell introduce you to Rebecca Lind?",
+   "categoria": "Meetings",
+   "linea": 127,
+   "crudo": "- [ ] **Why did Prof. Purcell introduce you to Rebecca Lind?** → G19 builds custom AI for mid-size firms and has no one who has sat on the client's side of a plant floor. <!-- fsrs: Meetings · proximo {{D+0}} · racha 1 -->",
+   "proximo": "{{D+0}}",
+   "racha": 1,
+   "previa": {
+    "otra-vez": 0,
+    "dificil": 1,
+    "bien": 4,
+    "facil": 9
+   },
+   "pregunta": "Why did Prof. Purcell introduce you to Rebecca Lind?",
+   "respuesta": "G19 builds custom AI for mid-size firms and has no one who has sat on the client's side of a plant floor.",
+   "doble": false,
+   "invertida": false
+  },
+  {
+   "titulo": "What did Rebecca Lind ask you to bring to the first meeting?",
+   "categoria": "Meetings",
+   "linea": 130,
+   "crudo": "- [ ] **What did Rebecca Lind ask you to bring to the first meeting?** → Campaigns or content you have made. She wants to see output, not a résumé. <!-- fsrs: Meetings · proximo {{D+0}} · racha 0 -->",
+   "proximo": "{{D+0}}",
+   "racha": 0,
+   "previa": {
+    "otra-vez": 0,
+    "dificil": 1,
+    "bien": 3,
+    "facil": 7
+   },
+   "pregunta": "What did Rebecca Lind ask you to bring to the first meeting?",
+   "respuesta": "Campaigns or content you have made. She wants to see output, not a résumé.",
+   "doble": false,
+   "invertida": false
+  }
+ ],
+ "esperan": 3,
+ "mazo_total": 148,
+ "proxima_tarjeta": "{{D+1}}",
+ "categorias": [
+  "CS100",
+  "FDS100",
+  "EMS101",
+  "AI101",
+  "Grupo Ferra",
+  "Meetings",
+  "Faith",
+  "Communication"
+ ]
+}

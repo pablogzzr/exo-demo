@@ -1,0 +1,424 @@
+{
+ "corridas": [
+  {
+   "trabajo": "lider",
+   "cuando": "{{D+0}}T04:45",
+   "resultado": "ok",
+   "produjo": 0,
+   "nota": "Repair pass: canales-mac queued to retry tonight at 22:00"
+  },
+  {
+   "trabajo": "juez",
+   "cuando": "{{D+0}}T04:43",
+   "resultado": "ok",
+   "produjo": 27,
+   "nota": "27 of 28 agents passed. canales-mac needs a decision: Bentley changed the Brightspace sign-in."
+  },
+  {
+   "trabajo": "taller",
+   "cuando": "{{D+0}}T04:38",
+   "resultado": "ok",
+   "produjo": 2,
+   "nota": "Morning pass: 2 minor fixes, 1 question for you about the Judge's threshold"
+  },
+  {
+   "trabajo": "cierre",
+   "cuando": "{{D+0}}T04:36",
+   "resultado": "sin-novedad",
+   "produjo": 0,
+   "nota": "Runs on the week close day"
+  },
+  {
+   "trabajo": "tiempo",
+   "cuando": "{{D+0}}T04:34",
+   "resultado": "ok",
+   "produjo": 0,
+   "nota": "Last 7 days: 29.5 h on your fronts against 28 planned — Network over, Bentley under"
+  },
+  {
+   "trabajo": "estudio",
+   "cuando": "{{D+0}}T04:30",
+   "resultado": "ok",
+   "produjo": 4,
+   "nota": "Study queue ordered for the week: Anthropic's agents guide first, 57 minutes in all"
+  },
+  {
+   "trabajo": "leccion",
+   "cuando": "{{D+0}}T04:27",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Lesson of the day written from The Goal: the constraint sets the pace of the whole system"
+  },
+  {
+   "trabajo": "bentley",
+   "cuando": "{{D+0}}T04:24",
+   "resultado": "ok",
+   "produjo": 3,
+   "nota": "Three deliveries due this week from the Brightspace copy: RIA draft, FDS problem set, EMS reflection"
+  },
+  {
+   "trabajo": "digest",
+   "cuando": "{{D+0}}T04:20",
+   "resultado": "ok",
+   "produjo": 6,
+   "nota": "Digest ready: 6 pieces, 14 minutes; read the one on agent evals first"
+  },
+  {
+   "trabajo": "consejo",
+   "cuando": "{{D+0}}T04:16",
+   "resultado": "ok",
+   "produjo": 2,
+   "nota": "Estratega and Filósofo answered the question from last night's log"
+  },
+  {
+   "trabajo": "coach",
+   "cuando": "{{D+0}}T04:12",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "One pattern this week: three mails open with a verdict in line one — soften the opener"
+  },
+  {
+   "trabajo": "linkedin-mac",
+   "cuando": "{{D+0}}T04:08",
+   "resultado": "ok",
+   "produjo": 4,
+   "nota": "Liked 4 posts from your network; your 1,200-view post got 3 new comments"
+  },
+  {
+   "trabajo": "platicas",
+   "cuando": "{{D+0}}T04:02",
+   "resultado": "ok",
+   "produjo": 3,
+   "nota": "MIT club event {{W+2}}: 3 people worth meeting, one intro to ask for"
+  },
+  {
+   "trabajo": "linkedin",
+   "cuando": "{{D+0}}T03:58",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "One post drafted: what a 200-person plant learned from its first AI agent"
+  },
+  {
+   "trabajo": "cracks",
+   "cuando": "{{D+0}}T03:54",
+   "resultado": "ok",
+   "produjo": 2,
+   "nota": "Two cold messages ready: Nathan Okafor (follow-up 2, opened twice) and Alain Chenier (first)"
+  },
+  {
+   "trabajo": "seguimiento",
+   "cuando": "{{D+0}}T03:50",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Drafted the one-pager note for Sofía Treviño; she offered the family-office intro"
+  },
+  {
+   "trabajo": "registro",
+   "cuando": "{{D+0}}T03:45",
+   "resultado": "ok",
+   "produjo": 5,
+   "nota": "Five new people from the Mexas dinner added to the CRM, Sofía Treviño first"
+  },
+  {
+   "trabajo": "prep-registros",
+   "cuando": "{{D+0}}T03:41",
+   "resultado": "sin-novedad",
+   "produjo": 0,
+   "nota": "No new event confirmations in mail"
+  },
+  {
+   "trabajo": "prep-mac",
+   "cuando": "{{D+0}}T03:38",
+   "resultado": "ok",
+   "produjo": 2,
+   "nota": "Read G19 Studio's site and NEST's portfolio page for today's two preps"
+  },
+  {
+   "trabajo": "prep",
+   "cuando": "{{D+0}}T03:31",
+   "resultado": "ok",
+   "produjo": 2,
+   "nota": "Two preps written: Rebecca Lind (G19 Studio) at 10:00 and Matthew Hale (NEST) at 14:15"
+  },
+  {
+   "trabajo": "esperando",
+   "cuando": "{{D+0}}T03:27",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Ernesto Salinas has been silent 9 days on the class visit — one card waits for you"
+  },
+  {
+   "trabajo": "bandeja",
+   "cuando": "{{D+0}}T03:22",
+   "resultado": "ok",
+   "produjo": 41,
+   "nota": "Labeled 41 mails across three inboxes: 4 need a reply, 2 urgent, 29 archived"
+  },
+  {
+   "trabajo": "lider",
+   "cuando": "{{D+0}}T03:18",
+   "resultado": "ok",
+   "produjo": 0,
+   "nota": "Started the four orchestrators in order: Commitments, People, Thinking, Upkeep"
+  },
+  {
+   "trabajo": "sincronia",
+   "cuando": "{{D+0}}T03:15",
+   "resultado": "ok",
+   "produjo": 3,
+   "nota": "Replaced 3 copies of the week's focus with pointers to Current Focus"
+  },
+  {
+   "trabajo": "aduana",
+   "cuando": "{{D+0}}T03:12",
+   "resultado": "sin-novedad",
+   "produjo": 0,
+   "nota": "No new files in your folders"
+  },
+  {
+   "trabajo": "respaldo",
+   "cuando": "{{D+0}}T03:09",
+   "resultado": "ok",
+   "produjo": 0,
+   "nota": "Backup pushed: 17 notes changed since yesterday, 2,311 notes in the brain"
+  },
+  {
+   "trabajo": "canales-mac",
+   "cuando": "{{D+0}}T03:04",
+   "resultado": "fallo",
+   "produjo": 0,
+   "nota": "Brightspace now asks for Bentley's new Microsoft sign-in. Mail, calendar and WhatsApp copies are fresh. Waiting on Pablo's decision."
+  },
+  {
+   "trabajo": "canales",
+   "cuando": "{{D+0}}T03:00",
+   "resultado": "ok",
+   "produjo": 11,
+   "nota": "Read 11 channels: 41 new mails, 3 recordings, 19 open tasks, 6 events this week"
+  },
+  {
+   "trabajo": "canales",
+   "cuando": "{{D-1}}T03:02",
+   "resultado": "ok",
+   "produjo": 11,
+   "nota": "Read 11 channels: 23 new mails, 1 recording, 4 events"
+  },
+  {
+   "trabajo": "bandeja",
+   "cuando": "{{D-1}}T03:20",
+   "resultado": "ok",
+   "produjo": 23,
+   "nota": "Labeled 23 mails; Daniela Ruiz (Grupo Ferra) wrote with two questions for her board"
+  },
+  {
+   "trabajo": "prep",
+   "cuando": "{{D-1}}T03:33",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Prep written for the Mexas dinner follow-ups"
+  },
+  {
+   "trabajo": "registro",
+   "cuando": "{{D-1}}T03:48",
+   "resultado": "sin-novedad",
+   "produjo": 0,
+   "nota": "No new people since the last run"
+  },
+  {
+   "trabajo": "seguimiento",
+   "cuando": "{{D-1}}T04:10",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Drafted the reply to Daniela Ruiz in Spanish, with the English under it"
+  },
+  {
+   "trabajo": "tiempo",
+   "cuando": "{{D-1}}T04:28",
+   "resultado": "ok",
+   "produjo": 0,
+   "nota": "The week's read written: three findings and one move"
+  },
+  {
+   "trabajo": "cierre",
+   "cuando": "{{D-1}}T04:40",
+   "resultado": "ok",
+   "produjo": 4,
+   "nota": "Weekly close ready: 4 questions for you, next week's three goals drafted"
+  },
+  {
+   "trabajo": "juez",
+   "cuando": "{{D-1}}T04:47",
+   "resultado": "ok",
+   "produjo": 28,
+   "nota": "28 of 28 agents passed"
+  },
+  {
+   "trabajo": "canales",
+   "cuando": "{{D-2}}T03:01",
+   "resultado": "ok",
+   "produjo": 11,
+   "nota": "Read 11 channels: 18 new mails, 2 recordings"
+  },
+  {
+   "trabajo": "canales-mac",
+   "cuando": "{{D-2}}T03:05",
+   "resultado": "ok",
+   "produjo": 3,
+   "nota": "Brightspace, LinkedIn and X copies refreshed"
+  },
+  {
+   "trabajo": "prep",
+   "cuando": "{{D-2}}T03:30",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Prep written for the Mexas dinner: 12 names on the list, 4 worth a real conversation"
+  },
+  {
+   "trabajo": "cracks",
+   "cuando": "{{D-2}}T03:52",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Nathan Okafor opened the first message a second time; follow-up 2 queued"
+  },
+  {
+   "trabajo": "bentley",
+   "cuando": "{{D-2}}T04:21",
+   "resultado": "ok",
+   "produjo": 2,
+   "nota": "Two Brightspace changes: RIA rubric posted, FDS quiz date set"
+  },
+  {
+   "trabajo": "juez",
+   "cuando": "{{D-2}}T04:44",
+   "resultado": "ok",
+   "produjo": 28,
+   "nota": "28 of 28 agents passed"
+  },
+  {
+   "trabajo": "canales",
+   "cuando": "{{D-3}}T03:03",
+   "resultado": "ok",
+   "produjo": 11,
+   "nota": "Read 11 channels: 31 new mails, 1 recording"
+  },
+  {
+   "trabajo": "esperando",
+   "cuando": "{{D-3}}T03:24",
+   "resultado": "ok",
+   "produjo": 2,
+   "nota": "Two items waiting: Ernesto Salinas (class visit), Bentley career office (mentor match)"
+  },
+  {
+   "trabajo": "linkedin",
+   "cuando": "{{D-3}}T03:57",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Post drafted: the three tests before handing a task to a model"
+  },
+  {
+   "trabajo": "linkedin-mac",
+   "cuando": "{{D-3}}T04:06",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Posted. 1,200 views by midnight, 41 reactions, 9 comments"
+  },
+  {
+   "trabajo": "juez",
+   "cuando": "{{D-3}}T04:42",
+   "resultado": "ok",
+   "produjo": 28,
+   "nota": "28 of 28 agents passed"
+  },
+  {
+   "trabajo": "canales",
+   "cuando": "{{D-4}}T03:02",
+   "resultado": "ok",
+   "produjo": 11,
+   "nota": "Read 11 channels: 27 new mails, 2 recordings, 5 events"
+  },
+  {
+   "trabajo": "prep",
+   "cuando": "{{D-4}}T03:29",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Prep written for the intro call with Prof. Purcell"
+  },
+  {
+   "trabajo": "digest",
+   "cuando": "{{D-4}}T04:18",
+   "resultado": "ok",
+   "produjo": 5,
+   "nota": "Digest ready: 5 pieces, 11 minutes"
+  },
+  {
+   "trabajo": "juez",
+   "cuando": "{{D-4}}T04:41",
+   "resultado": "ok",
+   "produjo": 28,
+   "nota": "28 of 28 agents passed"
+  },
+  {
+   "trabajo": "canales-mac",
+   "cuando": "{{D-5}}T03:04",
+   "resultado": "ok",
+   "produjo": 3,
+   "nota": "Brightspace, LinkedIn and X copies refreshed"
+  },
+  {
+   "trabajo": "linkedin-mac",
+   "cuando": "{{D-5}}T04:07",
+   "resultado": "fallo",
+   "produjo": 0,
+   "nota": "LinkedIn asked for a captcha. Stopped and left it for you; nothing was liked."
+  },
+  {
+   "trabajo": "taller",
+   "cuando": "{{D-5}}T04:36",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "Morning pass: linkedin-mac now stops at the first captcha instead of retrying"
+  },
+  {
+   "trabajo": "juez",
+   "cuando": "{{D-5}}T04:43",
+   "resultado": "ok",
+   "produjo": 27,
+   "nota": "27 of 28 agents passed. linkedin-mac stopped at a captcha."
+  },
+  {
+   "trabajo": "canales",
+   "cuando": "{{D-6}}T03:01",
+   "resultado": "ok",
+   "produjo": 11,
+   "nota": "Read 11 channels: 22 new mails, 3 recordings"
+  },
+  {
+   "trabajo": "registro",
+   "cuando": "{{D-6}}T03:47",
+   "resultado": "ok",
+   "produjo": 2,
+   "nota": "Two new people from the AI101 guest lecture added to the CRM"
+  },
+  {
+   "trabajo": "coach",
+   "cuando": "{{D-7}}T04:12",
+   "resultado": "ok",
+   "produjo": 1,
+   "nota": "One pattern: 'let me know' closes four mails this week — ask for the one thing instead"
+  },
+  {
+   "trabajo": "cierre",
+   "cuando": "{{D-8}}T04:40",
+   "resultado": "ok",
+   "produjo": 3,
+   "nota": "Weekly close ready: 3 questions for you"
+  },
+  {
+   "trabajo": "canales",
+   "cuando": "{{D-10}}T03:02",
+   "resultado": "ok",
+   "produjo": 11,
+   "nota": "Read 11 channels: 25 new mails, 2 recordings"
+  }
+ ]
+}

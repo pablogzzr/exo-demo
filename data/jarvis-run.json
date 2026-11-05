@@ -1,0 +1,125 @@
+{
+ "_how": "The payload the /run?embed=1&tema=spazio iframe must postMessage to window.parent (targetOrigin = same origin) on load and after every change. Until the shell receives one, every command it sends is queued.",
+ "tipo": "jarvis-run",
+ "started": false,
+ "left": 8,
+ "allDone": false,
+ "weekFirst": false,
+ "tiers": [
+  {
+   "n": 1,
+   "name": "Urgent + important",
+   "total": 5,
+   "closed": false,
+   "rows": [
+    {
+     "open": true,
+     "title": "Reply to Daniela Ruiz (Grupo Ferra) — the board decides in two days",
+     "tile": "commit",
+     "tileName": "Promises and replies",
+     "job": "esperando"
+    },
+    {
+     "open": true,
+     "title": "Pick three samples for Rebecca Lind — she asked for campaigns you've made",
+     "tile": "commit",
+     "tileName": "Promises and replies",
+     "job": "prep"
+    },
+    {
+     "open": true,
+     "title": "10:00 · Rebecca Lind — G19 Studio",
+     "tile": "prep",
+     "tileName": "Meeting prep",
+     "job": "prep"
+    },
+    {
+     "open": true,
+     "title": "14:15 · Matthew Hale — NEST",
+     "tile": "prep",
+     "tileName": "Meeting prep",
+     "job": "prep"
+    },
+    {
+     "open": false,
+     "title": "FDS100 reading quiz 6 — tomorrow 9:00",
+     "tile": "due",
+     "tileName": "Due soon · Bentley",
+     "job": "bentley-entregas"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Important",
+   "total": 5,
+   "closed": false,
+   "rows": [
+    {
+     "open": true,
+     "title": "Sofía Treviño — the one-pager you promised",
+     "tile": "warm",
+     "tileName": "Warm outreach",
+     "job": "seguimiento"
+    },
+    {
+     "open": true,
+     "title": "Nathan Okafor — follow-up 2, he opened the first one twice",
+     "tile": "cold",
+     "tileName": "Cold outreach",
+     "job": "cracks"
+    },
+    {
+     "open": true,
+     "title": "Explaining AI to founders — this week's post",
+     "tile": "linkedin",
+     "tileName": "LinkedIn",
+     "job": "linkedin"
+    },
+    {
+     "open": false,
+     "title": "MIT club event in two days — kept",
+     "tile": "events",
+     "tileName": "Events",
+     "job": "platicas"
+    },
+    {
+     "open": false,
+     "title": "Ernesto Salinas — nudge drafted, your call",
+     "tile": "commit",
+     "tileName": "Promises and replies",
+     "job": "esperando"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Nice to have",
+   "total": 3,
+   "closed": false,
+   "rows": [
+    {
+     "open": true,
+     "title": "Lesson of the day: you rise by going down",
+     "tile": "think",
+     "tileName": "Your thinking cards",
+     "job": "leccion"
+    },
+    {
+     "open": false,
+     "title": "Study queue: Goldratt, the five focusing steps",
+     "tile": "study",
+     "tileName": "Study queue",
+     "job": "estudio"
+    },
+    {
+     "open": false,
+     "title": "7 flashcards due",
+     "tile": "cards",
+     "tileName": "Flashcards",
+     "job": "estudio"
+    }
+   ]
+  }
+ ]
+}

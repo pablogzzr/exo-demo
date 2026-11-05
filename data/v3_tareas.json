@@ -1,0 +1,93 @@
+{
+ "tareas": [
+  {
+   "id": "td-9120044101",
+   "prioridad": "p1",
+   "proyecto": "Vocación",
+   "titulo": "Reply to Daniela Ruiz — the two Grupo Ferra questions before the board",
+   "nota": "Draft in Exo, Spanish",
+   "vence": "{{D+0}}"
+  },
+  {
+   "id": "td-9120044102",
+   "prioridad": "p1",
+   "proyecto": "Vocación",
+   "titulo": "Bring three samples for Rebecca Lind: two posts and the Ferra one-pager",
+   "nota": "",
+   "vence": "{{D+0}}"
+  },
+  {
+   "id": "td-9120044103",
+   "prioridad": "p2",
+   "proyecto": "Vocación",
+   "titulo": "Send Sofía Treviño the one-pager",
+   "nota": "She offered a family office intro",
+   "vence": "{{D+1}}"
+  },
+  {
+   "id": "td-9120044104",
+   "prioridad": "p2",
+   "proyecto": "Vocación",
+   "titulo": "a16z Academy: record the 3-minute demo walkthrough",
+   "nota": "",
+   "vence": "{{D+3}}"
+  },
+  {
+   "id": "td-9120044105",
+   "prioridad": "p3",
+   "proyecto": "Vocación",
+   "titulo": "Update the Grupo Ferra scope v3 note after the board decision",
+   "nota": "",
+   "vence": "{{D+3}}"
+  },
+  {
+   "id": "td-9120044106",
+   "prioridad": "p3",
+   "proyecto": "Bentley",
+   "titulo": "FDS100 reading quiz 6",
+   "nota": "",
+   "vence": "{{D+1}}"
+  },
+  {
+   "id": "td-9120044107",
+   "prioridad": "p3",
+   "proyecto": "Bentley",
+   "titulo": "Office hours with Prof. Delgado — EMS101 case memo",
+   "nota": "",
+   "vence": "{{D+2}}"
+  },
+  {
+   "id": "td-9120044108",
+   "prioridad": "p2",
+   "proyecto": "Waiting for",
+   "titulo": "Ernesto Salinas — a date to sit in on his class",
+   "nota": "",
+   "vence": ""
+  },
+  {
+   "id": "td-9120044109",
+   "prioridad": "p3",
+   "proyecto": "Waiting for",
+   "titulo": "Prof. Yen — the AI101 regrade",
+   "nota": "",
+   "vence": ""
+  },
+  {
+   "id": "td-9120044110",
+   "prioridad": "p4",
+   "proyecto": "Personal",
+   "titulo": "Call Mom (Lucía) about Diego's visit in December",
+   "nota": "",
+   "vence": "{{D+2}}"
+  },
+  {
+   "id": "td-9120044111",
+   "prioridad": "p4",
+   "proyecto": "Personal",
+   "titulo": "Renew the T pass",
+   "nota": "",
+   "vence": "{{D+4}}"
+  }
+ ],
+ "generado": "{{D+0}} 03:05"
+}

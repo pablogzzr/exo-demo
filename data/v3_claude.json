@@ -1,0 +1,32 @@
+{
+ "_how": "POST /api/v3/claude {prompt, agente?} -> answer `post`. GET /api/v3/claude?id=<id> -> answer {estado:'corriendo'} on the first poll, then the entry of `answers` whose key appears in the lowercased prompt, else `default`. Also used by /api/v3/dia polling and the council.",
+ "post": {
+  "id": "demo-ask"
+ },
+ "answers": {
+  "g19": {
+   "estado": "listo",
+   "texto": "*Through Goldratt, Frankl and Marcus Aurelius.*\n\n**Short answer: don't choose yet.** You don't have an offer from G19; you have a first meeting. Ferra is the only proof you have that your work changes a factory floor.\n\n- **Goldratt** would ask where the bottleneck is. It isn't options, it's evidence: one more client result is worth more than a second logo.\n- **Frankl** would ask what the summer is *for*. If it's learning how a firm sells change, G19 teaches it. If it's building, Ferra phase two does.\n- **Marcus Aurelius:** do the next thing well. Today that is the 10:00 with Rebecca.\n\n**Next step:** ask Rebecca which client took longest to adopt what G19 built. Her answer tells you whether G19 sells software or change — and whether you'd learn there what Ferra can't teach you."
+  },
+  "sofia": {
+   "estado": "listo",
+   "texto": "**[[Sofía Treviño]]** — HBS '27, from Monterrey. You met her at the Mexas dinner; she offered an intro to a Boston family office and you promised her your one-pager.\n\n**Where it stands**\n- The one-pager exists (the Ferra version, one page). Nothing sent yet.\n- The warm follow-up agent drafted the message in Spanish with the English under it — it is in Outreach, today's batch.\n- Your week file says *ship it tomorrow*; the draft is ready today.\n\n**What I would do:** send it today, before Matthew, with one line asking what the family office cares about most (operating businesses or software). Her answer tells you which page to show them.\n\nOpen: [[Sofía Treviño]]"
+  },
+  "matthew": {
+   "estado": "listo",
+   "texto": "**Matthew Hale** — partnerships at NEST, the Cambridge hardware incubator. MIT '19. First meeting today at 14:15, Kendall Square; leave at 13:35 (Red Line, 25 min).\n\n**What he wants:** *someone who can explain AI to our founders without the hype.* That is your line, in his words.\n\n**Good to know**\n- NEST runs two cohorts a year, about ten hardware startups each; most founders are engineers who distrust AI vendors.\n- He is not buying consulting today. He is testing whether you can hold a room of skeptics.\n\n**Ask him**\n- *When a founder asks you \"should we use AI for this?\", what do you tell them today?* — his answer shows the gap you fill.\n- Offer one free session, no deck, and let him name the topic.\n\nThe prep is in Meeting prep."
+  },
+  "ferra": {
+   "estado": "listo",
+   "texto": "**Grupo Ferra** (Monterrey, ~200 people) — the client. Daniela Ruiz, operations director, wrote two days ago with two questions; her board decides in two days.\n\n**Her questions**\n1. What happens with our customers' data if we use the tool?\n2. What do we do if the team stops using it in three months?\n\n**The reply, drafted** (it waits in Mail, nothing sent):\n\nDaniela, here are the two answers, short so you can take them to the board as they are.\n\n1. Data. Nothing leaves Ferra: the tool runs on company accounts, customer data trains no model, and we put it in writing in the contract, with the clause your lawyer already reviewed in phase one.\n\n2. Adoption. If in three months the team isn't using it, the problem is mine, not theirs. That is why phase two is paid against measured use: five planners, four weeks, the metric you choose. If it doesn't move, you don't pay.\n\nIf it helps the board, I'm available the day of the meeting at whatever time you say.\n\nPablo\n\n**Scope:** [[Grupo Ferra — scope v3]] — phase two is five planners, four weeks, paid against measured use."
+  },
+  "rebecca": {
+   "estado": "listo",
+   "texto": "**[[Rebecca Lind]]** — Bentley '24, Chief Business Officer at G19 Studio (custom AI for mid-size firms). First meeting today at 10:00 on Zoom, introduced by Prof. Alan Purcell.\n\nShe asked you to *bring campaigns or content you've made*. The prep picked three: the LinkedIn post at 1,200 views, the Ferra one-pager, and the post on explaining AI to founders.\n\n**One question for her:** *which of your clients took longest to adopt what you built, and why?* — it tells you whether G19 sells software or change.\n\nThe prep: [[Rebecca Lind]]."
+  },
+  "default": {
+   "estado": "listo",
+   "texto": "I read your brain for this: the week file, today's preps, the CRM and the last two recordings.\n\n**Short answer:** today is two first meetings, one client reply and one promise. Everything else lives in its own app.\n\n- **Rebecca Lind** at 10:00 — samples ready in the prep.\n- **Matthew Hale** at 14:15 — leave at 13:35.\n- **Daniela Ruiz (Grupo Ferra)** — the reply is drafted; the board decides in two days.\n- **Sofía Treviño** — the one-pager you promised, in Outreach.\n\nAsk me about any of them by name and I'll open what I have."
+  }
+ }
+}

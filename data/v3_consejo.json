@@ -1,0 +1,89 @@
+{
+ "gente": [
+  {
+   "nombre": "Jeff Bezos",
+   "nota": "3 Resources/Aprendizaje/Consejo/Jeff Bezos.md",
+   "linea": "Work backwards from the customer; write the six-pager before the meeting; be stubborn on the vision and flexible on the details."
+  },
+  {
+   "nombre": "Steve Jobs",
+   "nota": "3 Resources/Aprendizaje/Consejo/Steve Jobs.md",
+   "linea": "Say no to a thousand things; the product is the whole experience, not the feature; taste is what you remove."
+  },
+  {
+   "nombre": "Michael Dell",
+   "nota": "3 Resources/Aprendizaje/Consejo/Michael Dell.md",
+   "linea": "Sell direct, build to order, keep inventory near zero — the model is the moat, not the machine."
+  },
+  {
+   "nombre": "Elon Musk",
+   "nota": "3 Resources/Aprendizaje/Consejo/Elon Musk.md",
+   "linea": "Question every requirement, delete the part, then simplify; the best process is no process."
+  },
+  {
+   "nombre": "Dale Carnegie",
+   "nota": "3 Resources/Aprendizaje/Consejo/Dale Carnegie.md",
+   "linea": "Talk in terms of the other person's interests; remember the name; let them save face."
+  },
+  {
+   "nombre": "Robert Greene",
+   "nota": "3 Resources/Aprendizaje/Consejo/Robert Greene.md",
+   "linea": "Mastery takes a long apprenticeship; read power as it is, not as you wish it were."
+  },
+  {
+   "nombre": "Simon Sinek",
+   "nota": "3 Resources/Aprendizaje/Consejo/Simon Sinek.md",
+   "linea": "Start with why; the infinite game is played to keep playing, not to win."
+  },
+  {
+   "nombre": "Ethan Mollick",
+   "nota": "3 Resources/Aprendizaje/Consejo/Ethan Mollick.md",
+   "linea": "Bring AI to every task and see where it fails; the centaur and the cyborg are two ways to work with it."
+  },
+  {
+   "nombre": "David Goggins",
+   "nota": "3 Resources/Aprendizaje/Consejo/David Goggins.md",
+   "linea": "Callous the mind; the 40% rule; nobody is coming to save you."
+  },
+  {
+   "nombre": "Tony Robbins",
+   "nota": "3 Resources/Aprendizaje/Consejo/Tony Robbins.md",
+   "linea": "State, story, strategy — in that order; change the question and you change the answer."
+  },
+  {
+   "nombre": "Enrique Shaw",
+   "nota": "3 Resources/Aprendizaje/Consejo/Enrique Shaw.md",
+   "linea": "The company is a community of persons; a boss serves first; sanctity is possible in a factory."
+  },
+  {
+   "nombre": "Viktor Frankl",
+   "nota": "3 Resources/Aprendizaje/Consejo/Viktor Frankl.md",
+   "linea": "Between stimulus and response there is a space; meaning is found in work, love and suffering borne well."
+  },
+  {
+   "nombre": "Aristotle",
+   "nota": "3 Resources/Aprendizaje/Consejo/Aristotle.md",
+   "linea": "Virtue is a habit; the mean between excess and defect; happiness is activity in accordance with excellence."
+  },
+  {
+   "nombre": "Marcus Aurelius",
+   "nota": "3 Resources/Aprendizaje/Consejo/Marcus Aurelius.md",
+   "linea": "You have power over your mind, not outside events; do the thing in front of you."
+  },
+  {
+   "nombre": "C.S. Lewis",
+   "nota": "3 Resources/Aprendizaje/Consejo/C.S. Lewis.md",
+   "linea": "Humility is thinking of yourself less; the longing points to something beyond this world."
+  },
+  {
+   "nombre": "Jacques Philippe",
+   "nota": "3 Resources/Aprendizaje/Consejo/Jacques Philippe.md",
+   "linea": "Interior freedom grows in acceptance; peace of heart is the condition for doing good, not its reward."
+  },
+  {
+   "nombre": "Pope Leo XIV",
+   "nota": "3 Resources/Aprendizaje/Consejo/Pope Leo XIV.md",
+   "linea": "Ask the one the decision lands on; technology must serve the dignity of the person and the common good."
+  }
+ ]
+}

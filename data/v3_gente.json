@@ -1,0 +1,276 @@
+{
+ "gente": [
+  {
+   "nombre": "Sofía Treviño",
+   "tipo": "Warm",
+   "metas": "Boston network · family office",
+   "contexto": "HBS '27, from Monterrey, three years in strategy at a cement group before HBS. Met **last Saturday** at the Harvard Mexas dinner. Offered an intro to a three-person family office in Back Bay that asked her how to bring AI into a family company without the people rejecting it. **You owe her the one-pager.**",
+   "seccion": "Harvard Mexas dinner",
+   "perfil": "2 Areas/Personal CRM/Personas/Sofía Treviño.md"
+  },
+  {
+   "nombre": "Rebecca Lind",
+   "tipo": "Warm",
+   "metas": "Peers in AI consulting",
+   "contexto": "Bentley '24, Chief Business Officer at G19 Studio — 14 people in Boston, custom AI for mid-size firms. Runs sales and scoping. Introduced by Prof. Purcell five days ago. First meeting **today 10:00** on Zoom; she asked for \"campaigns or content you've made\".",
+   "seccion": "Bentley alumni",
+   "perfil": "2 Areas/Personal CRM/Personas/Rebecca Lind.md"
+  },
+  {
+   "nombre": "Matthew Hale",
+   "tipo": "Warm",
+   "metas": "Boston network · incubators",
+   "contexto": "Partnerships lead at NEST, a Cambridge hardware incubator (12 companies a cohort). MIT '19. Wrote first after your post; wants \"someone who can explain AI to our founders without the hype\". First meeting **today 14:15**, 1 Broadway.",
+   "seccion": "Cold inbound",
+   "perfil": "2 Areas/Personal CRM/Personas/Matthew Hale.md"
+  },
+  {
+   "nombre": "Daniela Ruiz",
+   "tipo": "Client",
+   "metas": "Grupo Ferra · phase two",
+   "contexto": "Operations director at Grupo Ferra (Monterrey, ~200 people, metal parts). Your sponsor with the board since July. Wrote two days ago with two board questions: data ownership, and what you do when usage drops. **Board decides in two days.**",
+   "seccion": "VYNMSA clients",
+   "perfil": "2 Areas/Personal CRM/Personas/Daniela Ruiz.md"
+  },
+  {
+   "nombre": "Rodrigo Fuentes",
+   "tipo": "Client",
+   "metas": "Grupo Ferra · phase two",
+   "contexto": "Plant manager at Grupo Ferra. The real buyer: asked the adoption question twice in the scope meeting. Lost a maintenance system in 2023 to nobody owning it. Put him in the weekly usage review.",
+   "seccion": "VYNMSA clients",
+   "perfil": ""
+  },
+  {
+   "nombre": "Nathan Okafor",
+   "tipo": "Cold",
+   "metas": "US manufacturers · ops leaders",
+   "contexto": "Head of Operations at a 300-person logistics firm in Ohio. Cold outreach: opened your first message twice, no reply. Follow-up 2 drafted. Posts about dock-scheduling pain every few weeks.",
+   "seccion": "Cold outreach",
+   "perfil": ""
+  },
+  {
+   "nombre": "Alain Chenier",
+   "tipo": "Cold",
+   "metas": "Founders · AI for industry",
+   "contexto": "Founder of a Montreal company that makes inspection cameras for sawmills (40 people). Wrote on LinkedIn that his customers want \"AI\" and he does not know what to promise. First cold message drafted.",
+   "seccion": "Cold outreach",
+   "perfil": ""
+  },
+  {
+   "nombre": "Rachel Whitfield",
+   "tipo": "Cold",
+   "metas": "US distributors",
+   "contexto": "COO of Harrow Distribution, 14 warehouses in New England. Replied yesterday to your cold message: \"about a day, and usually wrong\". In Boston two days next week — send a time.",
+   "seccion": "Cold outreach",
+   "perfil": ""
+  },
+  {
+   "nombre": "Jonah Feldstein",
+   "tipo": "Cold",
+   "metas": "US manufacturers · food",
+   "contexto": "Owner of Feldstein Foods (Vermont, 120 people). Bought two AI tools nobody uses. Asked for the short version; you sent it this morning.",
+   "seccion": "Cold outreach",
+   "perfil": ""
+  },
+  {
+   "nombre": "Ernesto Salinas",
+   "tipo": "Warm",
+   "metas": "Harvard network",
+   "contexto": "Harvard College junior from San Luis Potosí. Offered a seat in the weekly entrepreneurship seminar. **Silent for 9 days** since you asked which week. Waiting for; one nudge, then let it go.",
+   "seccion": "Harvard Mexas",
+   "perfil": ""
+  },
+  {
+   "nombre": "Alan Purcell",
+   "tipo": "Mentor",
+   "metas": "Bentley · CS100",
+   "contexto": "Your CS100 professor. Ex-CTO of a Boston logistics software company. Introduced you to Rebecca Lind; pushes you to finish the Academy application. Office hours once a week at 13:30.",
+   "seccion": "Bentley faculty",
+   "perfil": ""
+  },
+  {
+   "nombre": "Priya Raman",
+   "tipo": "Mentor",
+   "metas": "Bentley · career coaching",
+   "contexto": "Career coach at CareerEdge, ex-recruiter. Two sessions so far. Her rule: say what changed for the client before what you built. Reads your Academy answers.",
+   "seccion": "Bentley faculty",
+   "perfil": ""
+  },
+  {
+   "nombre": "Lena Hartwig",
+   "tipo": "New",
+   "metas": "MIT network",
+   "contexto": "MIT '27, co-president of the MIT AI Club. Runs the speaker calendar. Confirmed your spot at Founders & Builders night in two days. The person to ask about a spring talk.",
+   "seccion": "MIT",
+   "perfil": ""
+  },
+  {
+   "nombre": "Tomás Aguirre",
+   "tipo": "New",
+   "metas": "Mexican industrial policy",
+   "contexto": "HKS, from Guadalajara. Met last Saturday at the Mexas dinner; works on industrial policy for northern Mexico. Wants to read the Ferra story. Not a client; a bridge to government money for SME training.",
+   "seccion": "Harvard Mexas dinner",
+   "perfil": ""
+  },
+  {
+   "nombre": "Andrés Villarreal",
+   "tipo": "New",
+   "metas": "MIT network",
+   "contexto": "MIT Sloan '26, from Monterrey. Met last Saturday. Knows the NEST people; said Matthew Hale is \"the one who actually answers mail\". Second coffee after the MIT night.",
+   "seccion": "Harvard Mexas dinner",
+   "perfil": ""
+  },
+  {
+   "nombre": "Camila Ortega",
+   "tipo": "New",
+   "metas": "Harvard network",
+   "contexto": "Harvard College senior, Mexico City. Runs the Mexas list and the dinners. Asked you to speak at the spring dinner — answer her this week.",
+   "seccion": "Harvard Mexas dinner",
+   "perfil": ""
+  },
+  {
+   "nombre": "Dana Whitlock",
+   "tipo": "New",
+   "metas": "Founders · hardware",
+   "contexto": "Founder of Ferrous Robotics, NEST cohort. Matthew calls her the skeptic. May stop by today's meeting for ten minutes. Her product: weld inspection arms for small shops.",
+   "seccion": "NEST",
+   "perfil": ""
+  },
+  {
+   "nombre": "Marcus Bell",
+   "tipo": "Warm",
+   "metas": "Bentley alumni · consulting",
+   "contexto": "Bentley '21, associate at a Boston operations consultancy. Met at the alumni panel three weeks ago; he offered to read the one-pager. You never followed up.",
+   "seccion": "Bentley alumni",
+   "perfil": ""
+  },
+  {
+   "nombre": "Helena Strand",
+   "tipo": "Cold",
+   "metas": "US manufacturers · ops leaders",
+   "contexto": "VP Operations at a Danish furniture maker's plant in North Carolina (260 people). Posted last week about supervisors drowning in reports. Cold message drafted, not yet in the batch.",
+   "seccion": "Cold outreach",
+   "perfil": ""
+  },
+  {
+   "nombre": "Ana Delgado",
+   "tipo": "Professor",
+   "metas": "Bentley · EMS101",
+   "contexto": "EMS101 professor. Moved the case memo two days later. Likes short memos with one recommendation.",
+   "seccion": "Bentley faculty",
+   "perfil": ""
+  },
+  {
+   "nombre": "Luca Marchetti",
+   "tipo": "Professor",
+   "metas": "Bentley · CS100",
+   "contexto": "CS100 — section with Prof. Purcell's material; Marchetti runs the twice-a-week sessions. Grades on the project, not the exam.",
+   "seccion": "Bentley faculty",
+   "perfil": ""
+  },
+  {
+   "nombre": "Chidi Okonkwo",
+   "tipo": "Professor",
+   "metas": "Bentley · FDS100",
+   "contexto": "FDS100 professor. Problem set every two weeks; set 6 due in five days.",
+   "seccion": "Bentley faculty",
+   "perfil": ""
+  },
+  {
+   "nombre": "Grace Yen",
+   "tipo": "Professor",
+   "metas": "Bentley · AI101",
+   "contexto": "AI101 professor. Asked you to present the Ferra case to the class in November; date not set.",
+   "seccion": "Bentley faculty",
+   "perfil": ""
+  },
+  {
+   "nombre": "Lucía Garza",
+   "tipo": "Family",
+   "metas": "—",
+   "contexto": "Your mother, in Monterrey. Wants a photo of the dinner for your grandmother. Calls twice a week at 20:00.",
+   "seccion": "Family",
+   "perfil": ""
+  },
+  {
+   "nombre": "Diego González",
+   "tipo": "Family",
+   "metas": "—",
+   "contexto": "Your brother, 19, studying in Monterrey. Learned to make rice this week, according to your mother.",
+   "seccion": "Family",
+   "perfil": ""
+  },
+  {
+   "nombre": "Felipe Cantú",
+   "tipo": "Warm",
+   "metas": "Monterrey · VYNMSA",
+   "contexto": "Your partner at VYNMSA in Monterrey. Runs delivery while you are in Boston; weekly call at the end of the week. Needs the Ferra phase-two scope to staff it.",
+   "seccion": "VYNMSA",
+   "perfil": ""
+  },
+  {
+   "nombre": "Kenji Watanabe",
+   "tipo": "New",
+   "metas": "Boston network · investors",
+   "contexto": "Associate at a Boston seed fund, met at a Bentley talk two weeks ago. Asked what you would do with the Academy if you got in. No follow-up yet; not a priority until the application is in.",
+   "seccion": "Boston events",
+   "perfil": ""
+  },
+  {
+   "nombre": "Isabel Moreno",
+   "tipo": "Warm",
+   "metas": "Monterrey · clients",
+   "contexto": "Owner of a 60-person packaging company in Apodaca. Daniela's friend; asked for a call about \"what you did at Ferra\". After the board decision.",
+   "seccion": "VYNMSA pipeline",
+   "perfil": ""
+  },
+  {
+   "nombre": "Maya Chen",
+   "tipo": "Warm",
+   "metas": "San Francisco · AI startups",
+   "contexto": "Product lead at a 40-person startup building warehouse robots in **San Francisco**. Met on the Bentley SF trek in August; she offered to show him their pilot playbook.",
+   "seccion": "Bentley SF trek",
+   "perfil": ""
+  },
+  {
+   "nombre": "Daniel Ortiz",
+   "tipo": "Warm",
+   "metas": "San Francisco · founders",
+   "contexto": "Founder from Monterrey building supply-chain software in **San Francisco**. Introduced by Ernesto. Wants to compare notes on selling to family companies.",
+   "seccion": "Intro from Ernesto",
+   "perfil": ""
+  },
+  {
+   "nombre": "Hannah Brooks",
+   "tipo": "New",
+   "metas": "San Francisco · investors",
+   "contexto": "Associate at a seed fund in **San Francisco** that backs industrial AI. Met at a Venture Café session in Cambridge.",
+   "seccion": "Venture Café",
+   "perfil": ""
+  },
+  {
+   "nombre": "Luis Herrera",
+   "tipo": "Warm",
+   "metas": "San Francisco · Stanford GSB",
+   "contexto": "Stanford GSB ’26, from Monterrey; same high school. Lives in **San Francisco** and hosts a monthly Latam founders dinner.",
+   "seccion": "High school",
+   "perfil": ""
+  },
+  {
+   "nombre": "Olivia Park",
+   "tipo": "New",
+   "metas": "San Francisco · operations",
+   "contexto": "Head of ops at a logistics marketplace in **San Francisco**. Commented on his Ferra post; asked how the supervisors were trained.",
+   "seccion": "LinkedIn",
+   "perfil": ""
+  },
+  {
+   "nombre": "Sam Whitaker",
+   "tipo": "Mentor",
+   "metas": "San Francisco · AI engineering",
+   "contexto": "Engineer at an AI company in **San Francisco** who mentors Bentley students. Reviewed Exo’s agent setup in October.",
+   "seccion": "Bentley mentors",
+   "perfil": ""
+  }
+ ]
+}

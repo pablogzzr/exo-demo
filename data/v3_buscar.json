@@ -1,0 +1,159 @@
+{
+ "q": "",
+ "resultados": [
+  {
+   "ruta": "1 Projects/Grupo Ferra/Fase dos — alcance.md",
+   "titulo": "Grupo Ferra — phase two scope",
+   "carpeta": "1 Projects/Grupo Ferra",
+   "fragmento": "Two streams, not three. Shift assistant for the night shift and a weekly dashboard for Daniela and Rodrigo; quality photos parked until line 3 has light. Board decides in two days.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "1 Projects/a16z Academy/Application — answers.md",
+   "titulo": "a16z Academy — application answers",
+   "carpeta": "1 Projects/a16z Academy",
+   "fragmento": "Five answers. Three done (who you are, what you built, why now), two open (what you would do with the Academy, the hardest thing). Priya's cut: say what changed before what you built.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "3 Resources/Ideas y escritos/Escritos/One-pager — AI that adapts to the worker.md",
+   "titulo": "One-pager — AI that adapts to the worker",
+   "carpeta": "3 Resources/Ideas y escritos/Escritos",
+   "fragmento": "The one-pager for Sofía's family office and Rebecca: what Ferra got, how, and what a family company should do first. One page, four numbers.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "3 Resources/Ideas y escritos/Ideas/Notas/my-analogies-for-explaining-ai.md",
+   "titulo": "My analogies for explaining AI",
+   "carpeta": "3 Resources/Ideas y escritos/Ideas/Notas",
+   "fragmento": "The bank of analogies I use with non-technical people: the new hire who read everything but has never been in your plant; the intern with no memory; the calculator that argues.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "3 Resources/Aprendizaje/Biblioteca/Negocios y Estrategia/The Goal — Goldratt.md",
+   "titulo": "The Goal — Goldratt",
+   "carpeta": "3 Resources/Aprendizaje/Biblioteca/Negocios y Estrategia",
+   "fragmento": "Bottleneck first. The one lever that moves everything today; solve it before moving. Rated 5/5. The filter I use when the week has too many fronts.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "3 Resources/Aprendizaje/Biblioteca/Fe y Espiritualidad/Magnifica Humanitas — León XIV.md",
+   "titulo": "Magnifica Humanitas — León XIV",
+   "carpeta": "3 Resources/Aprendizaje/Biblioteca/Fe y Espiritualidad",
+   "fragmento": "Subsidiarity: ask the one the decision lands on, not the most important person in the room. The ethical test for every AI decision.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "3 Resources/Aprendizaje/Biblioteca/Negocios y Estrategia/How to Win Friends — Carnegie.md",
+   "titulo": "How to Win Friends — Carnegie",
+   "carpeta": "3 Resources/Aprendizaje/Biblioteca/Negocios y Estrategia",
+   "fragmento": "Talk in terms of the other person's interests. Read before the Boston networking week; the rule for tonight's dinner: two conversations with strangers before you find anyone you know.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "2 Areas/Bentley/EMS101/Case memo — Ferrous Robotics pricing.md",
+   "titulo": "EMS101 — case memo, Ferrous Robotics pricing",
+   "carpeta": "2 Areas/Bentley/EMS101",
+   "fragmento": "Two pages, one recommendation: price the inspection arm per weld, not per machine. Due in three days, 23:59 on Brightspace, after Prof. Delgado moved it.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "2 Areas/Bentley/CS100/Project — Exo for one person.md",
+   "titulo": "CS100 — project: Exo for one person",
+   "carpeta": "2 Areas/Bentley/CS100",
+   "fragmento": "Prof. Marchetti's project. Pablo's entry: how a non-programmer built a 28-agent system with Claude Code. Grade on the project, not the exam.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "1 Projects/Second Brain as a service/MVP — notes.md",
+   "titulo": "Second Brain as a service — MVP notes",
+   "carpeta": "1 Projects/Second Brain as a service",
+   "fragmento": "The product, not my brain: a second brain for a non-technical leader, run by someone else. First two candidates: Isabel Moreno, Felipe's cousin. Parked until the Academy is in.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "2 Areas/Harvard Mexas/Dinner — last Saturday.md",
+   "titulo": "Harvard Mexas dinner — last Saturday",
+   "carpeta": "2 Areas/Harvard Mexas",
+   "fragmento": "Fourteen people, six new. The conversation that mattered: Sofía Treviño and the family-office intro. Tomás, Andrés, Camila added to the CRM by the New people agent.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "3 Resources/Yo/Información Personal/Notas/Life's Task.md",
+   "titulo": "Life's Task",
+   "carpeta": "3 Resources/Yo/Información Personal/Notas",
+   "fragmento": "Design, from scratch, systems that turn limited resources into results, run on their own, and give people back their judgment and their time. The compass is boredom, not pain.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "5 Sistema/vivos/current-focus.md",
+   "titulo": "Current Focus — this week",
+   "carpeta": "5 Sistema/vivos",
+   "fragmento": "The Academy application first, Ferra phase two second, the Boston network third. Two first meetings today; the board decides in two days; the deadline is in nine.",
+   "por_nombre": false
+  },
+  {
+   "ruta": "2 Areas/Agenda/Preps/Prep — Priya Raman (career coaching).md",
+   "titulo": "Prep — Priya Raman (career coaching)",
+   "carpeta": "2 Areas/Agenda/Preps",
+   "fragmento": "Career coaching — Priya Raman Who she is.  Career coach at Bentley's CareerEdge, seven years there, ex-recruiter at a Boston consulting firm. Your first session was three",
+   "por_nombre": true
+  },
+  {
+   "ruta": "2 Areas/Agenda/Preps/Prep — Rebecca Lind (G19 Studio).md",
+   "titulo": "Prep — Rebecca Lind (G19 Studio)",
+   "carpeta": "2 Areas/Agenda/Preps",
+   "fragmento": "Rebecca Lind — G19 Studio (Zoom) Who she is.  Bentley '24, Chief Business Officer at G19 Studio — a 14-person Boston studio that builds custom AI for mid-size firms (dist",
+   "por_nombre": true
+  },
+  {
+   "ruta": "2 Areas/Agenda/Preps/Prep — Matthew Hale (NEST).md",
+   "titulo": "Prep — Matthew Hale (NEST)",
+   "carpeta": "2 Areas/Agenda/Preps",
+   "fragmento": "Matthew Hale — NEST (Kendall Square) Who he is.  Partnerships lead at NEST, a Cambridge hardware incubator (twelve companies a cohort, two cohorts a year). MIT '19, mecha",
+   "por_nombre": true
+  },
+  {
+   "ruta": "2 Areas/Agenda/Preps/Prep — MIT AI Club Founders night.md",
+   "titulo": "Prep — MIT AI Club Founders night",
+   "carpeta": "2 Areas/Agenda/Preps",
+   "fragmento": "MIT AI Club — Founders & Builders night What it is.  The MIT AI Club's monthly open night: three founders talk for ten minutes each, then an hour of mingling. Open to non",
+   "por_nombre": true
+  },
+  {
+   "ruta": "2 Areas/Agenda/Preps/Prep — Daniela Ruiz (scope review).md",
+   "titulo": "Prep — Daniela Ruiz (scope review)",
+   "carpeta": "2 Areas/Agenda/Preps",
+   "fragmento": "Daniela Ruiz — Grupo Ferra, scope review Who she is.  Operations director at Grupo Ferra (Monterrey, about 200 people, metal parts for appliance makers). Your client sinc",
+   "por_nombre": true
+  },
+  {
+   "ruta": "2 Areas/Personal CRM/Personas/Sofía Treviño.md",
+   "titulo": "Sofía Treviño",
+   "carpeta": "2 Areas/Personal CRM/Personas",
+   "fragmento": "Sofía Treviño Who.  HBS '27, from Monterrey. Three years in corporate strategy at a cement group before Boston. Lives in Cambridge; back in Monterrey for Christmas. How w",
+   "por_nombre": true
+  },
+  {
+   "ruta": "2 Areas/Personal CRM/Personas/Rebecca Lind.md",
+   "titulo": "Rebecca Lind",
+   "carpeta": "2 Areas/Personal CRM/Personas",
+   "fragmento": "Rebecca Lind Who.  Bentley '24, Chief Business Officer at G19 Studio (Boston, 14 people). The studio builds custom AI for mid-size companies: a regional distributor, two ",
+   "por_nombre": true
+  },
+  {
+   "ruta": "2 Areas/Personal CRM/Personas/Matthew Hale.md",
+   "titulo": "Matthew Hale",
+   "carpeta": "2 Areas/Personal CRM/Personas",
+   "fragmento": "Matthew Hale Who.  Partnerships lead at NEST, a hardware incubator in Kendall Square (12 companies a cohort, two cohorts a year). MIT '19 mechanical engineering; three ye",
+   "por_nombre": true
+  },
+  {
+   "ruta": "2 Areas/Personal CRM/Personas/Daniela Ruiz.md",
+   "titulo": "Daniela Ruiz",
+   "carpeta": "2 Areas/Personal CRM/Personas",
+   "fragmento": "Daniela Ruiz Who.  Operations director at Grupo Ferra, Monterrey (~200 people, metal parts for appliance makers). Reports to the family board. My sponsor since July. Phas",
+   "por_nombre": true
+  }
+ ]
+}

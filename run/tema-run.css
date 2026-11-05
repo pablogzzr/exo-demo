@@ -1,0 +1,43 @@
+/* Exo v3 — the morning run in the Spazio look (2026-11-01). Loaded only with ?tema=spazio (the run inside
+   the new app, and /classic?tema=spazio). Colors only through the run's own variables; layout untouched, so
+   every card, button and save behaves exactly as before. Mint (working) and amber (needs your yes) become
+   the cool blue and the bright star white — Pablo picked "Full Spazio, cool blue only". */
+@font-face{font-family:'Inter';font-style:normal;font-weight:300 700;font-display:swap;src:url(../vendor/inter-normal-300-700-latin.woff2) format('woff2')}
+@font-face{font-family:'Instrument Serif';font-style:normal;font-weight:400;font-display:swap;src:url(../vendor/instrument-serif-normal-400-latin.woff2) format('woff2')}
+@font-face{font-family:'JetBrains Mono';font-style:normal;font-weight:400 500;font-display:swap;src:url(../vendor/jetbrains-mono-normal-400-latin.woff2) format('woff2')}
+
+html.spazio{
+  --bg:#141922; --tile:#1A202B; --tile-2:#202734; --tile-3:#262E3D; --line:#262E3C; --line-2:#323C4E;
+  --tx:#E8ECF4; --tx-2:#B9C2D1; --mu:#8D97AA; --faint:#4E586B;
+  --mint:#A9C1F5; --mint-dim:#2B3752; --amber:#D9E4FF; --amber-dim:#2E3A55; --red:#FF8B8B; --track:#262E3C;
+  --hi:rgba(255,255,255,.04); --sh:rgba(0,0,0,.5);
+}
+html.spazio,html.spazio body{background:radial-gradient(1200px 600px at 75% 115%,#22304A 0%,#141922 55%) fixed,#141922}
+html.spazio body{font-family:'Inter',-apple-system,system-ui,sans-serif;font-size:13.5px;letter-spacing:0}
+html.spazio .up,html.spazio .legend,html.spazio .kick,html.spazio .kchip,html.spazio .counts,html.spazio .steps,html.spazio .odo{font-family:'JetBrains Mono',ui-monospace,monospace}
+html.spazio .hello h1,html.spazio .sh-head h2,html.spazio .banner h2,html.spazio .shut h2,html.spazio .wz h2,html.spazio .th h3{font-family:'Instrument Serif',Georgia,serif;font-weight:400;letter-spacing:-.2px}
+html.spazio .sh-head h2{font-size:30px}
+html.spazio .th h3{font-size:21px}
+html.spazio .box,html.spazio .tile,html.spazio .card,html.spazio .fc,html.spazio .mtg,html.spazio .start,html.spazio .closebar{border-radius:16px}
+html.spazio .tile{background:rgba(30,37,50,.72);border-color:var(--line)}
+html.spazio .b{border-radius:9px;letter-spacing:.04em}
+html.spazio .b.big{border-radius:11px}
+html.spazio .b.go,html.spazio .b.big.ok,html.spazio .closebar.ready .b.big{background:#E8ECF4;color:#141922}
+html.spazio input,html.spazio textarea,html.spazio select{border-radius:10px;background:rgba(255,255,255,.04)}
+html.spazio .sheet{border-radius:22px 0 0 22px;background:rgba(22,27,37,.97)}
+html.spazio .toast{border-radius:14px}
+html.spazio .chip{border-radius:999px}
+html.spazio .dot{background:var(--mint);box-shadow:0 0 0 3px rgba(169,193,245,.14)}
+html.spazio #bgfx{display:none}
+
+/* inside the app: the app's sidebar, search and tabs replace the run's own header and phone bar */
+html.emb body{padding:22px 34px 140px}
+html.emb-run .hello,html.emb #tnav,html.emb #bgfx,html.emb .czbar{display:none!important}
+html.emb .wrap{max-width:1180px}
+@media (max-width:900px){
+  html.emb body{padding:calc(14px + env(safe-area-inset-top)) 14px calc(110px + env(safe-area-inset-bottom))}
+  html.spazio .sheet{border-radius:22px 22px 0 0}
+}
+
+/* the study room and the Me page inside the app: their own "← Exo" goes, the app's sidebar is the way back */
+html.emb .hright a[href="/"]{display:none!important}

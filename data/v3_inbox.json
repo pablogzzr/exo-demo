@@ -1,0 +1,77 @@
+{
+ "items": [
+  {
+   "id": "m1",
+   "nivel": "urgent",
+   "canal": "Mail",
+   "quien": "Daniela Ruiz",
+   "org": "Grupo Ferra",
+   "cuando": "Sunday",
+   "que": "Two questions before her board decides on phase two.",
+   "mensaje": "Pablo, thanks for the document. I present it in two days and the board asked two questions I couldn't answer:\n\n1. Who owns the data after phase two?\n2. What happens if the supervisors stop using it?",
+   "porque": "Client · her board decides in two days",
+   "borrador": "Daniela, two short answers you can take as they are:\n\n1. The data is Ferra's — it lives in your accounts, trains no model, and you keep all of it if we stop.\n2. If usage drops, that's my problem: I check it every Monday and go to the floor with whoever stopped.\n\nHappy to join the board call for 15 minutes.\n\nPablo"
+  },
+  {
+   "id": "m2",
+   "nivel": "urgent",
+   "canal": "LinkedIn",
+   "quien": "Matthew Hale",
+   "org": "NEST",
+   "cuando": "1 h ago",
+   "que": "Moved today's meeting to the 4th floor.",
+   "mensaje": "Quick one — we're on the 4th floor today, not the lobby café. Ask for me at the front desk. See you at 2:15.",
+   "porque": "First meeting today at 2:15",
+   "borrador": "Got it — 4th floor at 2:15. See you there."
+  },
+  {
+   "id": "m3",
+   "nivel": "urgent",
+   "canal": "iMessage",
+   "quien": "Rebecca Lind",
+   "org": "G19 Studio",
+   "cuando": "This morning",
+   "que": "Asked for the samples before your call.",
+   "mensaje": "Could you send the samples before we talk? I'd like to forward them to our creative lead.",
+   "porque": "First meeting today at 10:00",
+   "borrador": "Sending them now: two posts and the Ferra one-pager. Talk at 10."
+  },
+  {
+   "id": "m4",
+   "nivel": "important",
+   "canal": "Instagram",
+   "quien": "Camila Ortega",
+   "org": "Runs the Mexas dinners",
+   "cuando": "Yesterday",
+   "que": "Invited you to speak at the spring dinner.",
+   "mensaje": "Loved meeting you Saturday! Would you speak for 10 minutes at the spring dinner about AI for family businesses?",
+   "porque": "40 founders and investors in one room",
+   "borrador": "Yes, happy to. Send me the date — I'll keep it to 10 minutes and one real story from a plant in Monterrey."
+  },
+  {
+   "id": "m5",
+   "nivel": "important",
+   "canal": "Mail",
+   "quien": "Rachel Whitfield",
+   "org": "Harrow Distribution",
+   "cuando": "Yesterday",
+   "que": "Replied to your cold email — wants a call next week.",
+   "mensaje": "Pablo — about a day, and usually wrong. Send me a time next week; I'm in Boston two days next week.",
+   "porque": "Cold outreach that answered · 14 warehouses",
+   "borrador": "Tuesday or Thursday at 10, 20 minutes? I'll bring one example from a 200-person plant."
+  },
+  {
+   "id": "m6",
+   "nivel": "important",
+   "canal": "iMessage",
+   "quien": "Mom",
+   "org": "Family",
+   "cuando": "Yesterday",
+   "que": "Wants a photo of the dinner for grandma.",
+   "mensaje": "Send me a photo of the dinner so I can show your grandmother.",
+   "porque": "Family",
+   "borrador": "Sending two tonight. Love you."
+  }
+ ],
+ "otros": 6
+}

@@ -1,0 +1,176 @@
+{
+ "nota": "Fragment for /api/datos → trabajos[]: merge these three entries into datos.json by slug (cracks, seguimiento, cabina). outreach.js reads only pendientes/hechos item fields: id, estado, linea, crudo, texto, mensaje_crack{nombre,asunto,cuerpo}, mensaje[0]. For the '2 of 5 today' bar the shim seeds localStorage['jarvis-outreach-{{D+0}}'] = [\"crack-jonah-feldstein-reply\",\"seg-priya-raman\"].",
+ "hechos_hoy": [
+  "crack-jonah-feldstein-reply",
+  "seg-priya-raman"
+ ],
+ "trabajos": [
+  {
+   "slug": "cracks",
+   "nombre": "Cold outreach",
+   "color": "blue",
+   "etiqueta": "People",
+   "mensaje": "3 people to write to today: one follow-up, two first messages. Jonah Feldstein's reply went out at 07:58.",
+   "ultima_corrida": "{{D+0}}T03:21",
+   "ultima_corrida_texto": "3:21 today",
+   "proxima_corrida_texto": "3:00 tomorrow",
+   "corre_en": "cloud",
+   "produjo": 3,
+   "silencio": null,
+   "fila": "pendientes",
+   "vencido_desde": null,
+   "tiene_reloj": false,
+   "pendientes": [
+    {
+     "linea": 14,
+     "estado": "pendiente",
+     "id": "crack-nathan-okafor-f2",
+     "cuando": "{{D+0}}T03:21",
+     "crudo": "- [ ] **Follow-up 2: Nathan Okafor** · Head of Ops, 300-person logistics firm, Ohio · **adds** opened your first message twice in 11 days and never replied; he posted about dock scheduling again last week · [email](mailto:n.okafor@midwest-freightline.com?subject=Re%3A%20Your%20dock%20supervisors%27%20numbers&body=Nathan%2C%0A%0ATwo%20weeks%20ago%20I%20asked%20how%20long%20it%20takes%20one%20of%20your) · [LinkedIn](https://www.linkedin.com/in/nathan-okafor-ops) · **haz esto:** reply in the same thread, from your Gmail (pablo@gmail.example); one question, one number, an exit",
+     "texto": "**Follow-up 2: Nathan Okafor** · Head of Ops, 300-person logistics firm, Ohio · opened your first message twice, never replied",
+     "mensaje_crack": {
+      "nombre": "Nathan Okafor",
+      "asunto": "Re: Your dock supervisors' numbers",
+      "cuerpo": "Nathan,\n\nTwo weeks ago I asked how long it takes one of your dock supervisors to get last week's dwell time. I'll guess: about a day, and usually wrong — that is what the COO of a 14-warehouse distributor told me yesterday.\n\nAt a 200-person plant in Monterrey that number went from 40 minutes to 6, with the supervisors doing it themselves. The difference was not the software: we trained the tool on how each supervisor already reports, instead of training the supervisors on the tool.\n\nIf dock scheduling is still the thing you post about, 15 minutes next week and I'll show you exactly what we did. If not, this is my last note.\n\nPablo González\nBentley University · VYNMSA"
+     }
+    },
+    {
+     "linea": 15,
+     "estado": "pendiente",
+     "id": "crack-alain-chenier",
+     "cuando": "{{D+0}}T03:21",
+     "crudo": "- [ ] **Alain Chenier — founder, 40-person inspection-camera maker for sawmills, Montreal** · **te sirve para** a founder whose customers ask for AI he does not know how to promise — your Ferra story is the answer he is looking for, and his cameras are the hardware side of the same problem · **haz esto:** first message, cold, from your VYNMSA inbox (pablo@vynmsa.example); name the sawmill shift lead, not AI · [email](mailto:alain@chenier-vision.ca?subject=What%20to%20promise%20a%20sawmill%20that%20asks%20for%20AI&body=Alain%2C%0A%0AYou%20wrote%20that%20every%20sawmill%20customer%20asks%20you%20for%20A) · [LinkedIn](https://www.linkedin.com/in/alain-chenier-vision)",
+     "texto": "**Alain Chenier — founder, Montreal** · his customers ask for AI and he does not know what to promise",
+     "mensaje_crack": {
+      "nombre": "Alain Chenier",
+      "asunto": "What to promise a sawmill that asks for AI",
+      "cuerpo": "Alain,\n\nYou wrote that every sawmill customer asks you for AI and you don't know what to promise. I'd promise them one thing: the inspection report their shift lead already writes, done in six minutes instead of forty.\n\nThat is what we did at a 200-person metal-parts plant in Monterrey: 31 of 38 supervisors use the assistant every week, because it was trained on how they report, not the other way around. Your cameras already see the board; the missing piece is the sentence the shift lead writes about it.\n\nIf you want, 15 minutes next week and I'll show you how it was scoped. I'm in Boston; Montreal is a short flight if it ever makes sense.\n\nPablo González\nBentley University · VYNMSA"
+     }
+    },
+    {
+     "linea": 16,
+     "estado": "pendiente",
+     "id": "crack-helena-strand",
+     "cuando": "{{D+0}}T03:21",
+     "crudo": "- [ ] **Helena Strand — VP Operations, 260-person furniture plant, North Carolina** · **te sirve para** a US plant with the exact problem you solved at Ferra: supervisors drowning in reports; she posted about it last week, so the timing is hers, not yours · **haz esto:** first message, cold, from your VYNMSA inbox (pablo@vynmsa.example); lead with the 40-to-6 number · [email](mailto:hstrand@nordform-us.com?subject=Supervisors%20drowning%20in%20reports&body=Helena%2C%0A%0AYour%20post%20last%20week%20about%20supervisors%20drowning%20in%20r) · [LinkedIn](https://www.linkedin.com/in/helena-strand-ops)",
+     "texto": "**Helena Strand — VP Operations, North Carolina** · posted last week about supervisors drowning in reports",
+     "mensaje_crack": {
+      "nombre": "Helena Strand",
+      "asunto": "Supervisors drowning in reports",
+      "cuerpo": "Helena,\n\nYour post last week about supervisors drowning in reports is the exact problem I spent July to October on at a 200-person metal-parts plant in Monterrey.\n\nResult: the line-stop report went from 40 minutes to 6, and 31 of 38 supervisors use the assistant every week. Nobody was trained on the tool; the tool was trained on how each supervisor already reports.\n\nIf that is the kind of thing you want in North Carolina, 15 minutes next week and I'll show you what we did and what I would not do again. If not, no follow-up from me.\n\nPablo González\nBentley University · VYNMSA"
+     }
+    }
+   ],
+   "hechos": [
+    {
+     "linea": 12,
+     "estado": "hecho",
+     "id": "crack-jonah-feldstein-reply",
+     "cuando": "{{D+0}}T07:58",
+     "crudo": "- [x] **Jonah Feldstein — owner, Feldstein Foods, Vermont** · replied three days ago asking for the short version · **haz esto:** answer in the thread from VYNMSA (pablo@vynmsa.example), three lines, offer two afternoons · [email](mailto:jonah@feldstein-foods.com?subject=Re%3A%20Supervisors%20who%20use%20the%20tool%2C%20not%20the%20other%20way%20around&body=Short%20version%3A%20we%20trained%20the%20tool%20on%20how%20each%20supervisor%20al)",
+     "texto": "**Jonah Feldstein** · replied — sent this morning 07:58",
+     "mensaje_crack": {
+      "nombre": "Jonah Feldstein",
+      "asunto": "Re: Supervisors who use the tool, not the other way around",
+      "cuerpo": "Short version: we trained the tool on how each supervisor already reports a line stop, instead of training the supervisors on the tool. Three weeks in the plant, no slides. The AI adapts to the worker, not the worker to the AI.\n\nIf that's the kind of thing you want for your plant, any afternoon in the next three days works for a call.\n\nPablo"
+     }
+    }
+   ],
+   "despues": [],
+   "tiene_pendientes": true,
+   "ruta_estado": "5 Sistema/trabajos/cracks/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "Finds new people worth a cold message and drafts it in your voice.",
+   "tasa_de_respuesta": "2 of 9 this month",
+   "visible": "siempre"
+  },
+  {
+   "slug": "seguimiento",
+   "nombre": "Warm follow-up",
+   "color": "warm",
+   "etiqueta": "People",
+   "mensaje": "2 warm follow-ups: Sofía (you owe her the one-pager) and Marcus Bell (never followed up). Priya's note went out at 08:40.",
+   "ultima_corrida": "{{D+0}}T03:18",
+   "ultima_corrida_texto": "3:18 today",
+   "proxima_corrida_texto": "3:00 tomorrow",
+   "corre_en": "cloud",
+   "produjo": 2,
+   "silencio": null,
+   "fila": "pendientes",
+   "vencido_desde": null,
+   "tiene_reloj": false,
+   "pendientes": [
+    {
+     "linea": 8,
+     "estado": "pendiente",
+     "id": "seg-sofia-trevino",
+     "cuando": "{{D+0}}T03:18",
+     "crudo": "- [ ] **Sofía Treviño** — HBS '27, met last Saturday at the Mexas dinner; offered the Back Bay family-office intro · your give, owed: the one-pager you promised her · [email](mailto:strevino@hbs.edu?subject=The%20one-pager%20I%20promised&body=Sof%C3%ADa%2C%20great%20meeting%20you%20on%20Saturday.%0A%0AHere%20is%20the%20one-pager)",
+     "texto": "**Sofía Treviño** — HBS '27, met last Saturday at the Mexas dinner · your give, owed: the one-pager",
+     "mensaje": [
+      "Sofía, great meeting you on Saturday.\n\nHere is the one-pager I promised. It is written for a family company that has heard the word \"AI\" a thousand times: what Grupo Ferra got, how, and what I would do first in a company like your friends' in Back Bay.\n\nThe numbers that matter: 31 of 38 supervisors use it every week, and the line-stop report went from 40 minutes to 6. Nobody was trained on the tool; the tool was trained on them.\n\nIf it is useful to the family office, I am happy to tell them in 20 minutes what I would do first in their company. And Saturday's coffee still stands.\n\nPablo"
+     ]
+    },
+    {
+     "linea": 9,
+     "estado": "pendiente",
+     "id": "seg-marcus-bell",
+     "cuando": "{{D+0}}T03:18",
+     "crudo": "- [ ] **Marcus Bell** — Bentley '21, associate at a Boston operations consultancy; met at the alumni panel three weeks ago · never followed up; he offered to read the one-pager · [email](mailto:marcus.bell@gmail.com?subject=The%20one-pager%20from%20the%20alumni%20panel&body=Marcus%2C%0A%0AThree%20weeks%20ago%20at%20the%20alumni%20panel%20you%20offered%20to%20)",
+     "texto": "**Marcus Bell** — Bentley '21, met at the alumni panel · never followed up",
+     "mensaje": [
+      "Marcus,\n\nThree weeks ago at the alumni panel you offered to read my one-pager and I never sent it. Here it is, one page: what a 200-person plant in Monterrey got from an AI assistant its supervisors actually use, and what I would do first at a company like your clients'.\n\nOne question, if you have two minutes: when your firm scopes an operations project, who in the client's company do you talk to first — the director or the supervisor? I keep getting a different answer from consultants and from plants.\n\nPablo"
+     ]
+    }
+   ],
+   "hechos": [
+    {
+     "linea": 7,
+     "estado": "hecho",
+     "id": "seg-priya-raman",
+     "cuando": "{{D+0}}T08:40",
+     "crudo": "- [x] **Priya Raman** — Bentley career coach, session yesterday · your give, owed: the Harrow message and the rewritten answer 2 · [email](mailto:praman@bentley.example?subject=Yesterday%20%E2%80%94%20answer%202%20and%20the%20Harrow%20message&body=Priya%2C%0A%0AThank%20you%20for%20yesterday.%20I%20rewrote%20answer%202%20your%20way)",
+     "texto": "**Priya Raman** — career coach · sent this morning 08:40",
+     "mensaje": [
+      "Priya,\n\nThank you for yesterday. I rewrote answer 2 your way (140 words) and I'm doing 4 and 5 tomorrow at 8:00, before the meetings.\n\nAttached is the Harrow message you liked and the reply I got: \"about a day, and usually wrong\". The structure works.\n\nI'll send you the full draft in two days for a last read.\n\nPablo"
+     ]
+    }
+   ],
+   "despues": [],
+   "tiene_pendientes": true,
+   "ruta_estado": "5 Sistema/trabajos/seguimiento/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "People you met and owe something to, with the message written.",
+   "tasa_de_respuesta": "5 of 7 this month",
+   "visible": "siempre"
+  },
+  {
+   "slug": "cabina",
+   "nombre": "Your day",
+   "color": "grey",
+   "etiqueta": "Thinking",
+   "mensaje": "",
+   "ultima_corrida": "{{D+0}}T03:30",
+   "ultima_corrida_texto": "3:30 today",
+   "proxima_corrida_texto": "3:00 tomorrow",
+   "corre_en": "cloud",
+   "produjo": 0,
+   "silencio": null,
+   "fila": "",
+   "vencido_desde": null,
+   "tiene_reloj": false,
+   "pendientes": [],
+   "hechos": [],
+   "despues": [],
+   "tiene_pendientes": false,
+   "ruta_estado": "5 Sistema/trabajos/cabina/estado.md",
+   "problema": null,
+   "icono": "",
+   "descripcion": "",
+   "tasa_de_respuesta": "",
+   "visible": "nunca"
+  }
+ ]
+}

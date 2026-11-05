@@ -1,0 +1,1550 @@
+{
+ "periodos": {
+  "7d": {
+   "periodo": "7d",
+   "desde": "{{D-6}}",
+   "dias": 7,
+   "generado": "{{D+0}}T04:34",
+   "declarados": [
+    "Bentley",
+    "Exo",
+    "Freelance",
+    "Network",
+    "Academy application"
+   ],
+   "frentes": [
+    {
+     "frente": "Bentley",
+     "real": 9.5,
+     "planeado": 12.0,
+     "declarado": true
+    },
+    {
+     "frente": "Exo",
+     "real": 6.0,
+     "planeado": 5.0,
+     "declarado": true
+    },
+    {
+     "frente": "Freelance",
+     "real": 4.5,
+     "planeado": 4.0,
+     "declarado": true
+    },
+    {
+     "frente": "Network",
+     "real": 7.0,
+     "planeado": 4.0,
+     "declarado": true
+    },
+    {
+     "frente": "Academy application",
+     "real": 2.5,
+     "planeado": 3.0,
+     "declarado": true
+    },
+    {
+     "frente": "Faith",
+     "real": 3.5,
+     "planeado": 3.5,
+     "declarado": false
+    },
+    {
+     "frente": "Body",
+     "real": 4.0,
+     "planeado": 5.0,
+     "declarado": false
+    },
+    {
+     "frente": "Phone",
+     "real": 5.5,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Transit",
+     "real": 3.0,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Reading",
+     "real": 2.5,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Calls",
+     "real": 1.5,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Personal",
+     "real": 2.0,
+     "planeado": 0.0,
+     "declarado": false
+    }
+   ],
+   "totales": {
+    "horas_real_foco": 29.5,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 19,
+    "horas_bloques_reales": 22.0,
+    "horas_claude": 11.2,
+    "horas_claude_noche": 2.1,
+    "sesiones_claude": 23,
+    "juntas": 6,
+    "horas_juntas": 5.5,
+    "telefono_dia_h": 2.9,
+    "pickups_dia": 71,
+    "mediana_respuesta_h": 3.4
+   }
+  },
+  "semana": {
+   "periodo": "semana",
+   "desde": "{{D+0}}",
+   "dias": 1,
+   "generado": "{{D+0}}T04:34",
+   "declarados": [
+    "Bentley",
+    "Exo",
+    "Freelance",
+    "Network",
+    "Academy application"
+   ],
+   "frentes": [
+    {
+     "frente": "Bentley",
+     "real": 1.3,
+     "planeado": 1.7,
+     "declarado": true
+    },
+    {
+     "frente": "Exo",
+     "real": 0.8,
+     "planeado": 0.7,
+     "declarado": true
+    },
+    {
+     "frente": "Freelance",
+     "real": 0.6,
+     "planeado": 0.6,
+     "declarado": true
+    },
+    {
+     "frente": "Network",
+     "real": 1.0,
+     "planeado": 0.6,
+     "declarado": true
+    },
+    {
+     "frente": "Academy application",
+     "real": 0.4,
+     "planeado": 0.4,
+     "declarado": true
+    },
+    {
+     "frente": "Faith",
+     "real": 0.5,
+     "planeado": 0.5,
+     "declarado": false
+    },
+    {
+     "frente": "Body",
+     "real": 0.6,
+     "planeado": 0.7,
+     "declarado": false
+    },
+    {
+     "frente": "Phone",
+     "real": 0.8,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Transit",
+     "real": 0.4,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Reading",
+     "real": 0.4,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Calls",
+     "real": 0.2,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Personal",
+     "real": 0.3,
+     "planeado": 0.0,
+     "declarado": false
+    }
+   ],
+   "totales": {
+    "horas_real_foco": 4.1,
+    "horas_plan_foco": 3.9,
+    "bloques_reales": 2,
+    "horas_bloques_reales": 3.1,
+    "horas_claude": 1.6,
+    "horas_claude_noche": 0.3,
+    "sesiones_claude": 3,
+    "juntas": 2,
+    "horas_juntas": 1.5,
+    "telefono_dia_h": 2.9,
+    "pickups_dia": 71,
+    "mediana_respuesta_h": 3.4
+   }
+  },
+  "pasada": {
+   "periodo": "pasada",
+   "desde": "{{D-7}}",
+   "dias": 7,
+   "generado": "{{D+0}}T04:34",
+   "declarados": [
+    "Bentley",
+    "Exo",
+    "Freelance",
+    "Network",
+    "Academy application"
+   ],
+   "frentes": [
+    {
+     "frente": "Bentley",
+     "real": 9.2,
+     "planeado": 11.6,
+     "declarado": true
+    },
+    {
+     "frente": "Exo",
+     "real": 5.8,
+     "planeado": 4.8,
+     "declarado": true
+    },
+    {
+     "frente": "Freelance",
+     "real": 4.4,
+     "planeado": 3.9,
+     "declarado": true
+    },
+    {
+     "frente": "Network",
+     "real": 6.8,
+     "planeado": 3.9,
+     "declarado": true
+    },
+    {
+     "frente": "Academy application",
+     "real": 2.4,
+     "planeado": 2.9,
+     "declarado": true
+    },
+    {
+     "frente": "Faith",
+     "real": 3.4,
+     "planeado": 3.4,
+     "declarado": false
+    },
+    {
+     "frente": "Body",
+     "real": 3.9,
+     "planeado": 4.8,
+     "declarado": false
+    },
+    {
+     "frente": "Phone",
+     "real": 5.3,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Transit",
+     "real": 2.9,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Reading",
+     "real": 2.4,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Calls",
+     "real": 1.5,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Personal",
+     "real": 1.9,
+     "planeado": 0.0,
+     "declarado": false
+    }
+   ],
+   "totales": {
+    "horas_real_foco": 28.6,
+    "horas_plan_foco": 27.2,
+    "bloques_reales": 18,
+    "horas_bloques_reales": 21.3,
+    "horas_claude": 10.9,
+    "horas_claude_noche": 2.0,
+    "sesiones_claude": 22,
+    "juntas": 6,
+    "horas_juntas": 5.5,
+    "telefono_dia_h": 2.9,
+    "pickups_dia": 71,
+    "mediana_respuesta_h": 3.4
+   }
+  },
+  "30d": {
+   "periodo": "30d",
+   "desde": "{{D-29}}",
+   "dias": 30,
+   "generado": "{{D+0}}T04:34",
+   "declarados": [
+    "Bentley",
+    "Exo",
+    "Freelance",
+    "Network",
+    "Academy application"
+   ],
+   "frentes": [
+    {
+     "frente": "Bentley",
+     "real": 38.9,
+     "planeado": 49.2,
+     "declarado": true
+    },
+    {
+     "frente": "Exo",
+     "real": 24.6,
+     "planeado": 20.5,
+     "declarado": true
+    },
+    {
+     "frente": "Freelance",
+     "real": 18.4,
+     "planeado": 16.4,
+     "declarado": true
+    },
+    {
+     "frente": "Network",
+     "real": 14.3,
+     "planeado": 16.4,
+     "declarado": true
+    },
+    {
+     "frente": "Academy application",
+     "real": 10.2,
+     "planeado": 12.3,
+     "declarado": true
+    },
+    {
+     "frente": "Faith",
+     "real": 14.3,
+     "planeado": 14.3,
+     "declarado": false
+    },
+    {
+     "frente": "Body",
+     "real": 16.4,
+     "planeado": 20.5,
+     "declarado": false
+    },
+    {
+     "frente": "Phone",
+     "real": 22.5,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Transit",
+     "real": 12.3,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Reading",
+     "real": 10.2,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Calls",
+     "real": 6.1,
+     "planeado": 0.0,
+     "declarado": false
+    },
+    {
+     "frente": "Personal",
+     "real": 8.2,
+     "planeado": 0.0,
+     "declarado": false
+    }
+   ],
+   "totales": {
+    "horas_real_foco": 120.9,
+    "horas_plan_foco": 114.8,
+    "bloques_reales": 77,
+    "horas_bloques_reales": 90.2,
+    "horas_claude": 45.9,
+    "horas_claude_noche": 8.6,
+    "sesiones_claude": 94,
+    "juntas": 21,
+    "horas_juntas": 18.5,
+    "telefono_dia_h": 2.9,
+    "pickups_dia": 71,
+    "mediana_respuesta_h": 3.4
+   }
+  }
+ },
+ "historia": [
+  {
+   "semana": "{{D-70}}",
+   "totales": {
+    "horas_real_foco": 18.5,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 12,
+    "horas_bloques_reales": 13.9,
+    "horas_claude": 8.0,
+    "horas_claude_noche": 1.2,
+    "sesiones_claude": 15,
+    "juntas": 3,
+    "horas_juntas": 3.0,
+    "telefono_dia_h": 3.4,
+    "pickups_dia": 84,
+    "mediana_respuesta_h": 5.0
+   }
+  },
+  {
+   "semana": "{{D-63}}",
+   "totales": {
+    "horas_real_foco": 22.0,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 14,
+    "horas_bloques_reales": 16.5,
+    "horas_claude": 8.4,
+    "horas_claude_noche": 1.3,
+    "sesiones_claude": 16,
+    "juntas": 4,
+    "horas_juntas": 4.5,
+    "telefono_dia_h": 3.4,
+    "pickups_dia": 83,
+    "mediana_respuesta_h": 4.8
+   }
+  },
+  {
+   "semana": "{{D-56}}",
+   "totales": {
+    "horas_real_foco": 24.5,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 15,
+    "horas_bloques_reales": 18.4,
+    "horas_claude": 8.8,
+    "horas_claude_noche": 1.4,
+    "sesiones_claude": 17,
+    "juntas": 5,
+    "horas_juntas": 5.0,
+    "telefono_dia_h": 3.3,
+    "pickups_dia": 82,
+    "mediana_respuesta_h": 4.7
+   }
+  },
+  {
+   "semana": "{{D-49}}",
+   "totales": {
+    "horas_real_foco": 21.0,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 13,
+    "horas_bloques_reales": 15.8,
+    "horas_claude": 9.2,
+    "horas_claude_noche": 1.5,
+    "sesiones_claude": 18,
+    "juntas": 6,
+    "horas_juntas": 6.5,
+    "telefono_dia_h": 3.2,
+    "pickups_dia": 81,
+    "mediana_respuesta_h": 4.5
+   }
+  },
+  {
+   "semana": "{{D-42}}",
+   "totales": {
+    "horas_real_foco": 26.5,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 17,
+    "horas_bloques_reales": 19.9,
+    "horas_claude": 9.6,
+    "horas_claude_noche": 1.6,
+    "sesiones_claude": 19,
+    "juntas": 4,
+    "horas_juntas": 4.0,
+    "telefono_dia_h": 3.2,
+    "pickups_dia": 80,
+    "mediana_respuesta_h": 4.4
+   }
+  },
+  {
+   "semana": "{{D-35}}",
+   "totales": {
+    "horas_real_foco": 23.0,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 14,
+    "horas_bloques_reales": 17.2,
+    "horas_claude": 10.0,
+    "horas_claude_noche": 1.7,
+    "sesiones_claude": 20,
+    "juntas": 7,
+    "horas_juntas": 7.5,
+    "telefono_dia_h": 3.1,
+    "pickups_dia": 79,
+    "mediana_respuesta_h": 4.2
+   }
+  },
+  {
+   "semana": "{{D-28}}",
+   "totales": {
+    "horas_real_foco": 27.5,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 17,
+    "horas_bloques_reales": 20.6,
+    "horas_claude": 10.4,
+    "horas_claude_noche": 1.8,
+    "sesiones_claude": 21,
+    "juntas": 5,
+    "horas_juntas": 5.5,
+    "telefono_dia_h": 3.1,
+    "pickups_dia": 78,
+    "mediana_respuesta_h": 4.0
+   }
+  },
+  {
+   "semana": "{{D-21}}",
+   "totales": {
+    "horas_real_foco": 25.0,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 16,
+    "horas_bloques_reales": 18.8,
+    "horas_claude": 10.8,
+    "horas_claude_noche": 1.9,
+    "sesiones_claude": 22,
+    "juntas": 6,
+    "horas_juntas": 6.0,
+    "telefono_dia_h": 3.0,
+    "pickups_dia": 77,
+    "mediana_respuesta_h": 3.9
+   }
+  },
+  {
+   "semana": "{{D-14}}",
+   "totales": {
+    "horas_real_foco": 28.0,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 18,
+    "horas_bloques_reales": 21.0,
+    "horas_claude": 11.2,
+    "horas_claude_noche": 2.0,
+    "sesiones_claude": 23,
+    "juntas": 5,
+    "horas_juntas": 5.5,
+    "telefono_dia_h": 3.0,
+    "pickups_dia": 76,
+    "mediana_respuesta_h": 3.7
+   }
+  },
+  {
+   "semana": "{{D-7}}",
+   "totales": {
+    "horas_real_foco": 29.5,
+    "horas_plan_foco": 28.0,
+    "bloques_reales": 19,
+    "horas_bloques_reales": 22.1,
+    "horas_claude": 11.6,
+    "horas_claude_noche": 2.1,
+    "sesiones_claude": 24,
+    "juntas": 8,
+    "horas_juntas": 8.0,
+    "telefono_dia_h": 2.9,
+    "pickups_dia": 75,
+    "mediana_respuesta_h": 3.6
+   }
+  }
+ ],
+ "lectura": {
+  "insights": [
+   {
+    "titulo": "Network ate Bentley's hours — the right trade, once",
+    "dato": "7.0 h on Network against 4.0 planned",
+    "por_que": "The Mexas dinner and this week's two first meetings came out of those hours. Bentley got 9.5 of 12, and the RIA draft is the first thing that breaks if it happens again."
+   },
+   {
+    "titulo": "Your deep blocks happen before 9, or not at all",
+    "dato": "14 of 19 real blocks started before 9:00",
+    "por_que": "Afternoons went to meetings, transit and the phone. The 7:30–9:00 block on class days is the only one that survived every day; it is the one to protect."
+   },
+   {
+    "titulo": "The phone is where the afternoon went",
+    "dato": "71 pickups a day, half of them between 14:00 and 18:00",
+    "por_que": "Same window your afternoon blocks died in. The phone is not the cause; it is where the lost time shows up, which makes it the easiest thing to measure."
+   }
+  ],
+  "movida": {
+   "que": "Lock 7:30–9:00 for the RIA draft, four mornings in a row",
+   "cuando": "{{W+1}} to {{W+4}}, 7:30–9:00",
+   "donde": "Library, second floor, before class",
+   "hacer": "Phone in the bag, the rubric open, one section per morning. Four mornings is the whole draft.",
+   "por_que": "It is the one block that survived every day this week, and the draft is due before the Grupo Ferra decision lands."
+  },
+  "semana": "{{D-7}}",
+  "escrita": "{{D-1}}"
+ },
+ "frentes": [
+  "Bentley",
+  "Exo",
+  "Freelance",
+  "Network",
+  "Academy application"
+ ],
+ "lab": {
+  "tarjetas": [
+   {
+    "id": "sueno-foco",
+    "tipo": "sueno",
+    "titulo": "Do 7-hour nights give you more focus hours the next day?",
+    "cita": "I think better after seven hours. I never checked.",
+    "fuente": "Nights from your phone · focus hours from your calendar",
+    "predictor": {
+     "campo": "horas_sueno",
+     "nombre": "Hours of night",
+     "unidad": "h",
+     "bajo": "under 7 h",
+     "alto": "7 h or more"
+    },
+    "resultados": [
+     {
+      "campo": "foco_h",
+      "nombre": "Focus hours the next day",
+      "unidad": "h"
+     }
+    ],
+    "ciencia": {
+     "nivel": "strong",
+     "resumen": "Short sleep lowers sustained attention the next day in most adults; the effect shows after one night and compounds across a week."
+    },
+    "tu": "28 nights read; median 6.9 h; 11 nights under 7. On the 7-plus nights you logged 1.3 more focus hours.",
+    "veredicto": null
+   },
+   {
+    "id": "telefono-tarde",
+    "tipo": "telefono",
+    "titulo": "Does a phone-heavy afternoon kill the evening block?",
+    "cita": "",
+    "fuente": "Pickups from your phone · evening blocks from your calendar",
+    "predictor": {
+     "campo": "pickups",
+     "nombre": "Pickups 14:00–18:00",
+     "unidad": "",
+     "bajo": "under 30",
+     "alto": "30 or more"
+    },
+    "resultados": [
+     {
+      "campo": "foco_tarde_h",
+      "nombre": "Focus hours after 18:00",
+      "unidad": "h"
+     }
+    ],
+    "ciencia": {
+     "nivel": "medium",
+     "resumen": "Frequent task switching raises the cost of re-entering deep work; the evidence is solid for minutes, thinner for whole evenings."
+    },
+    "tu": "19 days with both numbers; the gap points the way you expect but is still inside the noise.",
+    "veredicto": null
+   },
+   {
+    "id": "oracion-respuesta",
+    "tipo": "oracion",
+    "titulo": "Does a morning prayer change how fast you reply to people?",
+    "cita": "You rise by going down.",
+    "fuente": "Prayer from your log · reply times from mail and WhatsApp",
+    "predictor": {
+     "campo": "oracion_manana",
+     "nombre": "Morning prayer",
+     "unidad": "",
+     "bajo": "skipped",
+     "alto": "done"
+    },
+    "resultados": [
+     {
+      "campo": "mediana_respuesta_h",
+      "nombre": "Median hours to reply",
+      "unidad": "h"
+     }
+    ],
+    "ciencia": {
+     "nivel": "weak",
+     "resumen": "No direct studies; the closest work is on brief morning routines and lower reactivity during the day."
+    },
+    "tu": "12 mornings logged so far; the Lab needs 20 before it says anything.",
+    "veredicto": null
+   }
+  ],
+  "datos": {
+   "generado": "{{D+0}}T04:34",
+   "fuentes": {
+    "iphone": true,
+    "noches_desde": "{{D-28}}",
+    "noches": 28,
+    "dias": 30,
+    "pasos_dias": 21,
+    "tras_salida": [],
+    "dias_desde": "{{D-30}}"
+   },
+   "noches": [
+    {
+     "noche": "{{D-28}}",
+     "acostar": "00:10",
+     "despertar": "07:16",
+     "horas": 7.1,
+     "medio_min": 223,
+     "irregular_min": 17
+    },
+    {
+     "noche": "{{D-27}}",
+     "acostar": "23:51",
+     "despertar": "07:09",
+     "horas": 7.3,
+     "medio_min": 210,
+     "irregular_min": 11
+    },
+    {
+     "noche": "{{D-26}}",
+     "acostar": "00:02",
+     "despertar": "06:32",
+     "horas": 6.5,
+     "medio_min": 197,
+     "irregular_min": 42
+    },
+    {
+     "noche": "{{D-25}}",
+     "acostar": "23:33",
+     "despertar": "06:03",
+     "horas": 6.5,
+     "medio_min": 168,
+     "irregular_min": 45
+    },
+    {
+     "noche": "{{D-24}}",
+     "acostar": "00:08",
+     "despertar": "06:20",
+     "horas": 6.2,
+     "medio_min": 194,
+     "irregular_min": 40
+    },
+    {
+     "noche": "{{D-23}}",
+     "acostar": "23:12",
+     "despertar": "06:06",
+     "horas": 6.9,
+     "medio_min": 159,
+     "irregular_min": 13
+    },
+    {
+     "noche": "{{D-22}}",
+     "acostar": "23:36",
+     "despertar": "06:54",
+     "horas": 7.3,
+     "medio_min": 195,
+     "irregular_min": 12
+    },
+    {
+     "noche": "{{D-21}}",
+     "acostar": "23:15",
+     "despertar": "06:09",
+     "horas": 6.9,
+     "medio_min": 162,
+     "irregular_min": 43
+    },
+    {
+     "noche": "{{D-20}}",
+     "acostar": "23:13",
+     "despertar": "06:31",
+     "horas": 7.3,
+     "medio_min": 172,
+     "irregular_min": 44
+    },
+    {
+     "noche": "{{D-19}}",
+     "acostar": "00:10",
+     "despertar": "06:40",
+     "horas": 6.5,
+     "medio_min": 205,
+     "irregular_min": 22
+    },
+    {
+     "noche": "{{D-18}}",
+     "acostar": "23:50",
+     "despertar": "07:56",
+     "horas": 8.1,
+     "medio_min": 233,
+     "irregular_min": 45
+    },
+    {
+     "noche": "{{D-17}}",
+     "acostar": "23:46",
+     "despertar": "05:58",
+     "horas": 6.2,
+     "medio_min": 172,
+     "irregular_min": 45
+    },
+    {
+     "noche": "{{D-16}}",
+     "acostar": "23:13",
+     "despertar": "06:31",
+     "horas": 7.3,
+     "medio_min": 172,
+     "irregular_min": 22
+    },
+    {
+     "noche": "{{D-15}}",
+     "acostar": "23:45",
+     "despertar": "05:57",
+     "horas": 6.2,
+     "medio_min": 171,
+     "irregular_min": 16
+    },
+    {
+     "noche": "{{D-14}}",
+     "acostar": "23:36",
+     "despertar": "06:36",
+     "horas": 7.0,
+     "medio_min": 186,
+     "irregular_min": 17
+    },
+    {
+     "noche": "{{D-13}}",
+     "acostar": "23:17",
+     "despertar": "07:05",
+     "horas": 7.8,
+     "medio_min": 191,
+     "irregular_min": 44
+    },
+    {
+     "noche": "{{D-12}}",
+     "acostar": "23:45",
+     "despertar": "06:45",
+     "horas": 7.0,
+     "medio_min": 195,
+     "irregular_min": 19
+    },
+    {
+     "noche": "{{D-11}}",
+     "acostar": "23:47",
+     "despertar": "06:17",
+     "horas": 6.5,
+     "medio_min": 182,
+     "irregular_min": 44
+    },
+    {
+     "noche": "{{D-10}}",
+     "acostar": "23:22",
+     "despertar": "07:28",
+     "horas": 8.1,
+     "medio_min": 205,
+     "irregular_min": 31
+    },
+    {
+     "noche": "{{D-9}}",
+     "acostar": "23:45",
+     "despertar": "06:15",
+     "horas": 6.5,
+     "medio_min": 180,
+     "irregular_min": 12
+    },
+    {
+     "noche": "{{D-8}}",
+     "acostar": "23:13",
+     "despertar": "05:37",
+     "horas": 6.4,
+     "medio_min": 145,
+     "irregular_min": 47
+    },
+    {
+     "noche": "{{D-7}}",
+     "acostar": "23:41",
+     "despertar": "06:35",
+     "horas": 6.9,
+     "medio_min": 188,
+     "irregular_min": 42
+    },
+    {
+     "noche": "{{D-6}}",
+     "acostar": "23:59",
+     "despertar": "07:17",
+     "horas": 7.3,
+     "medio_min": 218,
+     "irregular_min": 28
+    },
+    {
+     "noche": "{{D-5}}",
+     "acostar": "23:47",
+     "despertar": "07:23",
+     "horas": 7.6,
+     "medio_min": 215,
+     "irregular_min": 37
+    },
+    {
+     "noche": "{{D-4}}",
+     "acostar": "23:29",
+     "despertar": "06:35",
+     "horas": 7.1,
+     "medio_min": 182,
+     "irregular_min": 23
+    },
+    {
+     "noche": "{{D-3}}",
+     "acostar": "23:54",
+     "despertar": "06:36",
+     "horas": 6.7,
+     "medio_min": 195,
+     "irregular_min": 23
+    },
+    {
+     "noche": "{{D-2}}",
+     "acostar": "23:46",
+     "despertar": "06:16",
+     "horas": 6.5,
+     "medio_min": 181,
+     "irregular_min": 27
+    },
+    {
+     "noche": "{{D-1}}",
+     "acostar": "23:41",
+     "despertar": "07:29",
+     "horas": 7.8,
+     "medio_min": 215,
+     "irregular_min": 29
+    }
+   ],
+   "resumen_sueno": {
+    "mediana_h": 6.9,
+    "acostar_mediana": "23:35",
+    "despertar_mediana": "06:30",
+    "irregular_mediana_min": 27
+   },
+   "evaluaciones": [
+    {
+     "id": "sueno-foco",
+     "n": 28,
+     "resultados": [
+      {
+       "campo": "foco_h",
+       "nombre": "Focus hours the next day",
+       "unidad": "h",
+       "media_bajo": 3.1,
+       "media_alto": 4.4,
+       "comparacion": {
+        "dif": 1.3,
+        "ic": [
+         0.2,
+         2.4
+        ],
+        "p": 0.03,
+        "q": 0.09
+       },
+       "claro": true
+      }
+     ],
+     "corte_bajo": 7.0,
+     "corte_alto": 7.0,
+     "n_bajo": 11,
+     "n_alto": 17,
+     "media_pred_bajo": 6.3,
+     "media_pred_alto": 7.5,
+     "estado": "claro"
+    },
+    {
+     "id": "telefono-tarde",
+     "n": 19,
+     "resultados": [
+      {
+       "campo": "foco_tarde_h",
+       "nombre": "Focus hours after 18:00",
+       "unidad": "h",
+       "media_bajo": 1.4,
+       "media_alto": 1.0,
+       "comparacion": {
+        "dif": -0.4,
+        "ic": [
+         -1.1,
+         0.3
+        ],
+        "p": 0.24,
+        "q": 0.36
+       },
+       "claro": false
+      }
+     ],
+     "corte_bajo": 30,
+     "corte_alto": 30,
+     "n_bajo": 8,
+     "n_alto": 11,
+     "media_pred_bajo": 21,
+     "media_pred_alto": 39,
+     "estado": "sin diferencia"
+    }
+   ],
+   "hoy": {},
+   "hora": "04:34"
+  }
+ },
+ "metricas": [
+  {
+   "fecha": "{{D-29}}",
+   "generado": "{{D-29}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 4.6,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 92,
+   "todoist_cerradas": 4,
+   "correo_sin_responder_gmail": 2,
+   "correo_sin_responder_vynmsa": 3,
+   "outreach_enviados": 3,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 310,
+   "juntas": 1,
+   "misa": true,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.25
+  },
+  {
+   "fecha": "{{D-28}}",
+   "generado": "{{D-28}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 5.2,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 104,
+   "todoist_cerradas": 3,
+   "correo_sin_responder_gmail": 6,
+   "correo_sin_responder_vynmsa": 1,
+   "outreach_enviados": 4,
+   "outreach_respuestas": 1,
+   "linkedin_impresiones": 210,
+   "juntas": 1,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-27}}",
+   "generado": "{{D-27}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 4.5,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 74,
+   "todoist_cerradas": 11,
+   "correo_sin_responder_gmail": 5,
+   "correo_sin_responder_vynmsa": 2,
+   "outreach_enviados": 0,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 140,
+   "juntas": 2,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.0
+  },
+  {
+   "fecha": "{{D-26}}",
+   "generado": "{{D-26}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 2.8,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 92,
+   "todoist_cerradas": 11,
+   "correo_sin_responder_gmail": 3,
+   "correo_sin_responder_vynmsa": 4,
+   "outreach_enviados": 3,
+   "outreach_respuestas": 2,
+   "linkedin_impresiones": 140,
+   "juntas": 0,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-25}}",
+   "generado": "{{D-25}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.6,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 74,
+   "todoist_cerradas": 4,
+   "correo_sin_responder_gmail": 4,
+   "correo_sin_responder_vynmsa": 1,
+   "outreach_enviados": 0,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 120,
+   "juntas": 1,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-24}}",
+   "generado": "{{D-24}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.7,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 110,
+   "todoist_cerradas": 4,
+   "correo_sin_responder_gmail": 3,
+   "correo_sin_responder_vynmsa": 2,
+   "outreach_enviados": 3,
+   "outreach_respuestas": 1,
+   "linkedin_impresiones": 140,
+   "juntas": 1,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-23}}",
+   "generado": "{{D-23}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 5.0,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 92,
+   "todoist_cerradas": 9,
+   "correo_sin_responder_gmail": 3,
+   "correo_sin_responder_vynmsa": 4,
+   "outreach_enviados": 3,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 120,
+   "juntas": 0,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.25
+  },
+  {
+   "fecha": "{{D-22}}",
+   "generado": "{{D-22}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.0,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 85,
+   "todoist_cerradas": 3,
+   "correo_sin_responder_gmail": 4,
+   "correo_sin_responder_vynmsa": 3,
+   "outreach_enviados": 0,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 140,
+   "juntas": 0,
+   "misa": true,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.25
+  },
+  {
+   "fecha": "{{D-21}}",
+   "generado": "{{D-21}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.8,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 100,
+   "todoist_cerradas": 8,
+   "correo_sin_responder_gmail": 3,
+   "correo_sin_responder_vynmsa": 4,
+   "outreach_enviados": 4,
+   "outreach_respuestas": 1,
+   "linkedin_impresiones": 210,
+   "juntas": 0,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-20}}",
+   "generado": "{{D-20}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 5.1,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 88,
+   "todoist_cerradas": 9,
+   "correo_sin_responder_gmail": 4,
+   "correo_sin_responder_vynmsa": 2,
+   "outreach_enviados": 3,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 160,
+   "juntas": 2,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.0
+  },
+  {
+   "fecha": "{{D-19}}",
+   "generado": "{{D-19}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.1,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 85,
+   "todoist_cerradas": 11,
+   "correo_sin_responder_gmail": 3,
+   "correo_sin_responder_vynmsa": 1,
+   "outreach_enviados": 2,
+   "outreach_respuestas": 1,
+   "linkedin_impresiones": 85,
+   "juntas": 0,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.0
+  },
+  {
+   "fecha": "{{D-18}}",
+   "generado": "{{D-18}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 4.2,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 88,
+   "todoist_cerradas": 4,
+   "correo_sin_responder_gmail": 3,
+   "correo_sin_responder_vynmsa": 3,
+   "outreach_enviados": 0,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 310,
+   "juntas": 1,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-17}}",
+   "generado": "{{D-17}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": null,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": null,
+   "todoist_cerradas": null,
+   "correo_sin_responder_gmail": null,
+   "correo_sin_responder_vynmsa": null,
+   "outreach_enviados": null,
+   "outreach_respuestas": null,
+   "linkedin_impresiones": null,
+   "juntas": null,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": null
+  },
+  {
+   "fecha": "{{D-16}}",
+   "generado": "{{D-16}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.0,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 92,
+   "todoist_cerradas": 8,
+   "correo_sin_responder_gmail": 5,
+   "correo_sin_responder_vynmsa": 2,
+   "outreach_enviados": 3,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 85,
+   "juntas": 2,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-15}}",
+   "generado": "{{D-15}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.9,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 92,
+   "todoist_cerradas": 4,
+   "correo_sin_responder_gmail": 3,
+   "correo_sin_responder_vynmsa": 1,
+   "outreach_enviados": 5,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 260,
+   "juntas": 1,
+   "misa": true,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-14}}",
+   "generado": "{{D-14}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 4.9,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 78,
+   "todoist_cerradas": 3,
+   "correo_sin_responder_gmail": 3,
+   "correo_sin_responder_vynmsa": 3,
+   "outreach_enviados": 2,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 260,
+   "juntas": 3,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.0
+  },
+  {
+   "fecha": "{{D-13}}",
+   "generado": "{{D-13}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 4.7,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 92,
+   "todoist_cerradas": 4,
+   "correo_sin_responder_gmail": 6,
+   "correo_sin_responder_vynmsa": 2,
+   "outreach_enviados": 5,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 120,
+   "juntas": 1,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.25
+  },
+  {
+   "fecha": "{{D-12}}",
+   "generado": "{{D-12}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 4.1,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 88,
+   "todoist_cerradas": 8,
+   "correo_sin_responder_gmail": 6,
+   "correo_sin_responder_vynmsa": 1,
+   "outreach_enviados": 5,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 310,
+   "juntas": 1,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-11}}",
+   "generado": "{{D-11}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 4.7,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 85,
+   "todoist_cerradas": 6,
+   "correo_sin_responder_gmail": 5,
+   "correo_sin_responder_vynmsa": 2,
+   "outreach_enviados": 2,
+   "outreach_respuestas": 2,
+   "linkedin_impresiones": 85,
+   "juntas": 0,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-10}}",
+   "generado": "{{D-10}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.9,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 85,
+   "todoist_cerradas": 8,
+   "correo_sin_responder_gmail": 4,
+   "correo_sin_responder_vynmsa": 4,
+   "outreach_enviados": 2,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 85,
+   "juntas": 1,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.0
+  },
+  {
+   "fecha": "{{D-9}}",
+   "generado": "{{D-9}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": null,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": null,
+   "todoist_cerradas": null,
+   "correo_sin_responder_gmail": null,
+   "correo_sin_responder_vynmsa": null,
+   "outreach_enviados": null,
+   "outreach_respuestas": null,
+   "linkedin_impresiones": null,
+   "juntas": null,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": null
+  },
+  {
+   "fecha": "{{D-8}}",
+   "generado": "{{D-8}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.2,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 85,
+   "todoist_cerradas": 8,
+   "correo_sin_responder_gmail": 3,
+   "correo_sin_responder_vynmsa": 2,
+   "outreach_enviados": 5,
+   "outreach_respuestas": 1,
+   "linkedin_impresiones": 310,
+   "juntas": 0,
+   "misa": true,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-7}}",
+   "generado": "{{D-7}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 5.1,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 100,
+   "todoist_cerradas": 4,
+   "correo_sin_responder_gmail": 6,
+   "correo_sin_responder_vynmsa": 1,
+   "outreach_enviados": 3,
+   "outreach_respuestas": 2,
+   "linkedin_impresiones": 310,
+   "juntas": 1,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-6}}",
+   "generado": "{{D-6}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 5.1,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 104,
+   "todoist_cerradas": 8,
+   "correo_sin_responder_gmail": 2,
+   "correo_sin_responder_vynmsa": 4,
+   "outreach_enviados": 3,
+   "outreach_respuestas": 1,
+   "linkedin_impresiones": 160,
+   "juntas": 0,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.25
+  },
+  {
+   "fecha": "{{D-5}}",
+   "generado": "{{D-5}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.1,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 78,
+   "todoist_cerradas": 3,
+   "correo_sin_responder_gmail": 3,
+   "correo_sin_responder_vynmsa": 3,
+   "outreach_enviados": 3,
+   "outreach_respuestas": 2,
+   "linkedin_impresiones": 120,
+   "juntas": 3,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-4}}",
+   "generado": "{{D-4}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 4.4,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 100,
+   "todoist_cerradas": 5,
+   "correo_sin_responder_gmail": 5,
+   "correo_sin_responder_vynmsa": 3,
+   "outreach_enviados": 0,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 85,
+   "juntas": 0,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.25
+  },
+  {
+   "fecha": "{{D-3}}",
+   "generado": "{{D-3}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 3.8,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 85,
+   "todoist_cerradas": 6,
+   "correo_sin_responder_gmail": 2,
+   "correo_sin_responder_vynmsa": 2,
+   "outreach_enviados": 0,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 1200,
+   "juntas": 3,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.25
+  },
+  {
+   "fecha": "{{D-2}}",
+   "generado": "{{D-2}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 4.7,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 100,
+   "todoist_cerradas": 7,
+   "correo_sin_responder_gmail": 5,
+   "correo_sin_responder_vynmsa": 2,
+   "outreach_enviados": 4,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 640,
+   "juntas": 0,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  },
+  {
+   "fecha": "{{D-1}}",
+   "generado": "{{D-1}}T23:00",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 5.1,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": 74,
+   "todoist_cerradas": 9,
+   "correo_sin_responder_gmail": 5,
+   "correo_sin_responder_vynmsa": 1,
+   "outreach_enviados": 5,
+   "outreach_respuestas": 0,
+   "linkedin_impresiones": 210,
+   "juntas": 3,
+   "misa": true,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.0
+  },
+  {
+   "fecha": "{{D+0}}",
+   "generado": "{{D+0}}T04:34",
+   "frentes_declarados": "Bentley, Exo, Freelance, Network, Academy application",
+   "foco_real_h": 1.5,
+   "foco_plan_h": 4.0,
+   "foco_cumplido_pct": null,
+   "todoist_cerradas": 2,
+   "correo_sin_responder_gmail": 4,
+   "correo_sin_responder_vynmsa": 2,
+   "outreach_enviados": 0,
+   "outreach_respuestas": 1,
+   "linkedin_impresiones": 95,
+   "juntas": 2,
+   "misa": false,
+   "oracion_plan_h": 0.5,
+   "oracion_real_h": 0.5
+  }
+ ]
+}

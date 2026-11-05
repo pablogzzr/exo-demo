@@ -1,0 +1,104 @@
+{
+ "est-anthropic-agents": {
+  "nombre": "Building effective agents",
+  "ruta": "3 Resources/Study/building-effective-agents_study.md",
+  "texto": "# Building effective agents\n\n## Think about this first\n\nIs the Grupo Ferra assistant an agent, or a workflow with one decision in it? Write which, and why.\n\n## The 80/20\n\nAnthropic's note (December 2024) comes from a year of watching teams build with Claude. Its finding: the teams that shipped used simple, composable patterns, not big frameworks. It makes one distinction, gives five patterns, and ends with three rules.\n\n**The building block.** Everything starts with an *augmented model*: one model call that can search, call tools and remember. Before adding steps, make that one call as good as it can be: a clear prompt, the right context, tools it understands.\n\n**The distinction.** A *workflow* runs steps you wrote, in the order you wrote them; the model fills in the words. An *agent* decides its own steps, calls tools, and loops until it thinks it is done. Agents cost more, fail in new ways, and are harder to explain to a board. Use the workflow until it is clearly not enough.\n\n**The five workflow patterns.**\n1. *Prompt chaining* — one step feeds the next; check between steps. Use it when the task splits cleanly into fixed parts: draft the outline, check it, then write.\n2. *Routing* — classify first, then send each case to the prompt built for it. Use it when cases are different enough that one prompt would serve none of them well: refunds, technical questions, complaints.\n3. *Parallelization* — run the same job several times or split it; vote or merge. Splitting buys speed; voting buys confidence, like three reviewers looking for the same risk.\n4. *Orchestrator–workers* — one model plans and hands out pieces; others do them. Use it when you can't know the pieces in advance, like a code change that touches an unknown number of files.\n5. *Evaluator–optimizer* — one model drafts, another judges, loop a few times. It works when good feedback exists and a human could say clearly what to fix.\n\n**When an agent earns its cost.** When the problem is open-ended, the number of steps can't be predicted, and you trust the model's judgment in that setting. The note's two examples are customer support with real actions (refunds, ticket updates) and coding agents, where tests tell the agent if it worked. Agents also need guardrails: a step limit, a sandbox to test in, and a human checkpoint before anything that can't be undone.\n\n**Where Grupo Ferra sits.** Routing plus a human check: classify the stoppage, draft the report from the template for that class, the supervisor approves. No loop, no tools that write. That is why the board can understand it. Phase two could add an evaluator: a second pass that checks each draft against last month's approved reports before the supervisor sees it.\n\n**The three rules.**\n1. *Keep it simple.* Start with the simplest thing; add a step only when a measured failure demands it. Every added step is a place to explain \"who answers when it is wrong\".\n2. *Show the planning.* When the system decides something, it should say what it decided and why, so a person can catch the mistake early.\n3. *Design the tools like a product.* Anthropic spent more time on the tools than on the prompt for their coding agent. Write each tool's description as if for a new hire, give clear examples, and shape inputs so mistakes are hard to make (absolute file paths instead of relative ones).\n\n**On frameworks.** They make the first demo fast and the first bug slow, because they hide the prompts. Start with direct calls; use a framework only if you understand what it does underneath.\n\n**What it means for Exo.** The 3 a.m. jobs are workflows: chaining and routing, cheap and predictable. Only the council and the prep research earn an agent loop, because there the next step really depends on what they find.\n\n## The words\n\n- **Workflow** — steps you wrote, in your order; the model fills in the words\n- **Agent** — a model that decides its own steps and loops with tools until done\n- **Routing** — classify first, then use the prompt built for that class\n- **Evaluator–optimizer** — one model drafts, another judges, and they loop\n\n## Lo que pensó Pablo\n",
+  "cortada": false,
+  "obsidian": "obsidian://open?vault=Second%20Brain&file=3%20Resources%2FStudy%2Fbuilding-effective-agents_study",
+  "terminos": [
+   {
+    "p": "Workflow",
+    "r": "steps you wrote, in your order; the model fills in the words"
+   },
+   {
+    "p": "Agent",
+    "r": "a model that decides its own steps and loops with tools until done"
+   },
+   {
+    "p": "Routing",
+    "r": "classify first, then use the prompt built for that class"
+   },
+   {
+    "p": "Evaluator–optimizer",
+    "r": "one model drafts, another judges, and they loop"
+   }
+  ]
+ },
+ "est-goldratt-ferra": {
+  "nombre": "The one constraint at Grupo Ferra",
+  "ruta": "3 Resources/Study/the-goal-one-constraint-grupo-ferra_study.md",
+  "texto": "# Goldratt: the one constraint at Grupo Ferra\n\n## Think about this first\n\nIf Grupo Ferra's line stopped three times as often tomorrow, what breaks first? Name the step, not the department.\n\n## The 80/20\n\n*The Goal* is a novel about a plant manager with three months to save his plant. The idea under the story fits on a card: every system has one constraint, and the system's output is that constraint's output. Improving anything else is noise until the constraint moves.\n\n**The five focusing steps.**\n1. *Identify* the constraint. At Ferra: the supervisor's first 40 minutes after a stoppage, spent writing the report.\n2. *Exploit* it: never let the constraint idle. The assistant drafts so the supervisor only approves.\n3. *Subordinate* everything else to it. The ERP, the certificates, the CFO's reports queue behind the inbox.\n4. *Elevate* it: add capacity only after the first three steps. Not yet.\n5. *Repeat*: when the constraint moves, start over. After six weeks it moved to the receiving dock.\n\n**The sentence for the board.** \"Supplier emails were the bottleneck; we did not buy a system, we gave the bottleneck an assistant and a rule.\"\n\n**Where it breaks.** Goldratt measures throughput in money. Ferra's constraint cost hours, not sales, so the board hears \"time saved\" and asks \"and?\". The answer is the backlog: 11 days to 1.\n\n## The words\n\n- **Constraint** — the one step that limits the whole system's output\n- **Throughput** — the rate at which the system turns inputs into money\n- **Subordinate** — make every other step serve the constraint's pace\n\n## Lo que pensó Pablo\n",
+  "cortada": false,
+  "obsidian": "obsidian://open?vault=Second%20Brain&file=3%20Resources%2FStudy%2Fthe-goal-one-constraint-grupo-ferra_study",
+  "terminos": [
+   {
+    "p": "Constraint",
+    "r": "the one step that limits the whole system's output"
+   },
+   {
+    "p": "Throughput",
+    "r": "the rate at which the system turns inputs into money"
+   },
+   {
+    "p": "Subordinate",
+    "r": "make every other step serve the constraint's pace"
+   }
+  ]
+ },
+ "est-slope-over-experience": {
+  "nombre": "Intro to Large Language Models",
+  "ruta": "3 Resources/Study/intro-to-llms_study.md",
+  "texto": "# Karpathy — Intro to Large Language Models\n\n## Think about this first\n\nIf Matthew's founders asked you \"what is ChatGPT, really?\", what would you say in two sentences?\n\n## The 80/20\n\n**What it is.** A large file of numbers trained to predict the next word. Everything else — answering, writing, reasoning — comes out of doing that one thing very well.\n\n**How it is made.** First it reads a huge slice of the internet (pre-training); then people show it thousands of good conversations so it behaves like an assistant (fine-tuning).\n\n**Why it sometimes makes things up.** It predicts what sounds right, not what it knows is true. That is why Exo always shows its sources from your notes.\n\n**Why it matters for you this week.** Matthew wants someone who can explain AI to engineers without the hype. This is the two-minute version.\n\n## The words\n\n- **Next-token prediction** — what an LLM does: guess the next piece of text, over and over\n- **Pre-training vs fine-tuning** — reading the internet to learn language, then examples to learn to be an assistant\n\n## Lo que pensó Pablo\n",
+  "cortada": false,
+  "obsidian": "obsidian://open?vault=Second%20Brain&file=3%20Resources%2FStudy%2Fslope-over-experience_study",
+  "terminos": [
+   {
+    "p": "Next-token prediction",
+    "r": "what an LLM does: guess the next piece of text, over and over"
+   },
+   {
+    "p": "Pre-training vs fine-tuning",
+    "r": "reading the internet to learn language, then a smaller set of examples to learn to be an assistant"
+   }
+  ]
+ },
+ "est-polymaths-reel": {
+  "nombre": "Do things that don’t scale",
+  "ruta": "3 Resources/Study/do-things-that-dont-scale_study.md",
+  "texto": "# Paul Graham — Do things that don't scale\n\n## Think about this first\n\nHow did you get Grupo Ferra? Write the three things you did by hand.\n\n## The 80/20\n\n**The idea.** Startups don't take off on their own. The founders go out and recruit the first users one by one, and do things for them no big company would.\n\n**The examples.** Airbnb's founders went door to door in New York photographing apartments. Stripe's founders installed the product on people's laptops on the spot.\n\n**Why it matters for you.** Ferra came from sitting with supervisors on the floor, not from a website. The next two clients will come the same way — that is what Outreach is for.\n\n## The words\n\n- **Do things that don't scale** — win the first users by hand, one at a time, before building the machine\n\n## Lo que pensó Pablo\n",
+  "cortada": false,
+  "obsidian": "obsidian://open?vault=Second%20Brain&file=3%20Resources%2FStudy%2Fpolymaths-reel_study",
+  "terminos": [
+   {
+    "p": "Do things that don’t scale",
+    "r": "win the first users by hand, one at a time, before building the machine"
+   }
+  ]
+ },
+ "est-context-windows": {
+  "nombre": "What a context window is",
+  "ruta": "3 Resources/Study/context-windows_study.md",
+  "texto": "# What a context window is, and why Exo forgets\n\n## Think about this first\n\nWhen Exo \"forgot\" the Ferra pricing last week, where was that fact at the moment it answered?\n\n## The 80/20\n\nA context window is everything the model can read at once for one answer. Not in the window, not in the answer. Every agent of Exo starts empty and gets a window filled from files; what the file does not say, the agent cannot know.\n\n## The words\n\n- **Context window** — everything the model can read at once; what is not in it does not exist for that answer\n\n## Lo que pensó Pablo\n\n**Before reading · {{G-12}} 21:10**\nI think it forgot because the note was old.\n\n**In my words · {{G-12}} 21:40**\nWrong. It forgot because the note was never in the window. The fix is not a better memory; it is a job that puts the right file in front of the right agent. That is what `sincronia` does, and why the live files exist.\n",
+  "cortada": false,
+  "obsidian": "obsidian://open?vault=Second%20Brain&file=3%20Resources%2FStudy%2Fcontext-windows_study",
+  "terminos": [
+   {
+    "p": "Context window",
+    "r": "everything the model can read at once; what is not in it does not exist for that answer"
+   }
+  ]
+ },
+ "est-subsidiarity": {
+  "nombre": "Subsidiarity as a design rule",
+  "ruta": "3 Resources/Study/subsidiarity-design-rule_study.md",
+  "texto": "# Subsidiarity as a design rule\n\n## Think about this first\n\nWho decides what the Ferra assistant may answer alone: Daniela, the CFO, or the supervisor?\n\n## The 80/20\n\nSubsidiarity: a decision belongs to the person it lands on; a higher level steps in only when the lower one cannot. As a design rule for AI: ask the most affected, not the most important, and let them set the limits.\n\n## The words\n\n- **Subsidiarity** — a decision belongs to the person it lands on\n\n## Lo que pensó Pablo\n\n**In my words · {{G-9}} 22:05**\nThe supervisor, and I had it backwards: I was going to ask Daniela. The rule is the answer to her first question, and it is also why the pilot worked: the people on the floor set the limit, so they trusted it.\n",
+  "cortada": false,
+  "obsidian": "obsidian://open?vault=Second%20Brain&file=3%20Resources%2FStudy%2Fsubsidiarity-design-rule_study",
+  "terminos": [
+   {
+    "p": "Subsidiarity",
+    "r": "a decision belongs to the person it lands on"
+   }
+  ]
+ }
+}
