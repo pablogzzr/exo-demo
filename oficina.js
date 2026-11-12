@@ -6,9 +6,9 @@
    with the proof; yellow = works, but needs a decision only he can make or hasn't been useful lately (quiet: shown
    only here); grey = not its day, or he starts it. Three.js is vendored (/vendor/three.min.js, global THREE). */
 import { $, $$, esc, api, toast, ST, reportMiss } from './app.js';
-import { oficina3d } from './oficina3d.js';
+import { isla3d } from './isla3d.js';   /* the agents map is the island (was the office, oficina3d) */
 let O3 = null; const DECIDED = {};
-async function office(stage) { if (!stage) return; try { await loadThree(); } catch (_) { pueblo(stage); return; } if (O3) O3.destroy(); O3 = oficina3d(stage, salud(), id => elegir(id)); if (!O3) pueblo(stage); else Object.keys(DECIDED).forEach(id => O3.fix(id)); }
+async function office(stage) { if (!stage) return; try { await loadThree(); } catch (_) { pueblo(stage); return; } if (O3) O3.destroy(); O3 = isla3d(stage, salud(), id => elegir(id)); if (!O3) pueblo(stage); else Object.keys(DECIDED).forEach(id => O3.fix(id)); }
 
 const ORQ = {
   mantenimiento: { name: 'Upkeep', color: 0x5EE6B0, css: '#5EE6B0' },
@@ -25,8 +25,10 @@ export const _debug = () => W;
 let SEL = null;
 
 function loadThree() {
-  if (window.THREE) return Promise.resolve();
-  return new Promise((ok, no) => { const s = document.createElement('script'); s.src = './vendor/three.min.js'; s.onload = ok; s.onerror = no; document.head.appendChild(s); });
+  if (window.THREE && window.THREE.UnrealBloomPass) return Promise.resolve();
+  const one = f => new Promise((ok, no) => { const s = document.createElement('script'); s.src = './vendor/' + f; s.onload = ok; s.onerror = no; document.head.appendChild(s); });
+  const fs = ['CopyShader.js', 'LuminosityHighPassShader.js', 'EffectComposer.js', 'RenderPass.js', 'ShaderPass.js', 'UnrealBloomPass.js'];
+  return (window.THREE ? Promise.resolve() : one('three.min.js')).then(() => window.THREE.UnrealBloomPass ? null : fs.reduce((p, f) => p.then(() => one(f)), Promise.resolve()));
 }
 
 /* ── the data ──────────────────────────────────────────────────────────────── */
