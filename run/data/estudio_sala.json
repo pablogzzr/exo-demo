@@ -1,6 +1,22 @@
 {
  "items": [
   {
+   "icono": "🎥",
+   "titulo": "Jon McNeill — The impossible speed of Elon Musk",
+   "por_que": "How Tesla made speed a habit: feedback loops, three-sentence emails, bad news the same day — with the clips that carry it",
+   "tiempo": "~12 min",
+   "suyo_envio": true,
+   "nota": "mcneill-impossible-speed-of-elon-musk",
+   "id": "est-mcneill-speed-musk",
+   "linea": 1,
+   "crudo": "- [ ] 🎥 **Jon McNeill — The impossible speed of Elon Musk** — How Tesla made speed a habit: feedback loops, three-sentence emails, bad news the same day — with the clips that carry it · you sent it · ~12 min · [[mcneill-impossible-speed-of-elon-musk]] <!-- est-mcneill-speed-musk · {{D-1}} · IU -->",
+   "estado": "pendiente",
+   "cuadrante": "iu",
+   "suyo": false,
+   "fecha": "{{G-1}}",
+   "correlo": "Deep study session (~1.5 h): Jon McNeill — The impossible speed of Elon Musk (The Knowledge Project).\n\nContext: I'm Pablo, from Monterrey, a first-year at Bentley in Boston. I do AI consulting for a ~200-person manufacturer (Grupo Ferra) and I built Exo, my personal AI chief of staff, with Claude Code without being a programmer. I already read the 80/20 note on this in my study queue.\n\nRun it in three blocks:\n1. (20 min) Ask me five questions that test whether I understood the mechanism, one at a time. Don't give the answer until I try.\n2. (45 min) Go deeper on: feedback loops and the three-sentence email. Show me where the speed culture breaks.\n3. (25 min) Make me apply it to Grupo Ferra or to Exo, in writing, and critique what I write.\n\nEnglish, direct, no filler."
+  },
+  {
    "icono": "📄",
    "titulo": "Anthropic — Building effective agents",
    "por_que": "Before you promise Daniela an \"agent\": the difference between a workflow and an agent, and why the simplest thing that works wins",

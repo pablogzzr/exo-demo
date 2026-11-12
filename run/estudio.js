@@ -21,8 +21,12 @@ function words(t){ return String(t||'').trim().split(/\s+/).filter(Boolean).leng
 function fmtDate(d){ return d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'}); }
 
 /* markdown → html (the same small renderer Exo uses for the note pop-up) */
+/* a picture in a study note: ![what it shows](img/x.svg), relative to the note's folder (2026-11-11) */
+let IMG_BASE='';
+function imgSrc(src){ src=src.replace(/&amp;/g,'&'); if(/^[a-z]+:/i.test(src)||src.includes('..')) return null; const parts=(IMG_BASE?IMG_BASE.split('/'):[]).concat(src.split('/')); return 'data/img/'+encodeURIComponent(parts.pop()); }   /* demo: the note's pictures ship in data/img/ */
 function inl(t){
   let h=esc(t);
+  h=h.replace(/!\[([^\]]*)\]\(([^\s)]+)\)/g,(m,alt,src)=>{ const u=imgSrc(src); return u?`<figure><img src="${esc(u)}" alt="${alt}" loading="lazy">${alt?`<figcaption>${alt}</figcaption>`:''}</figure>`:alt; });
   h=h.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g,(_,n,a)=>`<span class="t2">${a||n}</span>`);
   h=h.replace(/\[([^\]]+)\]\(([^\s)]+)\)/g,(m,txt,url)=>{ const u=url.replace(/&amp;/g,'&'); return SAFE.test(u)?`<a href="${esc(u)}" target="_blank" rel="noopener">${txt}</a>`:txt; });
   h=h.replace(/`([^`]+)`/g,'<code>$1</code>');
@@ -55,7 +59,7 @@ function nextPick(){ const o=openItems().slice().sort((a,b)=>(Q_ORDER[a.cuadrant
 function segs(total,on,half){ let h='<div class="seg">'; for(let i=0;i<total;i++) h+=`<i class="${i<on?'on':i<on+(half||0)?'half':''}"></i>`; return h+'</div>'; }
 const Q_TAG={iu:['Due','hot'],in:['Important',''],nu:['Good to have',''],nn:['Good to have','']};
 function rowHtml(it,n){ const mt=[]; const tg=Q_TAG[it.cuadrante]||Q_TAG.nn; mt.push(`<span class="qtag ${tg[1]}">${tg[0]}</span>`);
-  return `<div class="row${S.focus===it.id?' focus':''}" data-id="${esc(it.id)}" tabindex="0" role="button"><div class="ic">${n!=null?n:esc(it.icono||'·')}</div><div><div class="tt">${esc(it.titulo)}</div>${it.por_que?`<div class="why">${esc(it.por_que)}</div>`:''}${mt.length?`<div class="mt">${mt.join('<span class="mu">·</span>')}</div>`:''}</div><div class="time">${esc(it.tiempo||'')}</div></div>`; }
+  return `<div class="row${S.focus===it.id?' focus':''}" data-id="${esc(it.id)}" tabindex="0" role="button"><div class="ic">${n!=null?n:esc(it.icono||'·')}</div><div><div class="tt">${inl(it.titulo)}</div>${it.por_que?`<div class="why">${esc(it.por_que)}</div>`:''}${mt.length?`<div class="mt">${mt.join('<span class="mu">·</span>')}</div>`:''}</div><div class="time">${esc(it.tiempo||'')}</div></div>`; }
 function renderRoom(){
   const d=S.data, open=openItems(), pick=nextPick();
   if(pick&&!open.some(i=>i.id===S.focus)) S.focus=pick.id;
@@ -63,7 +67,7 @@ function renderRoom(){
   const tracks=(d.pistas||[]).map(p=>{ const on=p.aprendidos||0, half=p.con_fila!=null?Math.max(0,p.con_fila-on):0; return `<div class="pista"><div class="nm"><b>${esc(p.nombre)}</b><span class="mu">${on} of ${p.total} learned${p.con_fila!=null?` · ${p.con_fila} on the board`:''}</span></div>${segs(p.total,on,half)}</div>`; }).join('');
   let html=`<div class="grid"><div>
     <section class="box active"><div class="legend"><span class="n">Your next pick</span></div>
-      ${pick?`<div class="next"><div class="t">${esc(pick.icono)} ${esc(pick.titulo)}</div>${pick.por_que?`<div class="why">${esc(pick.por_que)}</div>`:''}<div class="meta"><span>${esc(Q_LABEL[pick.cuadrante]||'')}</span>${pick.tiempo?`<span>${esc(pick.tiempo)}</span>`:''}</div><div class="acts"><button class="b big" data-open="${esc(pick.id)}">Open it<span class="kchip" style="color:var(--bg);border-color:rgba(0,0,0,.3)">↵</span></button></div></div>`
+      ${pick?`<div class="next"><div class="t">${esc(pick.icono)} ${inl(pick.titulo)}</div>${pick.por_que?`<div class="why">${esc(pick.por_que)}</div>`:''}<div class="meta"><span>${esc(Q_LABEL[pick.cuadrante]||'')}</span>${pick.tiempo?`<span>${esc(pick.tiempo)}</span>`:''}</div><div class="acts"><button class="b big" data-open="${esc(pick.id)}">Open it<span class="kchip" style="color:var(--bg);border-color:rgba(0,0,0,.3)">↵</span></button></div></div>`
             :'<div class="empty">The queue is empty. Say "add this to my study queue" in any chat.</div>'}
     </section>
     <section class="box"><div class="legend"><span class="n">Up next</span><span class="mu">ranked by Exo · ${byQ.in.length} important · ${byQ.nu.length+byQ.nn.length} good to have</span></div>
@@ -71,7 +75,7 @@ function renderRoom(){
     </section></div>
     <aside><section class="box"><div class="legend"><span class="n">Your tracks</span></div>${tracks||'<div class="empty">No track yet.</div>'}</section>
     <section class="box"><div class="legend"><span class="n">So far</span></div><div class="counts"><span><b>${d.aprendidos}</b> learned</span><span><b>${d.no_utiles}</b> not useful</span><span><b>${d.abiertos}</b> open</span></div>
-</section></aside></div>`;
+      <div class="mu" style="font-size:11px;margin-top:10px">Keys: J K move · ↵ open · L learned · X not useful · R copy the go-deeper prompt · Esc back</div></section></aside></div>`;
   $('#room').innerHTML=html; $('#room').style.display=''; $('#reader').style.display='none'; $('#btnBack').style.display='none'; $('#bar').innerHTML=pick?`<button class="b big" data-open="${esc(pick.id)}">Open your next pick</button>`:''; }
 
 /* ───── one card: before reading → reader → learned ───── */
@@ -90,7 +94,7 @@ function saveBefore(){ const t=$('#before').value.trim(); if(!t) return renderRe
   post('/api/estudio/pensar',{nota:S.note.ruta,texto:t,cuando:'antes'}).then(()=>{ S.busy=false; S.note.texto=S.note.texto.replace(/(## Lo que pensó Pablo[^\n]*\n)/,'$1\n**Before reading · now**\n'+t+'\n'); toast('Saved into the note.'); renderRead(); }).catch(e=>{ S.busy=false; toast(e.message,true); }); }
 function renderRead(){
   S.view='read'; const sec=sections(S.note.texto); const mine=sec['lo que pensó pablo']||'';
-  const body=S.note.texto.replace(/^#\s.*\n/m,'');
+  const body=S.note.texto.replace(/^#\s.*\n/m,''); IMG_BASE=(S.note.ruta||'').split('/').slice(0,-1).join('/');
   $('#reader').innerHTML=head()+`<div class="rd-grid"><article class="note">${md(body)}${S.note.cortada?'<p class="mu">(the note was cut — it is very long)</p>':''}</article>
     <aside class="side"><section class="box active"><div class="legend"><span class="n">When you finish</span></div><div class="acts">
       <button class="b ok" data-act="learned">✓ Learned<span class="kchip">L</span></button>

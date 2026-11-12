@@ -53,6 +53,7 @@ textarea:focus{border-color:var(--amber)}
 .box{position:relative;border:1px solid var(--line);background:var(--tile);padding:22px 2ch 16px;margin-bottom:22px;transition:border-color .3s}
 .legend{position:absolute;top:-.8em;left:1.5ch;background:var(--bg);padding:0 1ch;font-size:11px;display:flex;gap:1.5ch;align-items:center;white-space:nowrap}
 .legend .n{color:var(--tx-2);letter-spacing:.09em;text-transform:uppercase}
+.legend{max-width:calc(100% - 3ch)}.legend .n{flex:none}.legend .mu{overflow:hidden;text-overflow:ellipsis}   /* 2026-11-11: the Up next count no longer runs off a phone */
 .box.active{border-color:var(--amber)}.box.active>.legend .n{color:var(--amber)}
 
 /* buttons: soft raised, pressed in when done (neumorphism as garnish) */
@@ -121,6 +122,9 @@ textarea:focus{border-color:var(--amber)}
 .note em{color:var(--tx-2)}
 .note strong{font-weight:500;color:#fff}
 .note a{color:var(--mint);border-bottom:1px solid var(--mint-dim)}
+.note figure{margin:6px 0 18px}
+.note figure img{display:block;width:100%;max-width:760px;height:auto;border-radius:10px;border:1px solid var(--line)}
+.note figcaption{font-size:12px;color:var(--tx-2);margin-top:6px}
 .note a:hover{border-bottom-color:var(--mint)}
 .note blockquote{border-left:2px solid var(--line-2);padding-left:1.5ch;color:var(--tx-2);margin:0 0 12px}
 .note code{background:var(--tile-3);padding:0 .5ch;border-radius:3px;font-size:12px}
